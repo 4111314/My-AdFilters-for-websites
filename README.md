@@ -1,5 +1,5 @@
 # My-AdFilters-for-websites
-对于一些网站的屏蔽列表，通过Ublock Origin和X浏览器等
+对于一些网站的屏蔽列表，支持Ublock Origin和X浏览器等
 
 1.txt里面是长年炮制假新闻，反华反共反人类的网站
 
