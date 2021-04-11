@@ -5,7 +5,9 @@
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
+hao123.com
 hao.360.com
 2345.com
 duba.com
 3721dh.com
+
