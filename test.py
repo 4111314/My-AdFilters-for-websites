@@ -8,3 +8,5 @@ example.com
 abc.com
 
 def.com
+
+!如果raw里面多出了def.com，则raw过一段时间会自己同步
