@@ -6,3 +6,5 @@
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 example.com
 abc.com
+
+def.com
