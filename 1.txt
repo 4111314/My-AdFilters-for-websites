@@ -33,4 +33,5 @@ myptt.cc
 rfi.fr
 voachinese.com
 voacantonese.com
+voanews.com
 rti.org.tw
