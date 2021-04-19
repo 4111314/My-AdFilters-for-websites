@@ -39,5 +39,5 @@ ftchinese.com
 
 
 
-learnfalungong.com/
-tui.ddns.net/
+learnfalungong.com
+tui.ddns.net
