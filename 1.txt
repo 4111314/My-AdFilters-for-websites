@@ -23,16 +23,24 @@ ftchinese.com
 hk01.com
 hkcnews.com
 hrw.org
+learnfalungong.com
 myptt.cc
 ned.org
+newtalk.tw
 nytimes.com
 pincong.rocks
 ptt.cc
+redballoonsolidarity.org
 rfa.org
 rferl.org
+rfi.fr
+rti.org.tw
 rsf.org
+
 theepochtimes.com
 tibet.net
+
+upmedia.mg
 voacantonese.com
 voachinese.com
 voanews.com
@@ -53,22 +61,22 @@ voanews.com
 yzzk.com
 
 
-rfi.fr
 
-rti.org.tw
+
+
 
 wsj.com
 
-upmedia.mg
+
 frontlinedefenders.org
 matters.news
 thenewslens.com
 
 cna.com.tw
 rthk.hk
-newtalk.tw
-redballoonsolidarity.org
-learnfalungong.com
+
+
+
 tui.ddns.net
 
 udn.com
