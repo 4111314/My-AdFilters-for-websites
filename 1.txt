@@ -33,6 +33,8 @@ myptt.cc
 rfi.fr
 voachinese.com
 voacantonese.com
+
+!以下AC-baidu尚未进行屏蔽
 voanews.com
 rti.org.tw
 ftchinese.com
