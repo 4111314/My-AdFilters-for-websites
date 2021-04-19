@@ -58,3 +58,8 @@ storm.mg
 !以下AC-baidu尚未进行屏蔽
 ftchineselive.com
 iset.com.tw
+ftvnews.com.tw
+
+
+
+
