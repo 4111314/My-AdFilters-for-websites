@@ -11,6 +11,7 @@ bannedbook.org
 bbc.com
 chinadigitaltimes.net
 chinesefeminism.org
+cna.com.tw
 cnn.com
 cw.com.tw
 dalailama.com
@@ -19,11 +20,14 @@ epochtimes.com
 falundafa.org
 freedomhouse.org
 freetibet.org
+frontlinedefenders.org
 ftchinese.com
 hk01.com
 hkcnews.com
 hrw.org
 learnfalungong.com
+ltn.com.tw
+matters.news
 myptt.cc
 ned.org
 newtalk.tw
@@ -36,15 +40,18 @@ rferl.org
 rfi.fr
 rti.org.tw
 rsf.org
-
+rthk.hk
+storm.mg
 theepochtimes.com
+thenewslens.com
 tibet.net
-
+tui.ddns.net
+udn.com
 upmedia.mg
 voacantonese.com
 voachinese.com
 voanews.com
-
+wsj.com
 
 
 
@@ -65,24 +72,24 @@ yzzk.com
 
 
 
-wsj.com
-
-
-frontlinedefenders.org
-matters.news
-thenewslens.com
-
-cna.com.tw
-rthk.hk
 
 
 
-tui.ddns.net
 
-udn.com
 
-ltn.com.tw
-storm.mg
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 !以下AC-baidu尚未进行屏蔽
 ftchineselive.com
