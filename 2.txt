@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210411
+! Version: 20210420
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
+123.sogou.com
+2345.com
+3721dh.com
+daohang.qq.com
+duba.com
 hao123.com
 hao.360.com
-2345.com
-duba.com
-daohang.qq.com
-123.sogou.com
 uc123.com/
-3721dh.com
