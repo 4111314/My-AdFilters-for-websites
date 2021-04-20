@@ -9,6 +9,9 @@ amnesty.org
 appledaily.com
 bannedbook.org
 bbc.com
+beijingspring.com
+bjs.org
+cdef.org
 chinadigitaltimes.net
 chinesefeminism.org
 cna.com.tw
@@ -16,6 +19,7 @@ cnn.com
 cw.com.tw
 dalailama.com
 dw.com
+eatnews.com
 epochtimes.com
 falundafa.org
 freedomhouse.org
@@ -36,6 +40,7 @@ myptt.cc
 ned.org
 newtalk.tw
 nytimes.com
+pekinger-fruehling.univie.ac.at
 pincong.rocks
 ptt.cc
 redballoonsolidarity.org
@@ -46,6 +51,7 @@ rti.org.tw
 rsf.org
 rthk.hk
 storm.mg
+taiwannews.com.tw
 theepochtimes.com
 thenewslens.com
 tibet.net
@@ -57,20 +63,3 @@ voachinese.com
 voanews.com
 wsj.com
 yzzk.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
