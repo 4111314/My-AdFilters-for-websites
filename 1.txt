@@ -22,9 +22,12 @@ freedomhouse.org
 freetibet.org
 frontlinedefenders.org
 ftchinese.com
+ftchineselive.com
+ftvnews.com.tw
 hk01.com
 hkcnews.com
 hrw.org
+iset.com.tw
 learnfalungong.com
 ltn.com.tw
 matters.news
@@ -64,10 +67,8 @@ yzzk.com
 
 
 
-!以下AC-baidu尚未进行屏蔽
-ftchineselive.com
-iset.com.tw
-ftvnews.com.tw
+
+
 
 
 
