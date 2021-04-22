@@ -5,6 +5,7 @@
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
+aboluowang.com
 almightygodisknockingyourdoor.blogspot.com
 amnesty.org
 appledaily.com
@@ -12,9 +13,12 @@ bannedbook.org
 bbc.com
 beijingspring.com
 bjs.org
+botanwang.com
 cdef.org
 chinadigitaltimes.net
+chinainperspective.com
 chinesefeminism.org
+chinesepen.org
 clb.org.hk
 cna.com.tw
 cnn.com
@@ -45,10 +49,15 @@ kingdomsalvation.org
 learnfalungong.com
 ltn.com.tw
 matters.news
+mingjingnews.com
+msguancha.com
+my.cnd.org
 myptt.cc
 ned.org
 newtalk.tw
 nytimes.com
+open.com.hk
+pao-pao.net
 pekinger-fruehling.univie.ac.at
 pincong.rocks
 ptt.cc
@@ -60,6 +69,7 @@ rfi.fr
 rti.org.tw
 rsf.org
 rthk.hk
+secretchina.com
 storm.mg
 taiwannews.com.tw
 theepochtimes.com
@@ -71,5 +81,6 @@ upmedia.mg
 voacantonese.com
 voachinese.com
 voanews.com
+wrchina.org
 wsj.com
 yzzk.com
