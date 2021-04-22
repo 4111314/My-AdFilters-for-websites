@@ -18,6 +18,7 @@ clb.org.hk
 cna.com.tw
 cnn.com
 cw.com.tw
+dailymotion.com
 dalailama.com
 dw.com
 eatnews.com
@@ -29,12 +30,15 @@ frontlinedefenders.org
 ftchinese.com
 ftchineselive.com
 ftvnews.com.tw
+godfootsteps.org
+hidden-advent.org
 hk01.com
 hkcnews.com
 hkhkhk.com
 hrw.org
 independent.co.uk
 iset.com.tw
+kingdomsalvation.org
 learnfalungong.com
 ltn.com.tw
 matters.news
