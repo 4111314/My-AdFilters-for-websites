@@ -17,6 +17,7 @@ botanwang.com
 cdef.org
 chinadigitaltimes.net
 chinainperspective.com
+chinanewsx.com
 chinesefeminism.org
 chinesepen.org
 clb.org.hk
