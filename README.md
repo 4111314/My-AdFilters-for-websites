@@ -33,7 +33,7 @@ AC-baidu脚本需要安装油猴，有许多功能，具体介绍请移步：htt
 
 Ublock Origin和X浏览器用于拦截网站，AC-baidu脚本和uBlacklist用于拦截搜索引擎（特别是谷歌）的搜索结果。
 
-三、屏蔽列表介绍
+# 三、屏蔽列表介绍
 
 1.txt里面是长年炮制假新闻，反华反共反人类的网站、恐怖组织、邪教组织或者是作为意识形态传播工具的政治战心理战部队、媒体、NGO等
 
@@ -69,7 +69,7 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 如果将example.com添加到AC-baidu脚本屏蔽列表中，那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被拦截。
 
-四、具体操作
+# 四、具体操作
 
 Ublock Origin（待续）
 
@@ -79,7 +79,7 @@ X浏览器（待续）
 
 AC-baidu脚本请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
-五、其他
+# 五、其他
 
 如果有人想订阅规则的话，可以直接用。
 
@@ -89,7 +89,7 @@ AC-baidu脚本请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blo
 
 是否更新取决于有没有新发现以及我有没有时间等。
 
-六、感谢名单
+# 六、感谢名单
 
 https://github.com/gorhill/uBlock
 
