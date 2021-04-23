@@ -70,7 +70,7 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 ## 4.AC-baidu
 
-同https://github.com/4111314/My-AdFilters-for-websites/blob/main/README.md#1ublock-origin-1
+同Ublock Origin
 
 ## 5.附加说明
 
