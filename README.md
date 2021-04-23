@@ -7,13 +7,17 @@
 
 屏蔽分两部分，一部分是屏蔽网站本身，让这些网站本身就打不开；另一方面是在搜索引擎（特别是谷歌）的搜索结果中屏蔽这些网站的链接。
 
-二、使用的工具
+二、使用的工具介绍
 
 使用的工具包括Ublock Origin，uBlacklist，X浏览器和AC-baidu脚本
 
-Ublock Origin是一款浏览器扩展，支持桌面端主流浏览器（旧版Microsoft Edge，新版Microsoft Edge，Safari，Chrome，Firefox，Opera等）
+1.Ublock Origin是一款浏览器扩展，支持桌面端主流浏览器（旧版Microsoft Edge，新版Microsoft Edge，Safari，Chrome，Firefox，Opera等）和安卓端部分浏览器（Firefox完全适配；Kiwi经测试应该完全兼容；Yandex没试过）。它本身是用于广告拦截的，但是可以通过拦截域名来实现对网站的拦截，我这里就使用了这个功能。
 
-三、具体介绍
+2.
+
+3.
+
+三、屏蔽列表介绍
 
 1.txt里面是长年炮制假新闻，反华反共反人类的网站，或者是作为意识形态传播工具的政治战心理战部队、媒体、NGO等
 
@@ -26,9 +30,13 @@ Ublock Origin是一款浏览器扩展，支持桌面端主流浏览器（旧版M
 Xbrowser_n.txt是专为X浏览器准备的。X浏览器不是Ublock Origin，经过实际测试，似乎不能只输入一个短的域名就拦截所有的类似网站。所以搞一个完整版的。
 
 uBlacklist是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索的结果，使之在搜索结果中不出现。
+
 uBlacklist_n.txt就是为这个扩展准备的。但我已经决定采用AC-baidu脚本来解决这个问题，而且github上已经有人为这个扩展准备了屏蔽内容农场的列表。
-可以移步去那个项目那里：https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+
+可以移步去那个项目：https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+
 按照项目中的描述，他已经收集了四年多，我看了一下，超过1000个，绝对比我现在收集的更全。我准备如果我又发现内容农场，我就去那个项目那边告诉他。
+
 所以这个文件现在已经停止更新。
 
 因为桌面端和移动端进行拦截的工具和原理都不一样，包括需要应对的威胁也不一样，所以两边的不完全通用。
