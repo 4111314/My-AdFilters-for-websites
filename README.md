@@ -49,15 +49,15 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 附加说明
 
-以下均以example.com,123.example.com和123.example.com/456 这三个域名为例。纯粹只是举个例子，如果冒犯到了网站的所有者，纯属偶然。
+以下均以example.com,123.example.com和123.example.com/456 这三个域名为例。纯粹只是举个例子，如果确实存在如上的网站，纯属偶然。
 
-如果将添加到屏蔽列表中，那么
+如果将example.com添加到Ublock Origin屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。
 
-如果将添加到屏蔽列表中，那么
+如果将example.com添加到uBlacklist屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。但是要注意语法。
 
-如果将添加到屏蔽列表中，那么
+如果将example.com添加到X浏览器屏蔽列表中，那么example.com,123.example.com和123.example.com/456会被拦截，但不会被拦截。
 
-如果将添加到屏蔽列表中，那么
+如果将example.com添加到AC-baidu脚本屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。
 
 四、具体操作
 
