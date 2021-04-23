@@ -1,5 +1,5 @@
 # My-AdFilters-for-websites
-对于一些网站的屏蔽列表，支持Ublock Origin和X浏览器等
+对于一些网站的屏蔽列表，支持Ublock Origin，X浏览器，uBlacklist和AC-baidu脚本
 
 # 一、项目原因与目标
 
