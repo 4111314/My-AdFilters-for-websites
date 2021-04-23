@@ -6,6 +6,7 @@
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
 123.sogou.com
+2345.cc
 2345.com
 360.com
 360.cn
