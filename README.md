@@ -13,6 +13,12 @@
 
 Ublock Origin是一款浏览器扩展，支持桌面端主流浏览器（旧版Microsoft Edge，新版Microsoft Edge，Safari，Chrome，Firefox，Opera等）和安卓端部分浏览器（Firefox完全适配；Kiwi经测试应该完全兼容；Yandex没试过）。它本身是用于广告拦截的，但是可以通过拦截域名来实现对网站的拦截，我这里就使用了这个功能。
 
+安装请移步：
+https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
+https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/
+https://addons.opera.com/zh-cn/extensions/details/ublock/
+
 uBlacklist是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索的结果，使之在搜索结果中不出现。该扩展同时也会对DuckDuckGo和Startpage起作用。
 
 X浏览器只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
@@ -53,23 +59,29 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 如果将example.com添加到Ublock Origin屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。
 
-如果将example.com添加到uBlacklist屏蔽列表中（但是要注意语法！），那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被拦截。
+如果将example.com添加到uBlacklist屏蔽列表中（但是要注意语法！），那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被屏蔽。
 
-如果将example.com添加到X浏览器屏蔽列表中，那么example.com,123.example.com和123.example.com/456会被拦截，但不会被拦截。
+如果将example.com添加到X浏览器屏蔽列表中，那么example.com会被拦截，但123.example.com和123.example.com/456不会被拦截。
 
 如果将example.com添加到AC-baidu脚本屏蔽列表中，那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被拦截。
 
 四、具体操作
 
+Ublock Origin（待续）
 
+uBlacklist请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
-五、
+X浏览器（待续）
+
+AC-baidu脚本请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+
+五、其他
 
 如果有人想订阅规则的话，可以直接用。
 
 如果想转载，请注明出处。
 
-如果有其他网站符合两个文本文档里描述的情况的话，可以在issues里通知我，我看到了后会评估是否加上去。
+如果有其他网站符合描述的情况的话，可以在issues里通知我，我看到了后会评估是否加上去。
 
 六、感谢名单
 
