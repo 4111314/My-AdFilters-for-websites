@@ -14,7 +14,7 @@
 Ublock Origin是一款浏览器扩展，支持桌面端主流浏览器（旧版Microsoft Edge，新版Microsoft Edge，Safari，Chrome，Firefox，Opera等）和安卓端部分浏览器（Firefox完全适配；Kiwi经测试应该完全兼容；Yandex没试过）。它本身是用于广告拦截的，但是可以通过拦截域名来实现对网站的拦截，我这里就使用了这个功能。
 
 安装请移步：
-https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
+https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak 
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/
 https://addons.opera.com/zh-cn/extensions/details/ublock/
