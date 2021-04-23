@@ -31,6 +31,7 @@ https://addons.opera.com/zh-cn/extensions/details/ublock/
 
 ## 3.X浏览器
 只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
+
 **X浏览器他的拦截网站只能适用于X浏览器本身!** 
 
 ## 4.AC-baidu脚本
