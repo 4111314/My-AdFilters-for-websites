@@ -53,11 +53,11 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 如果将example.com添加到Ublock Origin屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。
 
-如果将example.com添加到uBlacklist屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。但是要注意语法。
+如果将example.com添加到uBlacklist屏蔽列表中（但是要注意语法！），那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被拦截。
 
 如果将example.com添加到X浏览器屏蔽列表中，那么example.com,123.example.com和123.example.com/456会被拦截，但不会被拦截。
 
-如果将example.com添加到AC-baidu脚本屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。
+如果将example.com添加到AC-baidu脚本屏蔽列表中，那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被拦截。
 
 四、具体操作
 
