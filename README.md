@@ -17,8 +17,11 @@ uBlacklist是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索�
 
 X浏览器只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
 
-AC-baidu脚本
+AC-baidu脚本有许多功能，具体请移步：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
 
+桌面端浏览器可使用Ublock Origin，uBlacklist和AC-baidu脚本；安卓端可使用X浏览器、Ublock Origin和uBlacklist（如果支持的话），目前没找到在安卓端使用AC-baidu脚本的办法。
+
+Ublock Origin和X浏览器用于拦截网站，AC-baidu脚本和uBlacklist用于拦截搜索引擎（特别是谷歌）的搜索结果。
 三、屏蔽列表介绍
 
 1.txt里面是长年炮制假新闻，反华反共反人类的网站，或者是作为意识形态传播工具的政治战心理战部队、媒体、NGO等
@@ -49,6 +52,6 @@ uBlacklist_n.txt就是为这个扩展准备的。但我已经决定采用AC-baid
 
 五、其他
 
-直到目前(2021.04.23)为止，如果有人想订阅规则的话，可以直接用。在我这边说一声就行了。
+如果有人想订阅规则的话，可以直接用。在我这边说一声就行了。
 
 如果有其他网站符合两个文本文档里描述的情况的话，可以在issues里通知我，我看到了后会评估是否加上去。
