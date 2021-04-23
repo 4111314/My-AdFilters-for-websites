@@ -9,7 +9,7 @@
 
 # 二、使用的工具介绍
 
-使用的工具包括Ublock Origin，uBlacklist，X浏览器和AC-baidu脚本
+可使用的工具包括Ublock Origin，uBlacklist，X浏览器和AC-baidu脚本
 
 Ublock Origin是一款浏览器扩展，支持桌面端主流浏览器（旧版Microsoft Edge，新版Microsoft Edge，Safari，Chrome，Firefox，Opera等）和安卓端部分浏览器（Firefox完全适配；Kiwi经测试应该完全兼容；Yandex没试过）。它本身是用于广告拦截的，但是可以通过拦截域名来实现对网站的拦截，我这里就使用了这个功能。
 
@@ -25,7 +25,7 @@ https://addons.opera.com/zh-cn/extensions/details/ublock/
 
 uBlacklist是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索的结果，使之在搜索结果中不出现。该扩展同时也会对DuckDuckGo和Startpage起作用。
 
-X浏览器只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
+X浏览器只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。#他的拦截网站只能适用于这个浏览器本身!
 
 AC-baidu脚本需要安装油猴，有许多功能，具体介绍请移步：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
 
