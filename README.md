@@ -25,13 +25,17 @@ https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/
 
 https://addons.opera.com/zh-cn/extensions/details/ublock/
 
-uBlacklist是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索的结果，使之在搜索结果中不出现。该扩展同时也会对DuckDuckGo和Startpage起作用。
+## 2.uBlacklist
 
-## 2.X浏览器
+这是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索的结果，使之在搜索结果中不出现。该扩展同时也会对DuckDuckGo和Startpage起作用。
+
+## 3.X浏览器
 只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
 ### X浏览器他的拦截网站只能适用于X浏览器本身!
 
-AC-baidu脚本需要安装油猴，有许多功能，具体介绍请移步：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
+## 4.AC-baidu脚本
+
+需要安装油猴，有许多功能，具体介绍请移步：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
 
 桌面端浏览器可使用Ublock Origin，uBlacklist和AC-baidu脚本；安卓端可使用X浏览器、Ublock Origin和uBlacklist（如果支持的话），目前没找到在安卓端使用AC-baidu脚本的办法。
 
