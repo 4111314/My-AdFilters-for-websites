@@ -57,6 +57,8 @@ Ublock Origin和X浏览器用于拦截网站，AC-baidu脚本和uBlacklist用于
 
 Xbrowser_n.txt是专为X浏览器准备的。X浏览器不是Ublock Origin，经过实际测试，似乎不能只输入一个短的域名就拦截所有的类似网站。所以搞一个完整版的。
 
+## 3.uBlacklist
+
 uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用AC-baidu脚本来解决这个问题，而且github上已经有人为这个扩展准备了屏蔽内容农场的列表。
 
 可以移步去那个项目：https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
@@ -65,9 +67,13 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 所以这个文件现在已经停止更新。
 
-因为桌面端和移动端进行拦截的工具和原理都不一样，包括需要应对的威胁也不一样，所以两边的不完全通用。
+## 4.AC-baidu
 
-附加说明
+同## 1.Ublock Origin
+
+## 5.附加说明
+
+因为桌面端和移动端进行拦截的工具和原理都不一样，包括需要应对的威胁也不一样，所以两边的不完全通用。
 
 以下均以example.com,123.example.com和123.example.com/456 这三个域名为例。纯粹只是举个例子，如果确实存在如上的网站，纯属偶然。
 
