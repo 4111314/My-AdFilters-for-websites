@@ -23,6 +23,7 @@ chinesepen.org
 clb.org.hk
 cna.com.tw
 cnn.com
+cnvision.co
 creaders.net
 cw.com.tw
 dailymotion.com
@@ -39,6 +40,7 @@ ftchinese.com
 ftchineselive.com
 ftvnews.com.tw
 godfootsteps.org
+helanonline.cn
 hidden-advent.org
 hk01.com
 hkcnews.com
@@ -80,6 +82,7 @@ thenewslens.com
 tibet.net
 tui.ddns.net
 udn.com
+ujoy.net
 upmedia.mg
 voacantonese.com
 voachinese.com
