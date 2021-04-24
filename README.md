@@ -100,6 +100,8 @@ AC-baidu脚本请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blo
 
 # 五、其他
 
+说明与几个具体的列表文件都还在完善中。
+
 如果有人想订阅规则的话，可以直接用。
 
 如果想转载，请注明出处。
