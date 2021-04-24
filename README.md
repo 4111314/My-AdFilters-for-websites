@@ -32,7 +32,7 @@ https://addons.opera.com/zh-cn/extensions/details/ublock/
 ## 3.X浏览器
 只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
 
-**X浏览器他的拦截网站只能适用于X浏览器本身!** 
+**X浏览器的拦截网站只能适用于X浏览器本身!** 
 
 ## 4.AC-baidu脚本
 
@@ -76,11 +76,13 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 因为桌面端和移动端进行拦截的工具和原理都不一样，包括需要应对的威胁也不一样，所以两边的不完全通用。
 
-以下均以example.com,123.example.com和123.example.com/456 这三个域名为例。纯粹只是举个例子，如果确实存在如上的网站，纯属偶然。
+以下均以example.com,123.example.com和123.example.com/456 这三个域名为例。
+
+**纯粹只是举个例子，如果确实存在如上的网站，纯属偶然。**
 
 如果将example.com添加到Ublock Origin屏蔽列表中，那么example.com,123.example.com和123.example.com/456都会被拦截。
 
-如果将example.com添加到uBlacklist屏蔽列表中（但是要注意语法！），那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被屏蔽。
+如果将example.com添加到uBlacklist屏蔽列表中（**但是要注意语法！**），那么example.com,123.example.com和123.example.com/456在谷歌搜索引擎的结果中都会被屏蔽。
 
 如果将example.com添加到X浏览器屏蔽列表中，那么example.com会被拦截，但123.example.com和123.example.com/456不会被拦截。
 
@@ -104,7 +106,7 @@ AC-baidu脚本请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blo
 
 如果有其他网站符合描述的情况的话，可以在issues里通知我，我看到了后会评估是否加上去。
 
-是否更新取决于有没有新发现以及我有没有时间等。
+是否更新取决于有没有新发现以及我有没有时间等多方面原因。
 
 # 六、感谢名单
 
