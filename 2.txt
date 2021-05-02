@@ -6,6 +6,7 @@
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
 123.sogou.com
+123.twinkstar.cn
 1234.me
 12345good.com
 12345h.com
