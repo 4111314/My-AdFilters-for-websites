@@ -8,12 +8,14 @@
 123.sogou.com
 123.twinkstar.cn
 1234.me
+12345b.com
 12345good.com
 12345h.com
 1234wu.com
 2345.cc
 2345.com
 2345w.com
+3456.cc
 360.com
 360.cn
 3721dh.com
@@ -36,4 +38,5 @@ ludashi.com
 shanhutech.cn
 sma.so
 uc123.com
+wangnuan.org
 wj1234.com
