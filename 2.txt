@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210501
+! Version: 20210505
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -26,6 +26,7 @@ guojia.qq.com
 hao.lenovo.ilive.cn
 hao.qq.com
 hao123.com
+hao268.com
 hao881.com
 i2345.cn
 ijinshan.com
@@ -33,5 +34,6 @@ kan.6789.net
 kuaizip.com
 ludashi.com
 shanhutech.cn
+sma.so
 uc123.com
 wj1234.com
