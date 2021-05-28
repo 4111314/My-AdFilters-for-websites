@@ -6,6 +6,7 @@
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
 2047.name
+64memo.com
 64museum.blogspot.com
 abc.net.au
 aboluowang.com
