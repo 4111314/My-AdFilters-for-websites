@@ -27,6 +27,7 @@ cdef.org
 centralnation.com
 china64.blogspot.com
 chinadigitaltimes.net
+chinaaid.net
 chinainperspective.com
 chinanewsx.com
 chinesefeminism.org
@@ -58,6 +59,7 @@ ftchinese.com
 ftchineselive.com
 ftvnews.com.tw
 gfw.report
+globalvoices.org
 godfootsteps.org
 greatfire.org
 heho.com.tw
