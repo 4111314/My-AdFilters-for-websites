@@ -6,12 +6,26 @@
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
 1234.me
+www.1234.me
+
 12345b.com
+www.12345b.com
+
 12345good.com
+wap.12345good.com
+www.12345good.com
+
 12345h.com
+www.12345h.com
+
 1234wu.com
+m.1234wu.com
+www.1234wu.com
+www.1234wu.cn
+
 
 2345.cc
+h5.2345.com
 
 2345.com
 m.2345.com
@@ -19,6 +33,7 @@ www.2345.com
 
 2345w.com
 3456.cc
+
 
 360.com
 www.360.com
@@ -29,6 +44,7 @@ www.360.cn
 
 3721dh.com
 www.3721dh.com
+
 
 drivergenius.com
 duba.com
