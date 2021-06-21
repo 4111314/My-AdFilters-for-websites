@@ -177,6 +177,9 @@ www.dailymotion.com
 dalailama.com
 www.dalailama.com
 
+dalailamaworld.com
+www.dalailamaworld.com
+
 tui.ddns.net
 
 dphk.org
@@ -216,7 +219,7 @@ epochtimes.com
 
 falundafa.org
 
-dalailamaworld.com
+
 
 flyingv.cc
 
