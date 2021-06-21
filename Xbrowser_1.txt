@@ -151,6 +151,8 @@ bbs.creaders.net
 blog.creaders.net
 classified.creaders.net
 digest.creaders.net
+health.creaders.net
+history.creaders.net
 m.creaders.net
 news.creaders.net
 video.creaders.net
