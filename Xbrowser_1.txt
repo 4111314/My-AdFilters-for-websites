@@ -342,14 +342,19 @@ myptt.cc
 
 
 ned.org
+www.ned.org
 
 newpowerparty.tw
 
 newtalk.tw
+www.newtalk.tw
 
 nouvelobs.com
+www.nouvelobs.com
 
 nytimes.com
+www.nytimes.com
+
 
 
 
