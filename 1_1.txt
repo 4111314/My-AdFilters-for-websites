@@ -60,6 +60,7 @@ cw.com.tw
 
 dailymotion.com
 dalailama.com
+dalailamaworld.com
 tui.ddns.net
 dphk.org
 duping.net
@@ -71,7 +72,6 @@ endccp.com
 epochtimes.com
 
 falundafa.org
-dalailamaworld.com
 flyingv.cc
 freedomhouse.org
 freetibet.org
