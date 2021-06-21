@@ -167,33 +167,34 @@ travel.creaders.net
 video.creaders.net
 www.creaders.net
 
-
-
-
-
-
-
-
-
-
-
 cw.com.tw
-
-
+www.cw.com.tw
 
 
 dailymotion.com
-
+www.dailymotion.com
 
 dalailama.com
 www.dalailama.com
 
-
 tui.ddns.net
 
 dphk.org
+www.dphk.org
 
 duping.net
+www.duping.net
+
+
+
+
+
+
+
+
+
+
+
 
 dw.com
 
@@ -201,6 +202,8 @@ dw.com
 
 
 easternlightning.org
+www.easternlightning.org
+
 
 eatnews.com
 
