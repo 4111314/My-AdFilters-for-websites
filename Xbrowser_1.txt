@@ -152,6 +152,7 @@ blog.creaders.net
 ca.creaders.net
 city.creaders.net
 classified.creaders.net
+column.creaders.net
 digest.creaders.net
 ent.creaders.net
 fashion.creaders.net
@@ -463,6 +464,9 @@ watchout.tw
 weiwuer.com
 
 wenyunchao.com
+
+wforum.com
+www.wforum.com
 
 hka8964.wordpress.com
 
