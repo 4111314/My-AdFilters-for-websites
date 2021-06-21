@@ -46,7 +46,7 @@ www.bannedbook.org
 bbc.com
 www.bbc.com
 bbc.co.uk
-www.bbc.com
+www.bbc.co.uk
 
 beijingspring.com
 www.beijingspring.com
