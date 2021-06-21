@@ -34,26 +34,27 @@ hk.appledaily.com
 tw.appledaily.com
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 backtotiananmen.com
 
 bannedbook.org
-
+blog.bannedbook.org
+www.bannedbook.org
 
 bbc.com
 www.bbc.com
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 beijingspring.com
@@ -283,6 +284,8 @@ nytimes.com
 
 
 ocacnews.net
+
+occupytiananmen.com
 
 open.com.hk
 
