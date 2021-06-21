@@ -371,10 +371,12 @@ opendemocracy.net
 
 
 pao-pao.net
+www.pao-pao.net
 
 peoplenews.tw
 
 pincong.rocks
+www.pincong.rocks
 
 lingfengcomment.pixnet.net
 
@@ -414,8 +416,10 @@ smhric.org
 statebuilding.tw
 
 storm.mg
+www.storm.mg
 
 swissinfo.ch
+www.swissinfo.ch
 
 
 
