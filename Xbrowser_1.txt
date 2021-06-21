@@ -12,6 +12,7 @@ www.dw.com
 
 
 2047.name
+www.2047.name
 
 64memo.com
 www.64memo.com
@@ -32,9 +33,11 @@ www.anti1984.com
 appledaily.com
 hk.appledaily.com
 tw.appledaily.com
+www.appledaily.com
 
 
 backtotiananmen.com
+www.backtotiananmen.com
 
 bannedbook.org
 blog.bannedbook.org
@@ -44,22 +47,10 @@ bbc.com
 www.bbc.com
 
 beijingspring.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+www.beijingspring.com
 
 bjs.org
+www.bjs.org
 
 64museum.blogspot.com
 almightygodisknockingyourdoor.blogspot.com
@@ -68,12 +59,35 @@ newsworthknowingcn.blogspot.com
 yyyyiiii.blogspot.com
 
 bnext.com.tw
+www.bnext.com.tw
 
 bnn.co
+www.bnn.co
 
 botanwang.com
+www.botanwang.com
 
 bowenpress.com
+www.bowenpress.com
+
+boxun.com
+news.boxun.com
+www.boxun.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 businesstoday.com.tw
 
