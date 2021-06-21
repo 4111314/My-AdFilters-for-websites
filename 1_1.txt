@@ -128,27 +128,10 @@ ocacnews.net
 open.com.hk
 opendemocracy.net
 
-
-
-
-
-
-hka8964.wordpress.com
-
-lingfengcomment.pixnet.net
-
-news.umich.edu
-
-
-
-
-
-
-
 pao-pao.net
-pekinger-fruehling.univie.ac.at
 peoplenews.tw
 pincong.rocks
+lingfengcomment.pixnet.net
 ptt.cc
 
 rapbull.net
@@ -168,6 +151,24 @@ statebuilding.tw
 storm.mg
 swissinfo.ch
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 taiwannews.com.tw
 theepochtimes.com
 theinitium.com
@@ -184,7 +185,9 @@ twreporter.org
 udn.com
 uhrp.org
 ujoy.net
+news.umich.edu
 uncyclopedia.tw
+pekinger-fruehling.univie.ac.at
 upmedia.mg
 uyghurbiz.org
 uyghurcongress.org
@@ -200,6 +203,7 @@ wainao.me
 watchout.tw
 weiwuer.com
 wenyunchao.com
+hka8964.wordpress.com
 wrchina.org
 wsj.com
 
