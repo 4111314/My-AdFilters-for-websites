@@ -4,7 +4,7 @@
 ! Version: 20210506
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
-! 对根域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk）
+! 对根域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
 2047.name
 64memo.com
 
@@ -22,6 +22,8 @@ bjs.org
 64museum.blogspot.com
 almightygodisknockingyourdoor.blogspot.com
 china64.blogspot.com
+newsworthknowingcn.blogspot.com
+yyyyiiii.blogspot.com
 bnext.com.tw
 bnn.co
 botanwang.com
@@ -46,6 +48,7 @@ chrlawyers.hk
 clb.org.hk
 cna.com.tw
 cnd.org
+my.cnd.org
 cnn.com
 cnvision.co
 commonhealth.com.tw
@@ -85,7 +88,6 @@ heho.com.tw
 helanonline.cn
 hidden-advent.org
 hk01.com
-hka8964.wordpress.com
 hkcnews.com
 hkhkhk.com
 hrichina.org
@@ -100,10 +102,11 @@ iuhrdf.org
 iyouport.org
 
 kingdomsalvation.org
+
 learnfalungong.com
-lingfengcomment.pixnet.net
 liu-xiaobo.org
 ltn.com.tw
+
 martinoei.com
 matters.news
 medium.com
@@ -112,24 +115,42 @@ minzhuzhongguo.org
 mohu.rocks
 mpweekly.com
 msguancha.com
-my.cnd.org
 mychinese.news
 myptt.cc
+
 ned.org
 newpowerparty.tw
-news.umich.edu
-newsworthknowingcn.blogspot.com
 newtalk.tw
 nouvelobs.com
 nytimes.com
+
 ocacnews.net
 open.com.hk
 opendemocracy.net
+
+
+
+
+
+
+hka8964.wordpress.com
+
+lingfengcomment.pixnet.net
+
+news.umich.edu
+
+
+
+
+
+
+
 pao-pao.net
 pekinger-fruehling.univie.ac.at
 peoplenews.tw
 pincong.rocks
 ptt.cc
+
 rapbull.net
 redballoonsolidarity.org
 reuters.com
@@ -140,11 +161,13 @@ rolfoundation.org
 rti.org.tw
 rsf.org
 rthk.hk
+
 secretchina.com
 smhric.org
 statebuilding.tw
 storm.mg
 swissinfo.ch
+
 taiwannews.com.tw
 theepochtimes.com
 theinitium.com
@@ -157,6 +180,7 @@ trt.net.tr
 tsu.org.tw
 tui.ddns.net
 twreporter.org
+
 udn.com
 uhrp.org
 ujoy.net
@@ -165,18 +189,23 @@ upmedia.mg
 uyghurbiz.org
 uyghurcongress.org
 uyghurpress.com
+
 voacantonese.com
 voachinese.com
 voanews.com
 vot.org
 vote4.hk
+
 wainao.me
 watchout.tw
 weiwuer.com
 wenyunchao.com
 wrchina.org
 wsj.com
+
 xinsheng.net
 xizang-zhiye.org
-yyyyiiii.blogspot.com
+
+
+
 yzzk.com
