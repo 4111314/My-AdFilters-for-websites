@@ -149,12 +149,20 @@ www.commonhealth.com.tw
 creaders.net
 bbs.creaders.net
 blog.creaders.net
+ca.creaders.net
+city.creaders.net
 classified.creaders.net
 digest.creaders.net
+ent.creaders.net
+fashion.creaders.net
+finance.creaders.net
 health.creaders.net
 history.creaders.net
 m.creaders.net
 news.creaders.net
+sports.creaders.net
+tech.creaders.net
+travel.creaders.net
 video.creaders.net
 www.creaders.net
 
