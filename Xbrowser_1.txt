@@ -215,26 +215,6 @@ www.flyingv.cc
 freedomhouse.org
 www.freedomhouse.org
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 freetibet.org
 www.freetibet.org
 
@@ -245,8 +225,11 @@ freeweibo.com
 www.freeweibo.com
 
 frontlinedefenders.org
+www.frontlinedefenders.org
 
 ftchinese.com
+app.ftchinese.com
+big5.ftchinese.com
 www.ftchinese.com
 
 ftchineselive.com
@@ -256,17 +239,34 @@ ftvnews.com.tw
 www.ftvnews.com.tw
 
 
-
-
-
-
-
-
 gfw.report
+www.gfw.report
 
 globalvoices.org
 
 godfootsteps.org
+en.godfootsteps.org
+www.godfootsteps.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 greatfire.org
 
