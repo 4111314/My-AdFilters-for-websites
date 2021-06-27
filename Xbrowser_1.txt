@@ -477,23 +477,33 @@ tibet.net
 www.tibet.net
 
 top1health.com
+plan.top1health.com
+www.top1health.com
 
 trt.net.tr
+www.trt.net.tr
 
 tsu.org.tw
+www.tsu.org.tw
 
 twreporter.org
+www.twreporter.org
 
 
 udn.com
+www.udn.com
 
 uhrp.org
+chinese.uhrp.org
+www.uhrp.org
 
 ujoy.net
+www.ujoy.net
 
 news.umich.edu
 
 uncyclopedia.tw
+zh.uncyclopedia.info
 
 pekinger-fruehling.univie.ac.at
 
