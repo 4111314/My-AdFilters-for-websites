@@ -508,25 +508,35 @@ zh.uncyclopedia.info
 pekinger-fruehling.univie.ac.at
 
 upmedia.mg
+www.upmedia.mg
 
 uyghurbiz.org
+www.uyghurbiz.org
 
 uyghurcongress.org
+www.uyghurcongress.org
 
 uyghurpress.com
 
 
 voacantonese.com
+www.voacantonese.com
 
 voachinese.com
+www.voachinese.com
 
 voanews.com
+ir.voanews.com
+learningenglish.voanews.com
 www.voanews.com
 
 vot.org
+cn.vot.org
 www.vot.org
 
 vote4.hk
+covid19.vote4.hk
+wars.vote4.hk
 
 
 wainao.me
