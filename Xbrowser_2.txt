@@ -48,6 +48,7 @@ www.360.com
 3721dh.com
 www.3721dh.com
 
+
 kan.6789.net
 
 
@@ -93,10 +94,13 @@ www.jiegeng.com
 
 
 kuaizip.com
+www.kuaizip.com
 
 
 hao.lenovo.ilive.cn
+
 ludashi.com
+www.ludashi.com
 
 
 daohang.qq.com
@@ -105,7 +109,10 @@ hao.qq.com
 
 
 shanhutech.cn
+www.shanhutech.cn
+
 sma.so
+
 123.sogou.com
 
 
@@ -113,7 +120,10 @@ sma.so
 
 
 uc123.com
+www.uc123.com
 
 wangnuan.org
+www.wangnuan.org
 
 wj1234.com
+www.wj1234.com
