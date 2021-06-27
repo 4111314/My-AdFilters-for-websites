@@ -437,11 +437,11 @@ news.rthk.hk
 www.rthk.hk
 
 
-
-
 secretchina.com
+www.secretchina.com
 
 smhric.org
+www.smhric.org
 
 statebuilding.tw
 
@@ -453,14 +453,22 @@ www.swissinfo.ch
 
 
 taiwannews.com.tw
+directory.taiwannews.com.tw
+www.taiwannews.com.tw
 
 theepochtimes.com
+www.theepochtimes.com
 
 theinitium.com
+www.theinitium.com
 
 thenewslens.com
+www.thenewslens.com
 
 thestandnews.com
+beta.thestandnews.com
+live.thestandnews.com
+www.thestandnews.com
 
 tiananmenmother.org
 
