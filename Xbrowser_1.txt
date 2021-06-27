@@ -284,35 +284,35 @@ www.icij.org
 
 idemocracy.asia
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ifj.org
+www.ifj.org
 
 independent.co.uk
+www.independent.co.uk
 
 iset.com.tw
+blog.iset.com.tw
+m.settv.com.tw
+www.settv.com.tw
 
 iuhrdf.org
+www.iuhrdf.org
 
 iyouport.org
-
-
+www.iyouport.org
 
 
 kingdomsalvation.org
+www.kingdomsalvation.org
+
+
+
+
+
+
+
+
+
 
 
 
@@ -520,6 +520,8 @@ wforum.com
 www.wforum.com
 
 hka8964.wordpress.com
+
+wqgm.org
 
 wrchina.org
 www.wrchina.org
