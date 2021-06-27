@@ -390,8 +390,8 @@ www.opendemocracy.net
 pao-pao.net
 www.pao-pao.net
 
-
 peoplenews.tw
+www.peoplenews.tw
 
 pincong.rocks
 www.pincong.rocks
@@ -399,22 +399,28 @@ www.pincong.rocks
 lingfengcomment.pixnet.net
 
 ptt.cc
+term.ptt.cc
 www.ptt.cc
 
 
-
-
 rapbull.net
+www.rapbull.net
 
 redballoonsolidarity.org
+www.redballoonsolidarity.org
 
 reuters.com
+www.reuters.com
 
 rfa.org
+www.rfa.org
 
 rferl.org
+pressroom.rferl.org
+www.rferl.org
 
 rfi.fr
+www.rfi.fr
 
 rolfoundation.org
 
@@ -423,6 +429,8 @@ rti.org.tw
 rsf.org
 
 rthk.hk
+
+
 
 
 
@@ -438,8 +446,6 @@ www.storm.mg
 
 swissinfo.ch
 www.swissinfo.ch
-
-
 
 
 taiwannews.com.tw
@@ -465,8 +471,6 @@ tsu.org.tw
 twreporter.org
 
 
-
-
 udn.com
 
 uhrp.org
@@ -488,8 +492,6 @@ uyghurcongress.org
 uyghurpress.com
 
 
-
-
 voacantonese.com
 
 voachinese.com
@@ -501,8 +503,6 @@ vot.org
 www.vot.org
 
 vote4.hk
-
-
 
 
 wainao.me
