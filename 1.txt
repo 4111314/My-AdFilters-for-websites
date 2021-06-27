@@ -87,6 +87,7 @@ ftchineselive.com
 ftvnews.com.tw
 
 gfw.report
+github.com/vote4hk
 globalvoices.org
 godfootsteps.org
 greatfire.org
