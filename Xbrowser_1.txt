@@ -321,35 +321,34 @@ sports.ltn.com.tw
 www.ltn.com.tw
 
 
-
-
-
-
-
-
-
-
 martinoei.com
+www.martinoei.com
 
 matters.news
+www.matters.news
 
 medium.com
+www.medium.com
 
 mingjingnews.com
+www.mingjingnews.com
 
 minzhuzhongguo.org
 
 mohu.rocks
+www.mohu.rocks
 
 mpweekly.com
+ebook.mpweekly.com
+www.mpweekly.com
 
 msguancha.com
+www.msguancha.com
 
 mychinese.news
+www.mychinese.news
 
 myptt.cc
-
-
 
 
 ned.org
@@ -358,6 +357,7 @@ www.ned.org
 wallockman.netlify.app
 
 newpowerparty.tw
+www.newpowerparty.tw
 
 newtalk.tw
 www.newtalk.tw
@@ -370,25 +370,26 @@ nouvelobs.com
 www.nouvelobs.com
 
 nytimes.com
+cn.nytimes.com
 www.nytimes.com
 
 
-
-
-
 ocacnews.net
+www.ocacnews.net
 
 occupytiananmen.com
+www.occupytiananmen.com
 
 open.com.hk
+www.open.com.hk
 
 opendemocracy.net
-
-
+www.opendemocracy.net
 
 
 pao-pao.net
 www.pao-pao.net
+
 
 peoplenews.tw
 
