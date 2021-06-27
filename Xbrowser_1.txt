@@ -242,6 +242,8 @@ www.ftvnews.com.tw
 gfw.report
 www.gfw.report
 
+github.com/vote4hk
+
 globalvoices.org
 
 godfootsteps.org
