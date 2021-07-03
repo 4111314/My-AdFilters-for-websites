@@ -38,6 +38,10 @@ https://addons.opera.com/zh-cn/extensions/details/ublock/
 
 **需要安装油猴**，有许多功能，具体介绍请移步：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
 
+**安装油猴的方法**，见https://greasyfork.org/zh-CN
+
+## 5.不同平台具体使用
+
 **桌面端浏览器**可使用Ublock Origin，uBlacklist和AC-baidu脚本；**安卓端**可使用X浏览器、Ublock Origin和uBlacklist（**如果支持的话**），**目前没找到在安卓端使用AC-baidu脚本的办法**。
 
 Ublock Origin和X浏览器用于拦截网站，AC-baidu脚本和uBlacklist用于拦截搜索引擎（特别是谷歌）的搜索结果。
@@ -100,7 +104,9 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
-## 3.X浏览器（待续）
+## 3.X浏览器
+
+通过Google Play商店，或国内其他各大应用商店，或Google Play商店镜像站，或X浏览器官网下载安装包等方式，下载X浏览器并安装（**注意Google Play版和国内其他各大应用商店版的X浏览器的包名不同，但区别仅是Google Play版有更多的语言支持。**）。安装完后打开浏览器，点击X浏览器底部导航栏3条横线->点击左下角齿轮进入"**设置**"->点击广告拦截->点击规则文件。点击右上方导入。点击从网址导入。然后将网址完整url输入后，点击导入，即可完成订阅。你越成功。
 
 ## 4.AC-baidu脚本
 
