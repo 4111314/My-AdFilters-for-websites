@@ -59,6 +59,7 @@ kan.6789.net
 abckantu.7654.com
 hao.7654.com
 heinote.7654.com
+newtab.7654.com
 www.7654.com
 xzip.shzhanmeng.com
 
@@ -127,6 +128,7 @@ www.shanhutech.cn
 
 shzhanmeng.com
 7654browser.shzhanmeng.com
+finder.shzhanmeng.com
 www.shzhanmeng.com
 
 sma.so
