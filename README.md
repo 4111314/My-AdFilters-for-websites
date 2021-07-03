@@ -102,7 +102,7 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 ## 2.uBlacklist
 
-请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist#%E5%B1%8F%E8%94%BD-google-%E4%B8%AD%E6%96%87%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C
 
 ## 3.X浏览器
 
@@ -112,7 +112,7 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 ## 4.AC-baidu脚本
 
-请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist#%E5%B1%8F%E8%94%BD-baidu-%E4%B8%AD%E6%96%87%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C
 
 # 五、其他
 
