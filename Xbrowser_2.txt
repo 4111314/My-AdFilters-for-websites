@@ -40,11 +40,15 @@ www.2345w.com
 www.3456.cc
 
 360.cn
+baoku.360.cn
 m.360.cn
 sd.360.cn
+sj.360.cn
 soft.360.cn
 weishi.360.cn
+wifi.360.cn
 www.360.cn
+yunpan.360.cn
 360.com
 www.360.com
 
@@ -53,6 +57,10 @@ www.360kan.com
 
 3721dh.com
 www.3721dh.com
+
+
+52pcfree.com
+www.52pcfree.com
 
 
 kan.6789.net
@@ -141,6 +149,8 @@ shzhanmeng.com
 finder.shzhanmeng.com
 www.shzhanmeng.com
 xzip.shzhanmeng.com
+
+chrome.shzxwhcm.top
 
 sma.so
 
