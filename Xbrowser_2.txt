@@ -145,6 +145,9 @@ sma.so
 123.sogou.com
 dh.123.sogou.com
 
+suzip.com.cn
+www.suzip.com.cn
+
 
 toutiaobashi.com
 www.toutiaobashi.com
