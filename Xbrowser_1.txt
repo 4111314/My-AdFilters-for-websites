@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210629
+! Version: 20210703
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -273,6 +273,12 @@ www.hkcnews.com
 
 hkhkhk.com
 www.hkhkhk.com
+
+hkingtec.com
+bbs.wenxuecity.com
+blog.wenxuecity.com
+groups.wenxuecity.com
+www.hkingtec.com
 
 hrichina.org
 www.hrichina.org
