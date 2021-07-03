@@ -60,7 +60,7 @@ Xbrowser_n.txt是专为X浏览器准备的。X浏览器不是Ublock Origin，经
 
 ## 3.uBlacklist
 
-uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用AC-baidu脚本来解决这个问题，而且github上已经有人为这个扩展准备了屏蔽内容农场的列表。
+uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用AC-baidu脚本来解决这个问题，而且github上已经有人为这个准备了适合uBlacklist扩展屏的蔽内容农场的列表。
 
 可以移步去那个项目：https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
@@ -90,7 +90,9 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 # 四、具体操作
 
-Ublock Origin（待续）
+Ublock Origin
+
+先安装。安装完后，这个扩展是一个盾牌的形状，接近深红色，中间有连着的u和o两个白色字母。鼠标左键单击该扩展，选择右下角的齿轮打开控制面板。在出来的界面中，在最上面的菜单栏中选择第二个“**规则列表**”。然后拉到最底下。然后在最底下的“**自定义**”中，点击“**导入**”，在出来的文本框中黏贴相关规则的网址，并点击最上方的“**√应用更改**”，即可完成订阅。
 
 uBlacklist请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
