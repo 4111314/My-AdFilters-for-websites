@@ -64,10 +64,10 @@ hao.7654.com
 heinote.7654.com
 newtab.7654.com
 www.7654.com
-xzip.shzhanmeng.com
 
 
 cfcpe.com.cn
+
 
 drivergenius.com
 www.drivergenius.com
@@ -124,6 +124,7 @@ monidashi.cn
 g.monidashi.cn
 www.monidashi.cn
 
+
 daohang.qq.com
 guojia.qq.com
 hao.qq.com
@@ -139,6 +140,7 @@ shzhanmeng.com
 7654browser.shzhanmeng.com
 finder.shzhanmeng.com
 www.shzhanmeng.com
+xzip.shzhanmeng.com
 
 sma.so
 
@@ -169,12 +171,18 @@ www.udashi.com
 wangnuan.org
 www.wangnuan.org
 
+wn51.com
+www.wn51.com
+
+wnwb.com
+www.wnwb.com
+
 wj1234.com
 www.wj1234.com
 
-
 wifigx.com
 www.wifigx.com
+
 
 xiangtatech.com
 ext.xiangtatech.com
@@ -182,3 +190,7 @@ fxbrowser.xiangtatech.com
 tsbrowser.xiangtatech.com
 feedback.tsbrowser.xiangtatech.com
 www.xiangtatech.com
+
+
+znyshurufa.com
+www.znyshurufa.com
