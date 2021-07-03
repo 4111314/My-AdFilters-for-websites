@@ -27,18 +27,18 @@ https://addons.opera.com/zh-cn/extensions/details/ublock/
 
 ## 2.uBlacklist
 
-这是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索的结果，使之在搜索结果中不出现。该扩展同时也会对DuckDuckGo和Startpage起作用。
+这是桌面端谷歌浏览器的一个扩展，可以拦截谷歌搜索的结果，使之在搜索结果中不出现。**该扩展同时也会对DuckDuckGo和Startpage起作用。**
 
 ## 3.X浏览器
-只支持安卓端，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
+**只支持安卓端**，拥有非常强大的广告拦截功能，但不完全兼容Adblock Plus的语法。
 
 **X浏览器的拦截网站只能适用于X浏览器本身!** 
 
 ## 4.AC-baidu脚本
 
-需要安装油猴，有许多功能，具体介绍请移步：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
+**需要安装油猴**，有许多功能，具体介绍请移步：https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97
 
-桌面端浏览器可使用Ublock Origin，uBlacklist和AC-baidu脚本；安卓端可使用X浏览器、Ublock Origin和uBlacklist（如果支持的话），目前没找到在安卓端使用AC-baidu脚本的办法。
+**桌面端浏览器**可使用Ublock Origin，uBlacklist和AC-baidu脚本；**安卓端**可使用X浏览器、Ublock Origin和uBlacklist（**如果支持的话**），**目前没找到在安卓端使用AC-baidu脚本的办法**。
 
 Ublock Origin和X浏览器用于拦截网站，AC-baidu脚本和uBlacklist用于拦截搜索引擎（特别是谷歌）的搜索结果。
 
@@ -46,17 +46,17 @@ Ublock Origin和X浏览器用于拦截网站，AC-baidu脚本和uBlacklist用于
 
 ## 1.Ublock Origin
 
-1.txt里面是长年炮制假新闻，反华反共反人类的网站、恐怖组织、邪教组织或者是作为意识形态传播工具的政治战心理战部队、媒体、NGO等
+**1.txt**里面是长年炮制假新闻，反华反共反人类的网站、恐怖组织、邪教组织或者是作为意识形态传播工具的政治战心理战部队、媒体、NGO等
 
-2.txt里面是一些臭名昭著的流氓软件或流氓导航网页、看到了就心烦的那种
+**2.txt**里面是一些臭名昭著的流氓软件或流氓导航网页、看到了就心烦的那种
 
-3.txt里面是一些内容农场，那种到处复制粘贴一大堆不相干的东西，骗人进去打广告的那种。
+**3.txt**里面是一些内容农场，那种到处复制粘贴一大堆不相干的东西，骗人进去打广告的那种。
 
-4.txt里面是一些会在移动端(特别是安卓手机端)有流氓行为(比如无法回退，震动，自动下载安装包等)的网站
+**4.txt**里面是一些会在移动端(特别是安卓手机端)有流氓行为(比如无法回退，震动，自动下载安装包等)的网站
 
 ## 2.X浏览器
 
-Xbrowser_n.txt是专为X浏览器准备的。X浏览器不是Ublock Origin，经过实际测试，似乎不能只输入一个短的域名就拦截所有的类似网站。所以搞一个完整版的。
+Xbrowser_n.txt是**专为X浏览器**准备的。X浏览器不是Ublock Origin，经过实际测试，似乎不能只输入一个短的域名就拦截所有的类似网站。所以搞一个完整版的。
 
 ## 3.uBlacklist
 
@@ -65,6 +65,8 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 可以移步去那个项目：https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
 按照项目中的描述，他已经收集了四年多，我看了一下，超过1000个，绝对比我现在收集的更全。我准备如果我又发现内容农场，我就去那个项目那边告诉他。
+
+也可以自己写脚本自动的将他那个列表转成适合Ublock Origin或X浏览器的列表。
 
 **所以这个文件现在已经停止更新。**
 
@@ -100,9 +102,9 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 ## 3.X浏览器（待续）
 
-## 4.AC-baidu
+## 4.AC-baidu脚本
 
-脚本请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+请移步https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
 # 五、其他
 
