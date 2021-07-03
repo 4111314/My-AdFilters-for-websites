@@ -159,3 +159,11 @@ www.wangnuan.org
 
 wj1234.com
 www.wj1234.com
+
+
+xiangtatech.com
+ext.xiangtatech.com
+fxbrowser.xiangtatech.com
+tsbrowser.xiangtatech.com
+feedback.tsbrowser.xiangtatech.com
+www.xiangtatech.com
