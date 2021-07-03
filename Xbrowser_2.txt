@@ -137,6 +137,9 @@ sma.so
 dh.123.sogou.com
 
 
+toutiaobashi.com
+www.toutiaobashi.com
+
 123.twinkstar.cn
 
 
@@ -146,6 +149,10 @@ www.uc123.com
 ucwz.net
 m.ucwz.net
 www.ucwz.net
+
+udashi.com
+www.udashi.com
+
 
 wangnuan.org
 www.wangnuan.org
