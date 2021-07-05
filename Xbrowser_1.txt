@@ -83,6 +83,9 @@ www.buzzorange.com
 caochangqing.com
 www.caochangqing.com
 
+carpnow.com
+www.carpnow.com
+
 cdef.org
 www.cdef.org
 
@@ -586,6 +589,7 @@ wrchina.org
 www.wrchina.org
 
 wsj.com
+cn.wsj.com
 www.wsj.com
 
 
