@@ -315,7 +315,7 @@ www.hrichina.org
 hrw.org
 www.hrw.org
 
-
+!I
 icij.org
 offshoreleaks.icij.org
 www.icij.org
@@ -342,10 +342,11 @@ www.iuhrdf.org
 iyouport.org
 www.iyouport.org
 
-
+!J
 jah.org.tw
 www.jah.org.tw
 
+!K
 kingdomsalvation.org
 tr.kingdomsalvation.org
 www.kingdomsalvation.org
@@ -353,6 +354,7 @@ www.kingdomsalvation.org
 knh.org.tw
 www.knh.org.tw
 
+!L
 learnfalungong.com
 www.learnfalungong.com
 
@@ -369,7 +371,7 @@ news.ltn.com.tw
 sports.ltn.com.tw
 www.ltn.com.tw
 
-
+!M
 martinoei.com
 www.martinoei.com
 
@@ -399,7 +401,7 @@ www.mychinese.news
 
 myptt.cc
 
-
+!N
 ned.org
 www.ned.org
 
@@ -425,7 +427,7 @@ nytimes.com
 cn.nytimes.com
 www.nytimes.com
 
-
+!O
 ocacnews.net
 www.ocacnews.net
 
@@ -441,7 +443,7 @@ www.opendemocracy.net
 ntdtv.com
 www.ntdtv.com
 
-
+!P
 pao-pao.net
 www.pao-pao.net
 
@@ -460,7 +462,7 @@ ptt.cc
 term.ptt.cc
 www.ptt.cc
 
-
+!R
 rapbull.net
 www.rapbull.net
 
@@ -497,7 +499,7 @@ rthk.hk
 news.rthk.hk
 www.rthk.hk
 
-
+!S
 seccm.org.tw
 www.seccm.org.tw
 
@@ -515,7 +517,7 @@ www.storm.mg
 swissinfo.ch
 www.swissinfo.ch
 
-
+!T
 taiwanembassy.org
 www.taiwanembassy.org
 
@@ -562,7 +564,7 @@ www.tsu.org.tw
 twreporter.org
 www.twreporter.org
 
-
+!U
 udn.com
 www.udn.com
 
@@ -591,7 +593,7 @@ www.uyghurcongress.org
 
 uyghurpress.com
 
-
+!V
 voacantonese.com
 www.voacantonese.com
 
@@ -611,7 +613,7 @@ vote4.hk
 covid19.vote4.hk
 wars.vote4.hk
 
-
+!W
 wainao.me
 www.wainao.me
 
@@ -643,18 +645,18 @@ www.wsj.com
 wufi.org.tw
 www.wufi.org.tw
 
-
+!X
 xinsheng.net
 www.xinsheng.net
 
 xizang-zhiye.org
 www.xizang-zhiye.org
 
-
+!Y
 yzzk.com
 www.yzzk.com
 
-
+!Z
 zeczec.com
 www.zeczec.com
 
