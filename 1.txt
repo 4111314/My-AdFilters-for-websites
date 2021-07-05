@@ -41,6 +41,7 @@ carpnow.com
 cdef.org
 cdp1989.org
 centralnation.com
+cgu.edu.tw
 chinadialogue.net
 chinadialogueocean.net
 chinadigitaltimes.net
@@ -234,4 +235,3 @@ yzzk.com
 
 zeczec.com
 zmt.pub
-
