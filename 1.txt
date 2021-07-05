@@ -145,6 +145,7 @@ newtalk.tw
 hk.nextmgz.com
 nouvelobs.com
 npf.org.tw
+ntdtv.com
 nytimes.com
 
 ocacnews.net
@@ -225,7 +226,6 @@ yzzk.com
 
 zeczec.com
 zmt.pub
-
 
 
 
