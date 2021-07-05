@@ -278,14 +278,18 @@ www.godfootsteps.org
 
 gov.tw
 www.cdc.gov.tw
+web.customs.gov.tw
 www.ey.gov.tw
+phb.kinmen.gov.tw
 www.mac.gov.tw
 cpd.moe.gov.tw
 nspp.mofa.gov.tw
 www.mohw.gov.tw
+www.moi.gov.tw
 laws.mol.gov.tw
 www.osha.gov.tw
 www.pcc.gov.tw
+www.president.gov.tw
 thbu3.thb.gov.tw
 
 greatfire.org
@@ -411,6 +415,9 @@ www.mychinese.news
 myptt.cc
 
 !N
+nccu.edu.tw
+www.nccu.edu.tw
+
 ned.org
 www.ned.org
 
