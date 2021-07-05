@@ -5,6 +5,7 @@
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
+!0-9
 2047.name
 www.2047.name
 
@@ -273,6 +274,10 @@ en.godfootsteps.org
 www.godfootsteps.org
 
 gov.tw
+www.cdc.gov.tw
+www.mac.gov.tw
+nspp.mofa.gov.tw
+www.mohw.gov.tw
 
 greatfire.org
 en.greatfire.org
