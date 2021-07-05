@@ -272,6 +272,8 @@ godfootsteps.org
 en.godfootsteps.org
 www.godfootsteps.org
 
+gov.tw
+
 greatfire.org
 en.greatfire.org
 zh.greatfire.org
