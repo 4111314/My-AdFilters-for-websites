@@ -285,6 +285,7 @@ nspp.mofa.gov.tw
 www.mohw.gov.tw
 laws.mol.gov.tw
 www.osha.gov.tw
+www.pcc.gov.tw
 thbu3.thb.gov.tw
 
 greatfire.org
@@ -465,6 +466,9 @@ pincong.rocks
 www.pincong.rocks
 
 lingfengcomment.pixnet.net
+
+pts.org.tw
+www.pts.org.tw
 
 ptt.cc
 term.ptt.cc
