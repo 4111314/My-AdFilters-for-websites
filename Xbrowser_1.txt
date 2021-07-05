@@ -12,7 +12,7 @@ www.2047.name
 64memo.com
 www.64memo.com
 
-
+!A
 abc.net.au
 www.abc.net.au
 
@@ -30,7 +30,7 @@ hk.appledaily.com
 tw.appledaily.com
 www.appledaily.com
 
-
+!B
 backtotiananmen.com
 www.backtotiananmen.com
 
@@ -80,7 +80,7 @@ www.businesstoday.com.tw
 buzzorange.com
 www.buzzorange.com
 
-
+!C
 caochangqing.com
 www.caochangqing.com
 
@@ -179,7 +179,7 @@ www.creaders.net
 cw.com.tw
 www.cw.com.tw
 
-
+!D
 dailymotion.com
 www.dailymotion.com
 
@@ -208,7 +208,7 @@ learngerman.dw.com
 m.dw.com
 www.dw.com
 
-
+!E
 easternlightning.org
 www.easternlightning.org
 
@@ -223,7 +223,7 @@ epochtimes.com
 tuidang.epochtimes.com
 www.epochtimes.com
 
-
+!F
 falundafa.org
 www.falundafa.org
 
@@ -256,7 +256,7 @@ www.ftchineselive.com
 ftvnews.com.tw
 www.ftvnews.com.tw
 
-
+!G
 gfw.report
 www.gfw.report
 
@@ -283,6 +283,7 @@ greatfire.org
 en.greatfire.org
 zh.greatfire.org
 
+!H
 heho.com.tw
 www.heho.com.tw
 
