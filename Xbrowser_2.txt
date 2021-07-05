@@ -5,10 +5,11 @@
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
+!0
 02516.com
 www.02516.com
 
-
+!1
 114la.com
 www.114la.com
 
@@ -31,7 +32,7 @@ www.1234wu.cn
 m.1234wu.com
 www.1234wu.com
 
-
+!2
 2345.cc
 2345.com
 h5.2345.com
@@ -42,7 +43,7 @@ xiaoyouxi.2345.com
 2345w.com
 www.2345w.com
 
-
+!3
 3456.cc
 www.3456.cc
 
@@ -65,14 +66,14 @@ www.360kan.com
 3721dh.com
 www.3721dh.com
 
-
+!5
 52pcfree.com
 www.52pcfree.com
 
-
+!6
 kan.6789.net
 
-
+!7
 7654.com
 abckantu.7654.com
 hao.7654.com
@@ -80,7 +81,7 @@ heinote.7654.com
 newtab.7654.com
 www.7654.com
 
-
+!C
 ccleaner.com
 www.ccleaner.com
 
@@ -89,7 +90,7 @@ cfcpe.com.cn
 clover.com
 www.clover.com
 
-
+!D
 drivergenius.com
 www.drivergenius.com
 
@@ -100,15 +101,15 @@ duote.com
 m.duote.com
 www.duote.com
 
-
+!F
 flash.cn
 www.flash.cn
 
-
+!G
 game6677.com
 www.game6677.com
 
-
+!H
 hao123.com
 m.hao123.com
 www.hao123.com
@@ -122,38 +123,38 @@ www.hao881.com
 haotukankan.com
 www.haotukankan.com
 
-
+!I
 i2345.cn
 www.i2345.cn
 
 ijinshan.com
 www.ijinshan.com
 
-
+!J
 jiegeng.com
 www.jiegeng.com
 
-
+!K
 kuaizip.com
 www.kuaizip.com
 
-
+!L
 hao.lenovo.ilive.cn
 
 ludashi.com
 www.ludashi.com
 
-
+!M
 monidashi.cn
 g.monidashi.cn
 www.monidashi.cn
 
-
+!Q
 daohang.qq.com
 guojia.qq.com
 hao.qq.com
 
-
+!S
 scjujin.com:6716
 www.scjujin.com:6716
 
@@ -176,13 +177,13 @@ dh.123.sogou.com
 suzip.com.cn
 www.suzip.com.cn
 
-
+!T
 toutiaobashi.com
 www.toutiaobashi.com
 
 123.twinkstar.cn
 
-
+!U
 uc123.com
 www.uc123.com
 
@@ -193,7 +194,7 @@ www.ucwz.net
 udashi.com
 www.udashi.com
 
-
+!W
 wangnuan.org
 www.wangnuan.org
 
@@ -209,7 +210,7 @@ www.wj1234.com
 wifigx.com
 www.wifigx.com
 
-
+!X
 xiangtatech.com
 ext.xiangtatech.com
 fxbrowser.xiangtatech.com
@@ -217,6 +218,6 @@ tsbrowser.xiangtatech.com
 feedback.tsbrowser.xiangtatech.com
 www.xiangtatech.com
 
-
+!Z
 znyshurufa.com
 www.znyshurufa.com
