@@ -283,6 +283,7 @@ www.mac.gov.tw
 cpd.moe.gov.tw
 nspp.mofa.gov.tw
 www.mohw.gov.tw
+laws.mol.gov.tw
 www.osha.gov.tw
 thbu3.thb.gov.tw
 
