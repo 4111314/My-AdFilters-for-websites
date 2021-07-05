@@ -120,6 +120,8 @@ iset.com.tw
 iuhrdf.org
 iyouport.org
 
+jah.org.tw
+
 kingdomsalvation.org
 knh.org.tw
 
@@ -231,7 +233,5 @@ yzzk.com
 
 zeczec.com
 zmt.pub
-
-
 
 
