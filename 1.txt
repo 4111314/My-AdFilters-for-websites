@@ -154,6 +154,7 @@ open.com.hk
 opendemocracy.net
 
 pao-pao.net
+pch.org.tw
 peoplenews.tw
 pincong.rocks
 lingfengcomment.pixnet.net
@@ -226,7 +227,6 @@ yzzk.com
 
 zeczec.com
 zmt.pub
-
 
 
 
