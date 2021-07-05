@@ -164,6 +164,7 @@ pch.org.tw
 peoplenews.tw
 pincong.rocks
 lingfengcomment.pixnet.net
+pts.org.tw
 ptt.cc
 
 rapbull.net
