@@ -495,6 +495,9 @@ swissinfo.ch
 www.swissinfo.ch
 
 
+taiwanembassy.org
+www.taiwanembassy.org
+
 taiwannews.com.tw
 directory.taiwannews.com.tw
 www.taiwannews.com.tw
