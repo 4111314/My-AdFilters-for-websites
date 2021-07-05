@@ -179,6 +179,7 @@ storm.mg
 swissinfo.ch
 
 taiwannews.com.tw
+technews.tw
 theepochtimes.com
 theinitium.com
 thenewslens.com
@@ -228,7 +229,6 @@ yzzk.com
 
 zeczec.com
 zmt.pub
-
 
 
 
