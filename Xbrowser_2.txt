@@ -193,6 +193,9 @@ sma.so
 123.sogou.com
 dh.123.sogou.com
 
+ssouu.com
+www.ssouu.com
+
 suzip.com.cn
 www.suzip.com.cn
 
