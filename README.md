@@ -60,7 +60,7 @@ Ublock Origin和X浏览器用于拦截网站，AC-baidu脚本和uBlacklist用于
 
 ## 2.X浏览器
 
-Xbrowser_n.txt是**专为X浏览器**准备的。X浏览器不是Ublock Origin，经过实际测试，似乎不能只输入一个短的域名就拦截所有的类似网站。所以搞一个完整版的。
+Xbrowser_n.txt是**专为X浏览器**准备的。X浏览器不是Ublock Origin，经过实际测试，似乎不能只输入根域名就拦截所有的子域名。所以搞一个完整版的。
 
 ## 3.uBlacklist
 
