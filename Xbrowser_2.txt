@@ -92,12 +92,18 @@ cfcpe.com.cn
 clover.com
 www.clover.com
 
+cn0977.com
+www.cn0977.com
+
 !D
 drivergenius.com
 www.drivergenius.com
 
 duba.com
 m.duba.com
+
+duoleyy.com
+www.duoleyy.com
 
 duote.com
 m.duote.com
@@ -124,6 +130,9 @@ www.hao268.com
 
 hao881.com
 www.hao881.com
+
+hao974.com
+www.hao974.com
 
 haotukankan.com
 www.haotukankan.com
