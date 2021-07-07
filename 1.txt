@@ -151,6 +151,7 @@ mychinese.news
 myptt.cc
 
 nccu.edu.tw
+nchrd.org
 ned.org
 wallockman.netlify.app
 newpowerparty.tw
