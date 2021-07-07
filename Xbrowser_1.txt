@@ -432,6 +432,9 @@ myptt.cc
 nccu.edu.tw
 www.nccu.edu.tw
 
+nchrd.org
+www.nchrd.org
+
 ned.org
 www.ned.org
 
