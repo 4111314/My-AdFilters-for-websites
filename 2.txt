@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210706
+! Version: 20210707
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -78,11 +78,12 @@ ucwz.net
 udashi.com
 
 wangnuan.org
+hao.wantongdiannao.com
 wn51.com
 wnwb.com
 wifigx.com
 wj1234.com
-hao.wantongdiannao.com
+d.wuhanguolu.com
 
 xiangtatech.com
 
