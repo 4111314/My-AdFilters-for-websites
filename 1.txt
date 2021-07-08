@@ -7,6 +7,7 @@
 ! 对根域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
 2047.name
 64memo.com
+64tianwang.com
 
 abc.net.au
 aboluowang.com
