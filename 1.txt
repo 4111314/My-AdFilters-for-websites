@@ -57,10 +57,11 @@ cdef.org
 cdp1989.org
 centralnation.com
 cgu.edu.tw
+chinaaid.net
+chinachange.org
 chinadialogue.net
 chinadialogueocean.net
 chinadigitaltimes.net
-chinaaid.net
 chinainperspective.com
 chinanewsx.com
 chinarightsia.org
