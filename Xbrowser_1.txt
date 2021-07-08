@@ -36,6 +36,8 @@ hk.appledaily.com
 tw.appledaily.com
 www.appledaily.com
 
+aqj.org.tw
+
 !B
 backtotiananmen.com
 www.backtotiananmen.com
