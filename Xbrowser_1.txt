@@ -144,6 +144,8 @@ chinainperspective.com
 www.chinainperspective.com
 
 chinanewscenter.com
+bbs.chinanewscenter.com
+news.chinanewscenter.com
 www.chinanewscenter.com
 
 chinanewsx.com
