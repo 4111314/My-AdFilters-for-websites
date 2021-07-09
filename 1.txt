@@ -28,7 +28,6 @@ bitterwinter.org
 bjs.org
 2newcenturynet.blogspot.com
 64museum.blogspot.com
-64tianwang.wordpress.com
 almightygodisknockingyourdoor.blogspot.com
 benlakuang.blogspot.com
 beyondhighwall.blogspot.com
@@ -277,6 +276,7 @@ watchout.tw
 weiwuer.com
 wenyunchao.com
 wforum.com
+64tianwang.wordpress.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
 journeyshin.wordpress.com
