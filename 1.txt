@@ -24,7 +24,6 @@ bannedbook.org
 bbc.com
 bbc.co.uk
 beijingspring.com
-beyondhighwall.blogspot.com
 bitterwinter.org
 bjs.org
 2newcenturynet.blogspot.com
@@ -32,6 +31,7 @@ bjs.org
 64tianwang.wordpress.com
 almightygodisknockingyourdoor.blogspot.com
 benlakuang.blogspot.com
+beyondhighwall.blogspot.com
 bloodundersnow.blogspot.com
 china64.blogspot.com
 doomsday-specter.blogspot.com
