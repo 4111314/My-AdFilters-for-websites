@@ -49,6 +49,7 @@ bnn.co
 botanwang.com
 bowenpress.com
 boxun.com
+bumeizhiye.com
 businesstoday.com.tw
 buzzorange.com
 
@@ -126,6 +127,7 @@ globalvoices.org
 godfootsteps.org
 gov.tw
 greatfire.org
+gtv.org
 
 heho.com.tw
 helanonline.cn
@@ -139,6 +141,7 @@ hkingtec.com
 hongkongfp.com
 hrichina.org
 hrw.org
+huping.net
 
 icij.org
 idemocracy.asia
@@ -200,6 +203,8 @@ pincong.rocks
 lingfengcomment.pixnet.net
 pts.org.tw
 ptt.cc
+
+quanmindaqiyue.com
 
 rapbull.net
 rebelpeppercartoons.com
@@ -271,6 +276,7 @@ wforum.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
 journeyshin.wordpress.com
+xsypoet.wordpress.com
 zmt0516.wordpress.com
 wqgm.org
 wrchina.org
