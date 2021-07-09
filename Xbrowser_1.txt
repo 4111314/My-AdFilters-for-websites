@@ -59,6 +59,14 @@ www.bbc.co.uk
 beijingspring.com
 www.beijingspring.com
 
+bitterwinter.org
+de.bitterwinter.org
+es.bitterwinter.org
+fr.bitterwinter.org
+it.bitterwinter.org
+jp.bitterwinter.org
+zh.bitterwinter.org
+
 bjs.org
 www.bjs.org
 
