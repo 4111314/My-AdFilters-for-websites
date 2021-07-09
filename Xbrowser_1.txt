@@ -98,6 +98,9 @@ boxun.com
 news.boxun.com
 www.boxun.com
 
+bumeizhiye.com
+www.bumeizhiye.com
+
 businesstoday.com.tw
 www.businesstoday.com.tw
 
@@ -269,6 +272,7 @@ www.epochtimes.com
 
 !F
 falundafa.org
+gb.falundafa.org
 www.falundafa.org
 
 fhcmb.com
@@ -343,6 +347,9 @@ greatfire.org
 en.greatfire.org
 zh.greatfire.org
 
+gtv.org
+www.gtv.org
+
 !H
 heho.com.tw
 www.heho.com.tw
@@ -383,6 +390,9 @@ www.hrichina.org
 
 hrw.org
 www.hrw.org
+
+huping.net
+www.huping.net
 
 !I
 icij.org
@@ -556,6 +566,10 @@ www.pts.org.tw
 ptt.cc
 term.ptt.cc
 www.ptt.cc
+
+!Q
+quanmindaqiyue.com
+www.quanmindaqiyue.com
 
 !R
 rapbull.net
@@ -763,6 +777,7 @@ www.wforum.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
 journeyshin.wordpress.com
+xsypoet.wordpress.com
 zmt0516.wordpress.com
 
 wqgm.org
