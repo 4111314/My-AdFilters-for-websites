@@ -533,6 +533,7 @@ newtalk.tw
 www.newtalk.tw
 
 nextmgz.com
+auth.nextmgz.com
 hk.nextmgz.com
 www.nextmgz.com
 
