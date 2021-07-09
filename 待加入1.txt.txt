@@ -2,7 +2,7 @@ zh.truthmedia.info
 www.truthmedia.info
 truthmedia.info
 en.truthmedia.info
-
+jp.truthmedia.info
 
 https://m.youtube.com/c/%E7%9C%9F%E7%9B%B8%E4%BC%A0%E5%AA%92/featured
 https://m.youtube.com/channel/UCt565OVKzMoPhknhotJeTfw
