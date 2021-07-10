@@ -89,6 +89,9 @@ newtab.7654.com
 www.7654.com
 
 !B
+baitushow.com
+www.baitushow.com
+
 bz.cn
 www.bz.cn
 
@@ -152,6 +155,9 @@ www.haotukankan.com
 i2345.cn
 www.i2345.cn
 
+idesk.cc
+www.idesk.cc
+
 ijinshan.com
 www.ijinshan.com
 
@@ -177,6 +183,11 @@ monidashi.cn
 g.monidashi.cn
 www.monidashi.cn
 
+muxin.fun
+qjpdf.muxin.fun
+thorzip.muxin.fun
+wallpaper.muxin.fun
+
 !Q
 daohang.qq.com
 guojia.qq.com
@@ -188,6 +199,10 @@ www.scjujin.com:6716
 
 shanhutech.cn
 www.shanhutech.cn
+
+shqingzao.com
+wallpaper.shqingzao.com
+www.shqingzao.com
 
 shzhanmeng.com
 7654browser.shzhanmeng.com
