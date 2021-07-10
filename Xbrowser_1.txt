@@ -281,6 +281,8 @@ endccp.com
 www.endccp.com
 
 epochtimes.com
+fr.epochtimes.com
+la.epochtimes.com
 tuidang.epochtimes.com
 www.epochtimes.com
 
