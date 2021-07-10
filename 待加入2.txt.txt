@@ -1,4 +1,5 @@
 muxin.fun
+qjpdf.muxin.fun
 thorzip.muxin.fun
 wallpaper.muxin.fun
 
@@ -7,3 +8,5 @@ www.baitushow.com
 
 idesk.cc
 www.idesk.cc
+
+wallpaper.shqingzao.com
