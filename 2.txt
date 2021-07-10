@@ -51,6 +51,7 @@ flash.cn
 game6677.com
 gbe-corp.com
 
+h5151.com
 hao123.com
 hao123.sh
 hao268.com
@@ -73,7 +74,10 @@ ludashi.com
 monidashi.cn
 muxin.fun
 
+onlinedown.net
+
 pc6.com
+pcsoft.com.cn
 
 daohang.qq.com
 guojia.qq.com
@@ -93,8 +97,10 @@ toutiaobashi.com
 123.twinkstar.cn
 
 uc123.com
+ucbug.com
 ucwz.net
 udashi.com
+uzzf.com
 
 wangnuan.org
 hao.wantongdiannao.com
@@ -108,3 +114,4 @@ xiangtatech.com
 xiazaizhijia.com
 
 znyshurufa.com
+xiazai.zol.com.cn
