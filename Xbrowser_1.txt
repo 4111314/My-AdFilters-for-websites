@@ -286,7 +286,10 @@ www.endccp.com
 epochtimes.co.uk
 www.epochtimes.co.uk
 epochtimes.com
+donate.epochtimes.com
+e-paper.epochtimes.com
 fr.epochtimes.com
+hk.epochtimes.com
 la.epochtimes.com
 tuidang.epochtimes.com
 www.epochtimes.com
