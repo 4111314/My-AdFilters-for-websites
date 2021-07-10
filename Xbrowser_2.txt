@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210707
+! Version: 20210710
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -84,6 +84,10 @@ hao.7654.com
 heinote.7654.com
 newtab.7654.com
 www.7654.com
+
+!B
+bz.cn
+www.bz.cn
 
 !C
 ccleaner.com
