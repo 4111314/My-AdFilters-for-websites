@@ -152,7 +152,13 @@ www.flash.cn
 game6677.com
 www.game6677.com
 
+gbe-corp.com
+www.gbe-corp.com
+
 !H
+h5151.com
+www.h5151.com
+
 hao123.com
 m.hao123.com
 www.hao123.com
@@ -209,10 +215,17 @@ qjpdf.muxin.fun
 thorzip.muxin.fun
 wallpaper.muxin.fun
 
+!O
+onlinedown.net
+www.onlinedown.net
+
 !P
 pc6.com
 libao.pc6.com
 www.pc6.com
+
+pcsoft.com.cn
+www.pcsoft.com.cn
 
 !Q
 daohang.qq.com
@@ -259,12 +272,18 @@ www.toutiaobashi.com
 uc123.com
 www.uc123.com
 
+ucbug.com
+www.ucbug.com
+
 ucwz.net
 m.ucwz.net
 www.ucwz.net
 
 udashi.com
 www.udashi.com
+
+uzzf.com
+www.uzzf.com
 
 !W
 wangnuan.org
@@ -298,5 +317,10 @@ xiazaizhijia.com
 www.xiazaizhijia.com
 
 !Z
+zh100.net
+www.zh100.net
+
 znyshurufa.com
 www.znyshurufa.com
+
+xiazai.zol.com.cn
