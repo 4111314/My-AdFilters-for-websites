@@ -283,14 +283,18 @@ www.eatnews.net
 endccp.com
 www.endccp.com
 
+epochtimes.co.uk
+www.epochtimes.co.uk
 epochtimes.com
 fr.epochtimes.com
 la.epochtimes.com
 tuidang.epochtimes.com
 www.epochtimes.com
-
 epochtimes.com.tw
 www.epochtimes.com.tw
+
+epochweekly.com
+www.epochweekly.com
 
 expecthim.com
 www.expecthim.com
@@ -556,6 +560,9 @@ www.nouvelobs.com
 
 npf.org.tw
 www.npf.org.tw
+
+ntdca.com
+www.ntdca.com
 
 nytimes.com
 cn.nytimes.com
