@@ -209,6 +209,11 @@ qjpdf.muxin.fun
 thorzip.muxin.fun
 wallpaper.muxin.fun
 
+!P
+pc6.com
+libao.pc6.com
+www.pc6.com
+
 !Q
 daohang.qq.com
 guojia.qq.com
@@ -288,6 +293,9 @@ fxbrowser.xiangtatech.com
 tsbrowser.xiangtatech.com
 feedback.tsbrowser.xiangtatech.com
 www.xiangtatech.com
+
+xiazaizhijia.com
+www.xiazaizhijia.com
 
 !Z
 znyshurufa.com
