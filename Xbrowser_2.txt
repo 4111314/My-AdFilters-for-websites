@@ -69,6 +69,7 @@ wifi.360.cn
 www.360.cn
 yunpan.360.cn
 360.com
+hao.360.com
 www.360.com
 
 360kan.com
