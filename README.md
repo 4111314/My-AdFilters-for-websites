@@ -136,6 +136,8 @@ https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
 https://github.com/langren1353/GM_script
 
+https://www.52pojie.cn/thread-1070300-1-1.html
+
 （此名单不完全）
 
 
