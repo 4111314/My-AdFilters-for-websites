@@ -128,17 +128,17 @@ uBlacklist_n.txt就为uBlacklist这个扩展准备的。但我已经决定采用
 
 # 六、感谢名单
 
-https://github.com/gorhill/uBlock
-
-https://github.com/uBlockOrigin/uAssets
+https://www.52pojie.cn/thread-1070300-1-1.html
 
 https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 
+https://github.com/gorhill/uBlock
+
 https://github.com/langren1353/GM_script
 
-https://www.52pojie.cn/thread-1070300-1-1.html
+https://github.com/uBlockOrigin/uAssets
 
-（此名单不完全）
+（此名单不完全，按域名排序）
 
 
 （待续）
