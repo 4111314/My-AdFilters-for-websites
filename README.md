@@ -138,7 +138,7 @@ https://github.com/langren1353/GM_script
 
 https://github.com/uBlockOrigin/uAssets
 
-https://www.xbext.com/
+https://www.xbext.com/(X浏览器官网)
 
 （此名单不完全，按域名排序）
 
