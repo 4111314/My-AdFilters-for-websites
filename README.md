@@ -132,7 +132,7 @@ https://www.52pojie.cn/thread-1070300-1-1.html (提供了对恶意广告网站�
 
 https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist (收集了大量内容农场)
 
-https://github.com/gorhill/uBlock
+https://github.com/gorhill/uBlock(Ublock Origin官方项目)
 
 https://github.com/langren1353/GM_script
 
