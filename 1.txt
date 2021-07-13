@@ -127,6 +127,7 @@ ftchinese.com
 ftchineselive.com
 ftvnews.com.tw
 
+gettr.com
 gfw.report
 github.com/arvtrn3389
 github.com/gfw-breaker
