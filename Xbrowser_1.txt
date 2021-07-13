@@ -278,6 +278,10 @@ learngerman.dw.com
 m.dw.com
 www.dw.com
 
+dwnews.com
+blog.dwnews.com
+www.dwnews.com
+
 !E
 easternlightning.org
 www.easternlightning.org
