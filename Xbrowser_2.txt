@@ -195,6 +195,9 @@ www.idesk.cc
 ijinshan.com
 www.ijinshan.com
 
+izhongcheng.cn
+www.izhongcheng.cn
+
 !J
 jiegeng.com
 www.jiegeng.com
@@ -213,6 +216,13 @@ ludashi.com
 www.ludashi.com
 
 !M
+makeding.com
+en.makeding.com
+www.makeding.com
+
+makedingtech.com
+www.makedingtech.com
+
 monidashi.cn
 g.monidashi.cn
 www.monidashi.cn
@@ -274,6 +284,10 @@ toutiaobashi.com
 www.toutiaobashi.com
 
 123.twinkstar.cn
+
+!V
+vcg.com
+www.vcg.com
 
 !U
 uc123.com
