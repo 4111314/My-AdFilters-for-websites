@@ -98,6 +98,7 @@ bnext.com.tw
 www.bnext.com.tw
 
 bnn.co
+blog.bnn.co
 www.bnn.co
 
 botanwang.com
