@@ -357,6 +357,8 @@ ftvnews.com.tw
 www.ftvnews.com.tw
 
 !G
+gettr.com
+
 gfw.report
 www.gfw.report
 
