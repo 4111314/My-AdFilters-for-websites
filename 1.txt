@@ -142,6 +142,7 @@ github.com/programthink
 github.com/SciOwl
 github.com/vote4hk
 github.com/webdao
+dtnews.github.io/dtnews-zh-cn
 globalvoices.org
 gnews.org
 godfootsteps.org
