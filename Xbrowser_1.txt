@@ -458,6 +458,9 @@ www.icij.org
 
 idemocracy.asia
 
+ifex.org
+www.ifex.org
+
 ifj.org
 www.ifj.org
 
@@ -840,6 +843,10 @@ watchout.tw
 www.watchout.tw
 
 wechatgo.weebly.com
+
+weiming.info
+m.weiming.info
+www.weiming.info
 
 weiwuer.com
 www.weiwuer.com
