@@ -380,6 +380,8 @@ github.com/SciOwl
 github.com/vote4hk
 github.com/webdao
 
+dtnews.github.io/dtnews-zh-cn
+
 globalvoices.org
 
 gnews.org
@@ -541,6 +543,7 @@ matters.news
 www.matters.news
 
 medium.com
+patrickpoon.medium.com
 www.medium.com
 
 woeser.middle-way.net
