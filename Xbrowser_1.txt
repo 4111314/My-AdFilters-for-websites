@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210712
+! Version: 20210715
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -644,6 +644,9 @@ www.pch.org.tw
 
 peoplenews.tw
 www.peoplenews.tw
+
+petaasia.com
+www.petaasia.com
 
 pincong.rocks
 www.pincong.rocks
