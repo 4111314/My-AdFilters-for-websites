@@ -849,6 +849,7 @@ www.twreporter.org
 
 !U
 udn.com
+blog.udn.com
 opinion.udn.com
 www.udn.com
 
