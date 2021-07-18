@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210717
+! Version: 20210718
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -92,6 +92,7 @@ doomsday-specter.blogspot.com
 guxiaojun538.blogspot.com
 jasmineplaces.blogspot.com
 jianglinarticles.blogspot.com
+lihuaw.blogspot.com
 lingbaxianzhang.blogspot.com
 newsworthknowingcn.blogspot.com
 otporchina.blogspot.com
@@ -217,6 +218,9 @@ www.clb.org.hk
 
 climateemergencyeu.org
 
+cmcn.org
+www.cmcn.org
+
 cna.com.tw
 www.cna.com.tw
 
@@ -308,6 +312,9 @@ www.easternlightning.org
 eatnews.com
 eatnews.net
 www.eatnews.net
+
+embapartwroc.com.tw
+www.embapartwroc.com.tw
 
 endccp.com
 www.endccp.com
@@ -411,7 +418,9 @@ www.ey.gov.tw
 phb.kinmen.gov.tw
 www.mac.gov.tw
 cpd.moe.gov.tw
+mofa.gov.tw
 nspp.mofa.gov.tw
+www.mofa.gov.tw
 www.mohw.gov.tw
 www.moi.gov.tw
 laws.mol.gov.tw
