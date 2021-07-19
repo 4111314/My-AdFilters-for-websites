@@ -81,6 +81,11 @@ it.bitterwinter.org
 jp.bitterwinter.org
 zh.bitterwinter.org
 
+bjnews.com.cn
+epaper.bjnews.com.cn
+m.bjnews.com.cn
+www.bjnews.com.cn
+
 bjs.org
 www.bjs.org
 
@@ -532,6 +537,10 @@ www.iyouport.org
 jah.org.tw
 www.jah.org.tw
 
+jiemian.com
+m.jiemian.com
+www.jiemian.com
+
 !K
 kannewyork.com
 www.kannewyork.com
@@ -806,6 +815,10 @@ www.theinitium.com
 
 thenewslens.com
 www.thenewslens.com
+
+thepaper.cn
+m.thepaper.cn
+www.thepaper.cn
 
 thestandnews.com
 beta.thestandnews.com
