@@ -27,6 +27,7 @@ http://www.ntdtv.cz/
 https://mingdemedia.org/
 https://zh-cn.shenyun.com/
 https://en-us.shenyun.org/
+https://zh-tw.shenyun.org/
 https://zh-cn.shenyunperformingarts.org/
 https://en-us.shenyunperformingarts.org/
 https://zh-tw.shenyunperformingarts.org/
