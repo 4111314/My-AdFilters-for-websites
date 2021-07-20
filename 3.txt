@@ -7,6 +7,7 @@
 
 hanlefang.net
 lanzhouyangsheng.com
+xinli.xkyn.com
 
 !都是之前找到并确认的，距今（2021.7.10）已有三个月（2021.4.13确认并提交更新，可见本文件提交历史），但除了lanzhouyangsheng.com都打不开
 www.23cpc.com
