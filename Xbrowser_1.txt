@@ -673,6 +673,10 @@ www.nownews.com
 npf.org.tw
 www.npf.org.tw
 
+ntd.com
+mb.ntd.com
+www.ntd.com
+
 ntdca.com
 www.ntdca.com
 
