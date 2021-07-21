@@ -688,6 +688,9 @@ cn.ntdtv.com
 m.ntdtv.com
 www.ntdtv.com
 
+ntdtv.com.tw
+www.ntdtv.com.tw
+
 ntdtv.jp
 m.ntdtv.jp
 www.ntdtv.jp
@@ -711,9 +714,6 @@ www.open.com.hk
 
 opendemocracy.net
 www.opendemocracy.net
-
-ntdtv.com
-www.ntdtv.com
 
 !P
 wwf.panda.org
