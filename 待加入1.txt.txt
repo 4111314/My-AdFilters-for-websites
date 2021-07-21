@@ -40,16 +40,16 @@ https://ko.shenyun.org/
 
 
 
-ja.shenyunperformingarts.org
-ko.shenyunperformingarts.org
-nl.shenyunperformingarts.org
-pl.shenyunperformingarts.org
-pt.shenyunperformingarts.org
-ru.shenyunperformingarts.org
-sv.shenyunperformingarts.org
-vi.shenyunperformingarts.org
-zh-cn.shenyunperformingarts.org
-zh-tw.shenyunperformingarts.org
+
+
+
+
+
+
+
+
+
+
 
 https://www.shenyuncreations.com/zh_tw/
 http://www.nchugloria.com/index.php?lang=cht
