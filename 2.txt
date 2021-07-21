@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210720
+! Version: 20210721
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -12,6 +12,7 @@
 12345good.com
 12345h.com
 1234wu.com
+1234wu.net
 188soft.com
 jianzhu.188yg.com
 2345.cc
