@@ -782,6 +782,26 @@ www.secretchina.com
 shahit.biz
 www.shahit.biz
 
+shenyunperformingarts.org
+cs.shenyunperformingarts.org
+de.shenyunperformingarts.org
+en-us.shenyunperformingarts.org
+es.shenyunperformingarts.org
+fr.shenyunperformingarts.org
+id.shenyunperformingarts.org
+il.shenyunperformingarts.org
+it.shenyunperformingarts.org
+ja.shenyunperformingarts.org
+ko.shenyunperformingarts.org
+nl.shenyunperformingarts.org
+pl.shenyunperformingarts.org
+pt.shenyunperformingarts.org
+ru.shenyunperformingarts.org
+sv.shenyunperformingarts.org
+vi.shenyunperformingarts.org
+zh-cn.shenyunperformingarts.org
+zh-tw.shenyunperformingarts.org
+
 sinoinsider.com
 tw.sinoinsider.com
 www.sinoinsider.com
