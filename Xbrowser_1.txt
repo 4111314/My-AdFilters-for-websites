@@ -688,6 +688,10 @@ cn.ntdtv.com
 m.ntdtv.com
 www.ntdtv.com
 
+ntdtv.jp
+m.ntdtv.jp
+www.ntdtv.jp
+
 nychinaren.com
 www.nychinaren.com
 
