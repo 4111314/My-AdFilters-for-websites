@@ -556,6 +556,9 @@ kingdomsalvation.org
 tr.kingdomsalvation.org
 www.kingdomsalvation.org
 
+kloak.app
+www.kloak.app
+
 knh.org.tw
 www.knh.org.tw
 
