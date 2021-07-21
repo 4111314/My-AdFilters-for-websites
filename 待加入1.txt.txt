@@ -27,25 +27,7 @@ http://www.ntdtv.cz/
 https://mingdemedia.org
 
 
-shenyun.org
-cs.shenyun.org
-de.shenyun.org
-en-us.shenyun.org
-es.shenyun.org
-fr.shenyun.org
-id.shenyun.org
-il.shenyun.org
-it.shenyun.org
-ja.shenyun.org
-nl.shenyun.org
-ko.shenyun.org
-pl.shenyun.org
-pt.shenyun.org
-ru.shenyun.org
-sv.shenyun.org
-vi.shenyun.org
-zh-cn.shenyun.com
-zh-tw.shenyun.org
+
 
 
 
