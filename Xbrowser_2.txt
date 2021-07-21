@@ -238,6 +238,10 @@ qjpdf.muxin.fun
 thorzip.muxin.fun
 wallpaper.muxin.fun
 
+!N
+newduba.cn
+www.newduba.cn
+
 !O
 onlinedown.net
 www.onlinedown.net
