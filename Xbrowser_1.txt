@@ -785,6 +785,26 @@ www.secretchina.com
 shahit.biz
 www.shahit.biz
 
+shenyun.org
+cs.shenyun.org
+de.shenyun.org
+en-us.shenyun.org
+es.shenyun.org
+fr.shenyun.org
+id.shenyun.org
+il.shenyun.org
+it.shenyun.org
+ja.shenyun.org
+nl.shenyun.org
+ko.shenyun.org
+pl.shenyun.org
+pt.shenyun.org
+ru.shenyun.org
+sv.shenyun.org
+vi.shenyun.org
+zh-cn.shenyun.com
+zh-tw.shenyun.org
+
 shenyunperformingarts.org
 cs.shenyunperformingarts.org
 de.shenyunperformingarts.org
