@@ -759,6 +759,9 @@ ptt.cc
 term.ptt.cc
 www.ptt.cc
 
+pttgopolitics.com
+www.pttgopolitics.com
+
 ptt-politics.com
 
 !Q
