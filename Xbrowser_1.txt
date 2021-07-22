@@ -759,6 +759,8 @@ ptt.cc
 term.ptt.cc
 www.ptt.cc
 
+ptt-politics.com
+
 !Q
 quanmindaqiyue.com
 www.quanmindaqiyue.com
