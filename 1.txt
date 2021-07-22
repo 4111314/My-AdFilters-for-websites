@@ -266,6 +266,7 @@ lingfengcomment.pixnet.net
 pri.org
 pts.org.tw
 ptt.cc
+ptt2.cc
 pttgopolitics.com
 pttweb.cc
 ptt-politics.com
