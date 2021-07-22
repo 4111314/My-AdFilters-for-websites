@@ -138,11 +138,11 @@ https://www.bilibili.com/video/BV1pJ41117hH?p=1&share_medium=android&share_plat=
 
 https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist (收集了大量内容农场)
 
-https://github.com/gorhill/uBlock(Ublock Origin官方项目)
+https://github.com/gorhill/uBlock (Ublock Origin官方项目)
 
 https://github.com/langren1353/GM_script(AC-baidu脚本官方项目)
 
-https://github.com/uBlockOrigin/uAssets(Ublock Origin的一些资源，包含了一些恶意网站)
+https://github.com/uBlockOrigin/uAssets (Ublock Origin的一些资源，包含了一些恶意网站)
 
 https://www.xbext.com/ (X浏览器官网)
 
