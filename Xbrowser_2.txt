@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210723
+! Version: 20210724
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -63,6 +63,7 @@ www.3456.cc
 baoku.360.cn
 hao.360.cn
 m.360.cn
+msoftdl.360.cn
 sd.360.cn
 sj.360.cn
 soft.360.cn
