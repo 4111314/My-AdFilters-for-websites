@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210724
+! Version: 20210726
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -166,6 +166,9 @@ www.game6677.com
 
 gbe-corp.com
 www.gbe-corp.com
+
+getit01.com
+www.getit01.com
 
 !H
 h5151.com
