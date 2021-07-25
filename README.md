@@ -148,6 +148,8 @@ https://github.com/uBlockOrigin/uAssets (Ublock Origin的一些资源，包含�
 
 https://www.xbext.com/ (X浏览器官网)
 
+https://www.zhihu.com/question/310479539/answer/1145391366
+
 （此名单不完全，按域名排序）
 
 
