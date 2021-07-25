@@ -136,8 +136,6 @@ https://www.52pojie.cn/thread-1070300-1-1.html (提供了对恶意广告网站�
 
 https://www.bilibili.com/video/BV1pJ41117hH?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1626825292&uni (深挖了恶意广告背后的事情)
 
-https://www.getit01.com/p20201113831047953/
-
 https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist (收集了大量内容农场)
 
 https://github.com/gorhill/uBlock (Ublock Origin官方项目)
