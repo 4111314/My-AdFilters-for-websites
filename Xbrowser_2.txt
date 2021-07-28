@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210726
+! Version: 20210728
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -289,6 +289,7 @@ sma.so
 
 123.sogou.com
 dh.123.sogou.com
+mse.sogou.com
 
 ssouu.com
 www.ssouu.com
