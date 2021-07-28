@@ -100,6 +100,7 @@ chrome.shzxwhcm.top
 skycn.com
 sma.so
 123.sogou.com
+ie.sogou.com
 mse.sogou.com
 ssouu.com
 suzip.com.cn
