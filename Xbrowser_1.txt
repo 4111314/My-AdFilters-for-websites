@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210723
+! Version: 20210730
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -447,6 +447,8 @@ www.cdc.gov.tw
 web.customs.gov.tw
 www.ey.gov.tw
 phb.kinmen.gov.tw
+ly.gov.tw
+www.ly.gov.tw
 www.mac.gov.tw
 cpd.moe.gov.tw
 mofa.gov.tw
@@ -623,6 +625,7 @@ mingdemedia.org
 www.mingdemedia.org
 
 minghui.org
+big5.minghui.org
 www.minghui.org
 
 mingjingnews.com
@@ -672,6 +675,9 @@ wallockman.netlify.app
 
 newpowerparty.tw
 www.newpowerparty.tw
+
+newsgni.com
+www.newsgni.com
 
 newtalk.tw
 www.newtalk.tw
@@ -1044,6 +1050,8 @@ wars.vote4.hk
 wainao.me
 www.wainao.me
 
+wallsttv.com
+
 washingtonpost.com
 www.washingtonpost.com
 
@@ -1078,6 +1086,7 @@ hexiefarm.wordpress.com
 hka8964.wordpress.com
 journeyshin.wordpress.com
 libifeng2012.wordpress.com
+pocsupport.wordpress.com
 sfchoi8964.wordpress.com
 xsypoet.wordpress.com
 zmt0516.wordpress.com
