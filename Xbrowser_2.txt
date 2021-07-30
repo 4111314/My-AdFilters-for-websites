@@ -260,6 +260,7 @@ m.pcsoft.com.cn
 www.pcsoft.com.cn
 
 !Q
+browser.qq.com
 daohang.qq.com
 guojia.qq.com
 hao.qq.com
