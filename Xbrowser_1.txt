@@ -242,6 +242,7 @@ cmcn.org
 www.cmcn.org
 
 cna.com.tw
+mjapan.cna.com.tw
 www.cna.com.tw
 
 cnd.org
@@ -376,6 +377,15 @@ falundafa.org
 gb.falundafa.org
 ko.falundafa.org
 www.falundafa.org
+
+falundafa-dc.org
+www.falundafa-dc.org
+
+faluninfo.or.kr
+www.faluninfo.or.kr
+
+falundafa.org.my
+www.falundafa.org.my
 
 falundafa.org.tw
 www.falundafa.org.tw
