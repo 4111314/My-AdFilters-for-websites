@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210730
+! Version: 20210731
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -162,6 +162,9 @@ www.cdef.org
 
 cdp1989.org
 www.cdp1989.org
+
+ceciliayu.com
+www.ceciliayu.com
 
 centralnation.com
 www.centralnation.com
@@ -366,9 +369,16 @@ expecthim.com
 www.expecthim.com
 
 !F
+falundafa.ca
+www.falundafa.ca
+
 falundafa.org
 gb.falundafa.org
+ko.falundafa.org
 www.falundafa.org
+
+falundafa.org.tw
+www.falundafa.org.tw
 
 fccchina.org
 www.fccchina.org
@@ -473,6 +483,9 @@ zh.greatfire.org
 
 gtv.org
 www.gtv.org
+
+guangyancaijing.com
+www.guangyancaijing.com
 
 !H
 heho.com.tw
@@ -1087,12 +1100,16 @@ www.wforum.com
 guohaiyancom.wordpress.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
+huichun.wordpress.com
 journeyshin.wordpress.com
 libifeng2012.wordpress.com
 pocsupport.wordpress.com
 sfchoi8964.wordpress.com
 xsypoet.wordpress.com
 zmt0516.wordpress.com
+
+worldcitizen.fr
+www.worldcitizen.fr
 
 wqgm.org
 www.wqgm.org
@@ -1131,6 +1148,9 @@ www.ycp.org.tw
 
 yibaochina.com
 www.yibaochina.com
+
+yuzb.net
+www.yuzb.net
 
 yzzk.com
 www.yzzk.com
