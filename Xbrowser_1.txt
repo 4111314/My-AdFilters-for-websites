@@ -839,6 +839,7 @@ rfi.fr
 amp.rfi.fr
 cn.rfi.fr
 www.rfi.fr
+www1.rfi.fr
 
 roc-taiwan.org
 www.roc-taiwan.org
