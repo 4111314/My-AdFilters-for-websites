@@ -637,6 +637,7 @@ news.ltn.com.tw
 sports.ltn.com.tw
 talk.ltn.com.tw
 www.ltn.com.tw
+video.ltn.com.tw
 
 lzjscript.com
 www.lzjscript.com
