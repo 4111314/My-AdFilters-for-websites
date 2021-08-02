@@ -349,6 +349,7 @@ duping.net
 www.duping.net
 
 dw.com
+amp.dw.com
 learngerman.dw.com
 m.dw.com
 www.dw.com
