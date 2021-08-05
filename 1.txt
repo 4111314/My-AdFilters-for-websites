@@ -6,12 +6,14 @@
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
 0bei.org
+163.30.142.9
 2047.name
 blog.3dgowl.com
 64memo.com
 64tianwang.com
 6do.news
 6parkbbs.com
+8964museum.com
 
 abc.net.au
 aboluowang.com
@@ -26,6 +28,7 @@ appledaily.com
 aqj.org.tw
 aricchen.com
 asahi.com
+asianews.it
 
 backchina.com
 backtotiananmen.com
