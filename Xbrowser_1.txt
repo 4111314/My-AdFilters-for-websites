@@ -374,6 +374,9 @@ www.eatnews.net
 embapartwroc.com.tw
 www.embapartwroc.com.tw
 
+enanyang.my
+www.enanyang.my
+
 endccp.com
 www.endccp.com
 
@@ -503,6 +506,8 @@ phb.kinmen.gov.tw
 ly.gov.tw
 www.ly.gov.tw
 www.mac.gov.tw
+mjib.gov.tw
+www.mjib.gov.tw
 cpd.moe.gov.tw
 mofa.gov.tw
 nspp.mofa.gov.tw
@@ -573,6 +578,7 @@ hongkongfp.com
 www.hongkongfp.com
 
 hrichina.org
+biweeklyarchive.hrichina.org
 www.hrichina.org
 
 hrw.org
@@ -585,6 +591,9 @@ www.huping.net
 icij.org
 offshoreleaks.icij.org
 www.icij.org
+
+icpc-chinesepen.org
+www.icpc-chinesepen.org
 
 idemocracy.asia
 
@@ -676,6 +685,10 @@ lzjscript.com
 www.lzjscript.com
 
 !M
+malaysiakini.com
+m.malaysiakini.com
+www.malaysiakini.com
+
 malinowskifornj.com
 www.malinowskifornj.com
 
@@ -839,6 +852,9 @@ www.pao-pao.net
 
 pch.org.tw
 www.pch.org.tw
+
+pen-international.org
+www.pen-international.org
 
 peoplenews.tw
 www.peoplenews.tw
