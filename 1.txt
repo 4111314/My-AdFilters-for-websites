@@ -143,6 +143,7 @@ easternlightning.org
 eatnews.com
 eatnews.net
 embapartwroc.com.tw
+enanyang.my
 endccp.com
 epochtimes.co.uk
 epochtimes.com
@@ -211,6 +212,7 @@ hrw.org
 huping.net
 
 icij.org
+icpc-chinesepen.org
 idemocracy.asia
 ifex.org
 ifj.org
@@ -241,6 +243,7 @@ liu-xiaobo.org
 ltn.com.tw
 lzjscript.com
 
+malaysiakini.com
 malinowskifornj.com
 martinoei.com
 marxist.com
@@ -296,6 +299,7 @@ opendemocracy.net
 wwf.panda.org
 pao-pao.net
 pch.org.tw
+pen-international.org
 peoplenews.tw
 petaasia.com
 pincong.rocks
