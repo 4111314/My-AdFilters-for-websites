@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_3
 ! Expires: 1 days
-! Version: 20210427
+! Version: 20210806
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
 hanlefang.net
+kknews.cc
 lanzhouyangsheng.com
 read01.com
 tspweb.com
