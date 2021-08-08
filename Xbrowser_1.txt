@@ -78,6 +78,9 @@ www.asahi.com
 asianews.it
 www.asianews.it
 
+atozitpro.net
+www.atozitpro.net
+
 !B
 backchina.com
 www.backchina.com
@@ -121,6 +124,7 @@ benlakuang.blogspot.com
 beyondhighwall.blogspot.com
 bloodundersnow.blogspot.com
 captxue.blogspot.com
+ccfr2017org.blogspot.com
 china64.blogspot.com
 doomsday-specter.blogspot.com
 forgetfulbc.blogspot.com
@@ -348,6 +352,9 @@ tui.ddns.net
 dialoguechina.com
 www.dialoguechina.com
 
+diaoshow.com
+www.diaoshow.com
+
 china.diplo.de
 
 disp.cc
@@ -410,6 +417,9 @@ www.epochtimes.com.tw
 
 epochweekly.com
 www.epochweekly.com
+
+esu.dog
+www.esu.dog
 
 expecthim.com
 www.expecthim.com
