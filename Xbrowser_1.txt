@@ -1244,6 +1244,9 @@ uyghur-j.org
 www.uyghur-j.org
 
 !V
+vct.news
+www.vct.news
+
 voacantonese.com
 www.voacantonese.com
 
