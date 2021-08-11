@@ -766,6 +766,9 @@ medium.com
 patrickpoon.medium.com
 www.medium.com
 
+meteor.today
+www.meteor.today
+
 woeser.middle-way.net
 
 mingdemedia.org
