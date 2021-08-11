@@ -7,6 +7,7 @@
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
 0bei.org
 163.30.142.9
+2008xianzhang.info
 2047.name
 blog.3dgowl.com
 64memo.com
