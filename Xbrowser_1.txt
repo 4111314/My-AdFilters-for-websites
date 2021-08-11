@@ -1204,6 +1204,9 @@ www.twport.com.tw
 twreporter.org
 www.twreporter.org
 
+typcn.org
+www.typcn.org
+
 !U
 udn.com
 blog.udn.com
