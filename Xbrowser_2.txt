@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210730
+! Version: 20210812
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -260,6 +260,8 @@ m.pcsoft.com.cn
 www.pcsoft.com.cn
 
 !Q
+123.qiuquan.org
+
 browser.qq.com
 daohang.qq.com
 guojia.qq.com
