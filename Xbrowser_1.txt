@@ -517,6 +517,9 @@ www.ftvnews.com.tw
 !G
 gettr.com
 
+gfw.press
+www.gfw.press
+
 gfw.report
 www.gfw.report
 
