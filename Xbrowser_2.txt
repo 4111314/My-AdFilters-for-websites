@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210812
+! Version: 20210813
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -44,8 +44,12 @@ jianzhu.188yg.com
 !2
 2345.cc
 2345.com
+e.2345.com
 h5.2345.com
 m.2345.com
+tianqi.2345.com
+tools.2345.com
+waptv.2345.com
 www.2345.com
 xiaoyouxi.2345.com
 
