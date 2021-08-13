@@ -194,6 +194,7 @@ ftchineselive.com
 ftvnews.com.tw
 
 gettr.com
+gfw.press
 gfw.report
 ghub.org
 github.com/arvtrn3389
