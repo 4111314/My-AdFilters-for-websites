@@ -46,6 +46,8 @@ jianzhu.188yg.com
 2345.com
 e.2345.com
 h5.2345.com
+ie.2345.com
+skin.ie.2345.com
 m.2345.com
 tianqi.2345.com
 tools.2345.com
