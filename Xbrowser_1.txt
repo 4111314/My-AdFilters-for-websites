@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210817
+! Version: 20210818
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -178,6 +178,9 @@ www.bowenpress.com
 boxun.com
 news.boxun.com
 www.boxun.com
+
+bryandeanwright.com
+www.bryandeanwright.com
 
 bumeizhiye.com
 www.bumeizhiye.com
@@ -822,6 +825,9 @@ www.mychinese.news
 
 myptt.cc
 
+mythinformed.org
+www.mythinformed.org
+
 maddog.myradio.hk
 
 !N
@@ -934,6 +940,9 @@ www.pen-international.org
 
 peoplenews.tw
 www.peoplenews.tw
+
+perseus852.media
+www.perseus852.media
 
 petaasia.com
 www.petaasia.com
@@ -1338,6 +1347,7 @@ guohaiyancom.wordpress.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
 huichun.wordpress.com
+jiaweiwhite.wordpress.com
 journeyshin.wordpress.com
 libifeng2012.wordpress.com
 pocsupport.wordpress.com
