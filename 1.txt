@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20210818
+! Version: 20210819
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -20,6 +20,7 @@ aadilbrar.com
 abc.net.au
 aboluowang.com
 liyashen.academia.edu
+afnj.org
 agribank.com.tw
 allinfa.com
 amnesty.org
@@ -55,6 +56,7 @@ captxue.blogspot.com
 ccfr2017org.blogspot.com
 china64.blogspot.com
 chinajsm.blogspot.com
+csdpfujian.blogspot.com
 doomsday-specter.blogspot.com
 forgetfulbc.blogspot.com
 fuzhibin.blogspot.com
@@ -154,6 +156,7 @@ dj-llcintegralservices.com
 dphk.org
 dpp.org.tw
 drmacaca.com
+drsu.blog
 duping.net
 dw.com
 dwnews.com
