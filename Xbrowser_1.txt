@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210818
+! Version: 20210819
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -45,6 +45,9 @@ aboluowang.com
 www.aboluowang.com
 
 liyashen.academia.edu
+
+afnj.org
+www.afnj.org
 
 agribank.com.tw
 www.agribank.com.tw
@@ -136,6 +139,7 @@ captxue.blogspot.com
 ccfr2017org.blogspot.com
 china64.blogspot.com
 chinajsm.blogspot.com
+csdpfujian.blogspot.com
 doomsday-specter.blogspot.com
 forgetfulbc.blogspot.com
 fuzhibin.blogspot.com
@@ -393,6 +397,9 @@ www.dpp.org.tw
 
 drmacaca.com
 www.drmacaca.com
+
+drsu.blog
+www.drsu.blog
 
 duping.net
 www.duping.net
