@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210819
+! Version: 20210821
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -457,8 +457,8 @@ www.epochweekly.com
 esu.dog
 www.esu.dog
 
-himalaya.exchange
-www.himalaya.exchange
+etnet.com.hk
+www.etnet.com.hk
 
 expecthim.com
 www.expecthim.com
@@ -631,6 +631,9 @@ www.h-china.org
 
 hidden-advent.org
 www.hidden-advent.org
+
+himalaya.exchange
+www.himalaya.exchange
 
 himalayaustralia.com.au
 www.himalayaustralia.com.au
