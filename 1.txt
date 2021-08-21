@@ -176,6 +176,7 @@ epochtimes.com.tw
 epochweekly.com
 esu.dog
 etnet.com.hk
+europarl.europa.eu
 expecthim.com
 
 falundafa.ca
@@ -478,6 +479,7 @@ huichun.wordpress.com
 jiaweiwhite.wordpress.com
 journeyshin.wordpress.com
 libifeng2012.wordpress.com
+noscenotes.wordpress.com
 nzlike.wordpress.com
 phoenixnestca.wordpress.com
 pocsupport.wordpress.com
