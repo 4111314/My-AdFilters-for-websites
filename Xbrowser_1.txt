@@ -461,6 +461,9 @@ www.esu.dog
 etnet.com.hk
 www.etnet.com.hk
 
+europarl.europa.eu
+www.europarl.europa.eu
+
 expecthim.com
 www.expecthim.com
 
@@ -1388,6 +1391,7 @@ huichun.wordpress.com
 jiaweiwhite.wordpress.com
 journeyshin.wordpress.com
 libifeng2012.wordpress.com
+noscenotes.wordpress.com
 nzlike.wordpress.com
 phoenixnestca.wordpress.com
 pocsupport.wordpress.com
