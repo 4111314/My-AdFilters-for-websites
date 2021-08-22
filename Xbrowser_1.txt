@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210821
+! Version: 20210822
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -906,6 +906,9 @@ ninecommentaries.com
 www.ninecommentaries.com
 
 nmsl.website
+
+notepad-plus-plus.org
+www.notepad-plus-plus.org
 
 nouvelobs.com
 www.nouvelobs.com
