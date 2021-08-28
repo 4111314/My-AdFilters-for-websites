@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20210826
+! Version: 20210828
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -60,11 +60,14 @@ ccfr2017org.blogspot.com
 china64.blogspot.com
 chinajsm.blogspot.com
 csdpfujian.blogspot.com
+debunkingbendnotbreak.blogspot.com
 doomsday-specter.blogspot.com
+fangzhouzi-xys.blogspot.com
 forgetfulbc.blogspot.com
 freecgc.blogspot.com
 fuzhibin.blogspot.com
 guxiaojun538.blogspot.com
+home-schooling-chinese.blogspot.com
 huanxueshil.blogspot.com
 jasmineplaces.blogspot.com
 jianglinarticles.blogspot.com
@@ -154,6 +157,7 @@ dalailama.com
 dalailamaworld.com
 dcvonline.net
 tui.ddns.net
+dforce.cc
 dialoguechina.com
 diaoshow.com
 china.diplo.de
@@ -249,6 +253,7 @@ himalayaustralia.com.au
 himself65.com
 hk01.com
 hkcnews.com
+hkctu.org.hk
 hkhkhk.com
 hkingtec.com
 hkrev.info
@@ -411,6 +416,7 @@ sinoinsider.com
 sinoturknews.org
 smhric.org
 soundofhope.org
+standoffattiananmen.com
 state.gov
 statebuilding.tw
 stfranciscn.com
@@ -434,6 +440,7 @@ thenewslens.com
 thepaper.cn
 thestandnews.com
 thinkingtaiwan.com
+tiananmenduizhi.com
 tiananmenmother.org
 tiananmenuniv.com
 tiananmenuniv.net
@@ -493,6 +500,7 @@ huichun.wordpress.com
 jiaweiwhite.wordpress.com
 journeyshin.wordpress.com
 libifeng2012.wordpress.com
+lijinjin11.wordpress.com
 noscenotes.wordpress.com
 nzlike.wordpress.com
 phoenixnestca.wordpress.com
