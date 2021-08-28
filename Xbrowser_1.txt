@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210826
+! Version: 20210828
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -147,11 +147,14 @@ ccfr2017org.blogspot.com
 china64.blogspot.com
 chinajsm.blogspot.com
 csdpfujian.blogspot.com
+debunkingbendnotbreak.blogspot.com
 doomsday-specter.blogspot.com
+fangzhouzi-xys.blogspot.com
 forgetfulbc.blogspot.com
 freecgc.blogspot.com
 fuzhibin.blogspot.com
 guxiaojun538.blogspot.com
+home-schooling-chinese.blogspot.com
 huanxueshil.blogspot.com
 jasmineplaces.blogspot.com
 jianglinarticles.blogspot.com
@@ -384,6 +387,9 @@ dcvonline.net
 www.dcvonline.net
 
 tui.ddns.net
+
+dforce.cc
+www.dforce.cc
 
 dialoguechina.com
 www.dialoguechina.com
@@ -662,6 +668,9 @@ www.hk01.com
 hkcnews.com
 covid-19.hkcnews.com
 www.hkcnews.com
+
+hkctu.org.hk
+www.hkctu.org.hk
 
 hkhkhk.com
 www.hkhkhk.com
@@ -1189,6 +1198,9 @@ soundofhope.org
 m.soundofhope.org
 www.soundofhope.org
 
+standoffattiananmen.com
+www.standoffattiananmen.com
+
 state.gov
 www.state.gov
 
@@ -1258,6 +1270,9 @@ www.thestandnews.com
 
 thinkingtaiwan.com
 www.thinkingtaiwan.com
+
+tiananmenduizhi.com
+www.tiananmenduizhi.com
 
 tiananmenuniv.com
 www.tiananmenuniv.com
@@ -1417,6 +1432,7 @@ huichun.wordpress.com
 jiaweiwhite.wordpress.com
 journeyshin.wordpress.com
 libifeng2012.wordpress.com
+lijinjin11.wordpress.com
 noscenotes.wordpress.com
 nzlike.wordpress.com
 phoenixnestca.wordpress.com
