@@ -521,6 +521,9 @@ www.flyingv.cc
 fochk.org
 www.fochk.org
 
+foxnews.com
+www.foxnews.com
+
 franktianxie.com
 www.franktianxie.com
 
@@ -1511,6 +1514,9 @@ www.zakzak.co.jp
 
 zeczec.com
 www.zeczec.com
+
+zerohedge.com
+www.zerohedge.com
 
 zmt.pub
 
