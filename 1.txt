@@ -200,6 +200,7 @@ fireofliberty.info
 five-woods.com
 flyingv.cc
 fochk.org
+foxnews.com
 franktianxie.com
 freebasuria.org
 freedomhouse.org
@@ -534,5 +535,6 @@ yzzk.com
 
 zakzak.co.jp
 zeczec.com
+zerohedge.com
 zmt.pub
 zuola.com
