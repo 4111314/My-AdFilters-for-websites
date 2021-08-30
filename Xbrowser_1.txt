@@ -558,6 +558,7 @@ www.ftvnews.com.tw
 
 !G
 gettr.com
+app.gettr.com
 
 gfw.press
 www.gfw.press
