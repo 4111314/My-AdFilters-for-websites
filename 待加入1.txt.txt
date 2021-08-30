@@ -55,11 +55,11 @@ app.gettr.com
 blackburn.senate.gov
 www.blackburn.senate.gov
 
+foxnews.com
+www.foxnews.com
 
-
-
-
-
+davidbible.ca
+www.davidbible.ca
 
 
 
