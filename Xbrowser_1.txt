@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20210830
+! Version: 20210902
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -390,6 +390,7 @@ dcvonline.net
 www.dcvonline.net
 
 tui.ddns.net
+tuidang.ddns.net
 
 dforce.cc
 www.dforce.cc
@@ -1078,6 +1079,9 @@ www.rebelpeppercartoons.com
 
 redballoonsolidarity.org
 www.redballoonsolidarity.org
+
+reinhardbuetikofer.eu
+www.reinhardbuetikofer.eu
 
 renminbao.com
 m.renminbao.com
