@@ -177,6 +177,7 @@ wrwd2020.blogspot.com
 wqw2010.blogspot.com
 xliangbo.blogspot.com
 yanmingshiping.blogspot.com
+xiaomu2018.blogspot.com
 yyyyiiii.blogspot.com
 zhangjialong.blogspot.com
 zhongweiguang.blogspot.com
@@ -537,6 +538,9 @@ www.freedomhouse.org
 freemymom.org
 www.freemymom.org
 
+freespeechunion.org
+www.freespeechunion.org
+
 freetibet.org
 www.freetibet.org
 
@@ -582,6 +586,8 @@ github.com/awwkk
 github.com/co-memory
 github.com/gfw-breaker
 github.com/odoor3
+github.com/ourhimalayas
+github.com/Pangu2020together
 github.com/programthink
 github.com/SciOwl
 github.com/smhdla34
@@ -1402,6 +1408,10 @@ uyghur-j.org
 www.uyghur-j.org
 
 !V
+vatican.va
+m.vatican.va
+www.vatican.va
+
 vct.news
 www.vct.news
 
@@ -1532,6 +1542,9 @@ www.yibaochina.com
 
 youthforfreechina.org
 www.youthforfreechina.org
+
+yuyencia.org
+www.yuyencia.org
 
 yuzb.net
 www.yuzb.net
