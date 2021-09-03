@@ -10,9 +10,9 @@ today.line.me
 
 http://www.fratwn.org/Domestic.html
 
-http://www.himalayamos.com/
 
-https://ozvoice.org/
+
+
 
 m.soundofhope.org
 
@@ -30,7 +30,7 @@ https://m.weibo.cn/status/4674078009196996?dt_dapp=1
 https://www.douban.com/group/topic/243713863/
 
 
-https://www.gsearch.media/
+
 
 
 suibi.eddiecheng.net
@@ -38,7 +38,7 @@ suibi.eddiecheng.net
 
 xiezuo.eddiecheng.net
 
-gwins.org
+
 https://gwins.org/
 
 https://gwiki.net/wiki/%E9%A6%96%E9%A1%B5
