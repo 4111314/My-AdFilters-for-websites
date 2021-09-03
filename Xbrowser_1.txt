@@ -639,11 +639,17 @@ greatfire.org
 en.greatfire.org
 zh.greatfire.org
 
+gsearch.media
+www.gsearch.media
+
 gtv.org
 www.gtv.org
 
 guangyancaijing.com
 www.guangyancaijing.com
+
+gwins.org
+www.gwins.org
 
 !H
 tyofu4646.hatenablog.com
@@ -670,6 +676,9 @@ www.hidden-advent.org
 
 himalaya.exchange
 www.himalaya.exchange
+
+himalayamos.com
+www.himalayamos.com
 
 himalayaustralia.com.au
 www.himalayaustralia.com.au
@@ -1003,6 +1012,9 @@ www.open.com.hk
 
 opendemocracy.net
 www.opendemocracy.net
+
+ozvoice.org
+www.ozvoice.org
 
 !P
 wwf.panda.org
