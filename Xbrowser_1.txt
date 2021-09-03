@@ -298,6 +298,9 @@ www.christiantimes.org.hk
 chrlawyers.hk
 www.chrlawyers.hk
 
+chuangcn.org
+www.chuangcn.org
+
 citizenpowerforchina.org
 www.citizenpowerforchina.org
 
@@ -386,6 +389,9 @@ www.dalailamaworld.com
 
 davidbible.ca
 www.davidbible.ca
+
+dayu.news
+www.dayu.news
 
 dcvonline.net
 www.dcvonline.net
@@ -1414,6 +1420,9 @@ www.vatican.va
 
 vct.news
 www.vct.news
+
+victimsofcommunism.org
+www.victimsofcommunism.org
 
 voacantonese.com
 www.voacantonese.com
