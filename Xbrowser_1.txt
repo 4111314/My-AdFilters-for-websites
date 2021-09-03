@@ -442,11 +442,11 @@ blog.dwnews.com
 www.dwnews.com
 
 !E
-easternlightning.org
-www.easternlightning.org
-
 east-turkistan.net
 www.east-turkistan.net
+
+easternlightning.org
+www.easternlightning.org
 
 eatnews.com
 eatnews.net
@@ -836,14 +836,14 @@ www.liaowangxizang.net
 libertysculpturepark.com
 www.libertysculpturepark.com
 
+liu-xiaobo.org
+www.liu-xiaobo.org
+
 liubinyan.com
 www.liubinyan.com
 
 lijiabao.org
 www.lijiabao.org
-
-liu-xiaobo.org
-www.liu-xiaobo.org
 
 ltn.com.tw
 ec.ltn.com.tw
@@ -1082,6 +1082,8 @@ ptt.cc
 term.ptt.cc
 www.ptt.cc
 
+ptt-politics.com
+
 ptt2.cc
 term.ptt2.cc
 
@@ -1090,8 +1092,6 @@ www.pttgopolitics.com
 
 pttweb.cc
 www.pttweb.cc
-
-ptt-politics.com
 
 !Q
 quan.media
@@ -1412,6 +1412,9 @@ issp.uottawa.ca
 upmedia.mg
 www.upmedia.mg
 
+uyghur-j.org
+www.uyghur-j.org
+
 uyghurbiz.org
 www.uyghurbiz.org
 
@@ -1422,9 +1425,6 @@ uyghurnet.org
 www.uyghurnet.org
 
 uyghurpress.com
-
-uyghur-j.org
-www.uyghur-j.org
 
 !V
 vatican.va
