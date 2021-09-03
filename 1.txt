@@ -176,8 +176,8 @@ duping.net
 dw.com
 dwnews.com
 
-easternlightning.org
 east-turkistan.net
+easternlightning.org
 eatnews.com
 eatnews.net
 embapartwroc.com.tw
@@ -314,8 +314,8 @@ learnfalungong.com
 liaowangxizang.net
 libertysculpturepark.com
 lijiabao.org
-liubinyan.com
 liu-xiaobo.org
+liubinyan.com
 ltn.com.tw
 lzjscript.com
 
@@ -394,10 +394,10 @@ pri.org
 protest100.com
 pts.org.tw
 ptt.cc
+ptt-politics.com
 ptt2.cc
 pttgopolitics.com
 pttweb.cc
-ptt-politics.com
 
 quan.media
 quanmindaqiyue.com
@@ -489,11 +489,11 @@ uncyclopedia.tw
 pekinger-fruehling.univie.ac.at
 issp.uottawa.ca
 upmedia.mg
+uyghur-j.org
 uyghurbiz.org
 uyghurcongress.org
 uyghurnet.org
 uyghurpress.com
-uyghur-j.org
 
 vatican.va
 vct.news
