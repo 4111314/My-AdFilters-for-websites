@@ -163,6 +163,7 @@ lihuaw.blogspot.com
 lingbaxianzhang.blogspot.com
 madaoinjapan.blogspot.com
 militaryidvtw.blogspot.com
+newera852.blogspot.com
 moments-of-samsara.blogspot.com
 newsworthknowingcn.blogspot.com
 newtaiwanpolitical.blogspot.com
@@ -580,6 +581,9 @@ ftvnews.com.tw
 www.ftvnews.com.tw
 
 !G
+gertzfile.com
+www.gertzfile.com
+
 gettr.com
 app.gettr.com
 
