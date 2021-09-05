@@ -244,6 +244,7 @@ gitlab.com/kk404
 dogenationhk.github.io
 dtnews.github.io
 nodebe4.github.io
+ppathole.github.io
 project-gutenberg.github.io/Pincong
 vozchina.github.io
 globalvoices.org
@@ -417,6 +418,7 @@ rfa.org
 rferl.org
 rfi.fr
 rickerchoi.com
+riconetwork.com
 roc-taiwan.org
 rolfoundation.org
 rolsociety.org
