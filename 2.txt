@@ -96,6 +96,7 @@ newduba.cn
 onlinedown.net
 
 pc6.com
+dl.pconline.com.cn
 pcsoft.com.cn
 
 123.qiuquan.org
@@ -103,6 +104,8 @@ browser.qq.com
 daohang.qq.com
 guojia.qq.com
 hao.qq.com
+
+rsdown.cn
 
 scjujin.com:6716
 shanhutech.cn
@@ -115,6 +118,7 @@ sma.so
 123.sogou.com
 ie.sogou.com
 mse.sogou.com
+somode.com
 ssouu.com
 suzip.com.cn
 
