@@ -98,6 +98,7 @@ onlinedown.net
 pc6.com
 dl.pconline.com.cn
 pcsoft.com.cn
+piaodown.com
 
 123.qiuquan.org
 browser.qq.com
@@ -137,6 +138,7 @@ vidspcon.com
 
 wangnuan.org
 hao.wantongdiannao.com
+wlrjy.com
 wn51.com
 wnwb.com
 wifigx.com
@@ -144,10 +146,12 @@ wj1234.com
 wlxb49.cn
 d.wuhanguolu.com
 
+xdowns.com/soft
 xiangtatech.com
 xiazaizhijia.com
-
 xz7.com
+
+mydown.yesky.com
 
 zh100.net
 znyshurufa.com
