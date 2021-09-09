@@ -294,6 +294,9 @@ pcsoft.com.cn
 m.pcsoft.com.cn
 www.pcsoft.com.cn
 
+piaodown.com
+www.piaodown.com
+
 !Q
 123.qiuquan.org
 
@@ -381,6 +384,9 @@ www.wangnuan.org
 
 hao.wantongdiannao.com
 
+wlrjy.com
+www.wlrjy.com
+
 wn51.com
 www.wn51.com
 
@@ -399,6 +405,9 @@ chrome.wlxb49.cn
 d.wuhanguolu.com
 
 !X
+xdowns.com/soft
+www.xdowns.com/soft
+
 xiangtatech.com
 ext.xiangtatech.com
 fxbrowser.xiangtatech.com
@@ -411,6 +420,9 @@ www.xiazaizhijia.com
 
 xz7.com
 www.xz7.com
+
+!Y
+mydown.yesky.com
 
 !Z
 zh100.net
