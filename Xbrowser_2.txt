@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_2
 ! Expires: 1 days
-! Version: 20210822
+! Version: 20210909
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -133,6 +133,12 @@ www.cn0977.com
 cncrk.com
 www.cncrk.com
 
+cqttech.com
+b.cqttech.com
+chrome.cqttech.com
+dcbrowser.cqttech.com
+www.cqttech.com
+
 cr173.com
 www.cr173.com
 
@@ -189,6 +195,9 @@ www.hao123.com
 
 hao123.sh
 www.hao123.sh
+
+bao118.com
+www.bao118.com
 
 hao268.com
 www.hao268.com
@@ -363,6 +372,9 @@ www.wj1234.com
 
 wifigx.com
 www.wifigx.com
+
+wlxb49.cn
+chrome.wlxb49.cn
 
 d.wuhanguolu.com
 
