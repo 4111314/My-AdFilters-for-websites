@@ -103,6 +103,9 @@ kan.6789.net
 wan.6789.net
 www.6789.net
 
+6down.net
+www.6down.net
+
 !7
 7654.com
 abckantu.7654.com
@@ -150,6 +153,9 @@ www.crsky.com
 downkuai.com
 www.downkuai.com
 
+downxia.com
+www.downxia.com
+
 downza.cn
 www.downza.cn
 
@@ -182,6 +188,9 @@ www.game6677.com
 
 gbe-corp.com
 www.gbe-corp.com
+
+greenxiazai.com
+www.greenxiazai.com
 
 !H
 h5151.com
