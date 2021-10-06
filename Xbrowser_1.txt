@@ -1129,6 +1129,9 @@ www.quan.media
 quanmindaqiyue.com
 www.quanmindaqiyue.com
 
+quitccp.jp
+www.quitccp.jp
+
 !R
 randymulyanto.com
 www.randymulyanto.com
@@ -1418,6 +1421,7 @@ tsu.org.tw
 www.tsu.org.tw
 
 tuidang.org
+global.tuidang.org
 service.tuidang.org
 www.tuidang.org
 
