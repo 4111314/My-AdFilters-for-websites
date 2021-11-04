@@ -1,13 +1,15 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20211028
+! Version: 20211104
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
 !0-9
 0bei.org
 blog.0bei.org
+
+wildfire.0fees.us
 
 163.30.142.9
 
