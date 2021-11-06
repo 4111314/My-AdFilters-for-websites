@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20211104
+! Version: 20211106
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -876,6 +876,9 @@ www.liu-xiaobo.org
 
 liubinyan.com
 www.liubinyan.com
+
+longislandcn.com
+www.longislandcn.com
 
 ltn.com.tw
 ec.ltn.com.tw
