@@ -1458,6 +1458,7 @@ www.typcn.org
 udn.com
 blog.udn.com
 global.udn.com
+money.udn.com
 opinion.udn.com
 www.udn.com
 
