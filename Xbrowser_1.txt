@@ -139,6 +139,7 @@ www.bjs.org
 1989bbs.blogspot.com
 2newcenturynet.blogspot.com
 64museum.blogspot.com
+82513687.blogspot.com
 aixiaomingstudio.blogspot.com
 allmockingjay.blogspot.com
 almightygodisknockingyourdoor.blogspot.com
@@ -1191,6 +1192,9 @@ cn.reuters.com
 mobile.reuters.com
 cn.mobile.reuters.com
 www.reuters.com
+
+revivingroc.com
+www.revivingroc.com
 
 rfa.org
 www.rfa.org
