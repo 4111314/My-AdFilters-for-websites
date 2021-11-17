@@ -209,6 +209,7 @@ etnet.com.hk
 europarl.europa.eu
 expecthim.com
 
+lernen.falundafa.at
 falundafa.ca
 falundafa.org
 falundafa-dc.org
@@ -301,6 +302,7 @@ hkfront.org
 hkhkhk.com
 hkingtec.com
 hkrev.info
+hocphapluancong.com
 littlestarstarblog.home.blog
 hongkongfp.com
 hrichina.org
@@ -469,6 +471,7 @@ safeguarddefenders.com
 scmp.com
 seccm.org.tw
 secretchina.com
+blackburn.senate.gov
 sullivan.senate.gov
 toomey.senate.gov
 shahit.biz
