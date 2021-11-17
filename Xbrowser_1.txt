@@ -520,6 +520,8 @@ expecthim.com
 www.expecthim.com
 
 !F
+lernen.falundafa.at
+
 falundafa.ca
 www.falundafa.ca
 
@@ -777,6 +779,8 @@ groups.wenxuecity.com
 www.hkingtec.com
 
 hkrev.info
+
+hocphapluancong.com
 
 littlestarstarblog.home.blog
 
@@ -1283,6 +1287,8 @@ secretchina.com
 m.secretchina.com
 www.secretchina.com
 
+blackburn.senate.gov
+www.blackburn.senate.gov
 sullivan.senate.gov
 www.sullivan.senate.gov
 toomey.senate.gov
