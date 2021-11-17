@@ -504,6 +504,9 @@ www.epochtimes.com.tw
 epochweekly.com
 www.epochweekly.com
 
+es-learnfalungong.com
+www.es-learnfalungong.com
+
 esu.dog
 www.esu.dog
 
@@ -571,6 +574,9 @@ www.foxnews.com
 
 franktianxie.com
 www.franktianxie.com
+
+fratwn.org
+www.fratwn.org
 
 zhongguowenhua.free.fr
 
@@ -1279,6 +1285,8 @@ www.secretchina.com
 
 sullivan.senate.gov
 www.sullivan.senate.gov
+toomey.senate.gov
+www.toomey.senate.gov
 
 shahit.biz
 www.shahit.biz
