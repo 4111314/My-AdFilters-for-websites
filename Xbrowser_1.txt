@@ -526,6 +526,8 @@ falundafa.ca
 www.falundafa.ca
 
 falundafa.org
+en.falundafa.org
+es.falundafa.org
 gb.falundafa.org
 ko.falundafa.org
 www.falundafa.org
@@ -1727,6 +1729,9 @@ www.zeczec.com
 
 zerohedge.com
 www.zerohedge.com
+
+zhengjian.org
+www.zhengjian.org
 
 zmt.pub
 
