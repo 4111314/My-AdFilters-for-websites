@@ -45,6 +45,7 @@ bannedbook.org
 bbc.com
 bbc.co.uk
 beijingspring.com
+laolei.bio.link
 bitterwinter.org
 bjnews.com.cn
 bjs.org
@@ -158,6 +159,7 @@ cnvision.co
 paper.cnwomen.com.cn
 cofacts.tw
 commonhealth.com.tw
+89.64.charter.constitutionalism.solutions
 cpj.org
 creaders.net
 blog.creaders.net
@@ -555,6 +557,7 @@ visualartistsguild.info
 voacantonese.com
 voachinese.com
 voanews.com
+bbs.vog.media
 vot.org
 vote4.hk
 
