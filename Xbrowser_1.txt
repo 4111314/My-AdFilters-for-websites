@@ -1148,6 +1148,11 @@ www.pao-pao.net
 pch.org.tw
 www.pch.org.tw
 
+pchome.com.tw
+mypaper.m.pchome.com.tw
+www.m.pchome.com.tw
+www.pchome.com.tw
+
 pen-international.org
 www.pen-international.org
 
