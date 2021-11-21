@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20211117
+! Version: 20211121
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -15,6 +15,7 @@ blog.3dgowl.com
 5455.org
 64memo.com
 64tianwang.com
+64tianwang.net
 6do.news
 6parkbbs.com
 8964museum.com
@@ -81,6 +82,7 @@ lihuaw.blogspot.com
 lingbaxianzhang.blogspot.com
 madaoinjapan.blogspot.com
 militaryidvtw.blogspot.com
+minghillwill.blogspot.com
 moments-of-samsara.blogspot.com
 newera852.blogspot.com
 newsworthknowingcn.blogspot.com
