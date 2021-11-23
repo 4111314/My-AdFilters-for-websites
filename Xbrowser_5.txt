@@ -7,3 +7,6 @@
 
 cn.bing.com
 www.bing.com
+
+biquguan.com
+www.biquguan.com
