@@ -8,6 +8,9 @@
 cn.bing.com
 www.bing.com
 
+biquguan.com
+www.biquguan.com
+
 https://passport.bilibili.com/register/
 https://passport.bilibili.com/register/logout.html/
 https://passport.bilibili.com/register/logout.html#/
