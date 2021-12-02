@@ -307,6 +307,7 @@ browser.qq.com
 daohang.qq.com
 guojia.qq.com
 hao.qq.com
+pc.qq.com
 
 rsdown.cn
 www.rsdown.cn
