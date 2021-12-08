@@ -79,6 +79,9 @@ www.amnesty.tw
 anonymous-post.mobi
 www.anonymous-post.mobi
 
+ansaikuropedia.org
+m.ansaikuropedia.org
+
 anti1984.com
 www.anti1984.com
 
@@ -1562,9 +1565,9 @@ en.uncyclopedia.co
 uncyclopedia.hk
 m.uncyclopedia.hk
 www.uncyclopedia.hk
+zh.uncyclopedia.info
 uncyclopedia.tw
 m.uncyclopedia.tw
-zh.uncyclopedia.info
 
 pekinger-fruehling.univie.ac.at
 
