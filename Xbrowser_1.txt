@@ -1554,7 +1554,11 @@ www.ujoy.net
 
 news.umich.edu
 
+uncyclopedia.hk
+m.uncyclopedia.hk
+www.uncyclopedia.hk
 uncyclopedia.tw
+m.uncyclopedia.tw
 zh.uncyclopedia.info
 
 pekinger-fruehling.univie.ac.at
