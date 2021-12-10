@@ -18,3 +18,6 @@ https://passport.bilibili.com/register/
 https://passport.bilibili.com/register/logout.html/
 https://passport.bilibili.com/register/logout.html#/
 https://passport.bilibili.com/register/logout.html#/verify
+
+!一个会锁死界面的软件
+mochiwang.com
