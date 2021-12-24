@@ -431,6 +431,8 @@ tuidang.ddns.net
 defenceforumindia.com
 www.defenceforumindia.com
 
+desencyclopedie.org
+
 dforce.cc
 www.dforce.cc
 
@@ -1398,6 +1400,8 @@ www.smhric.org
 soundofhope.org
 m.soundofhope.org
 www.soundofhope.org
+
+spademanns.org
 
 standoffattiananmen.com
 www.standoffattiananmen.com
