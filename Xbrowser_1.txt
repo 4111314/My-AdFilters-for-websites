@@ -55,6 +55,8 @@ www.abc.net.au
 aboluowang.com
 www.aboluowang.com
 
+absurdopedia.net
+
 liyashen.academia.edu
 
 afnj.org
@@ -842,6 +844,9 @@ www.ifex.org
 ifj.org
 www.ifj.org
 
+ikkepedia.org
+m.ikkepedia.org
+
 iloveosaka.jp
 www.iloveosaka.jp
 
@@ -1584,6 +1589,8 @@ uncyclopedia.com
 uncyclopedia.hk
 m.uncyclopedia.hk
 www.uncyclopedia.hk
+fa.uncyclopedia.info
+ka.uncyclopedia.info
 zh.uncyclopedia.info
 uncyclopedia.tw
 m.uncyclopedia.tw
