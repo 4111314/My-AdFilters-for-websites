@@ -1607,8 +1607,10 @@ uncyclopedia.info
 ast.uncyclopedia.info
 bg.uncyclopedia.info
 bn.uncyclopedia.info
+bs.uncyclopedia.info
 ca.uncyclopedia.info
 fa.uncyclopedia.info
+fy.uncyclopedia.info
 ga.uncyclopedia.info
 got.uncyclopedia.info
 grc.uncyclopedia.info
@@ -1630,6 +1632,7 @@ ro.uncyclopedia.info
 sco.uncyclopedia.info
 simple.uncyclopedia.info
 sk.uncyclopedia.info
+sl.uncyclopedia.info
 su.uncyclopedia.info
 th.uncyclopedia.info
 tlh.uncyclopedia.info
