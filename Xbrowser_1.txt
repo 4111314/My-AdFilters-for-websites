@@ -1619,6 +1619,7 @@ ko.uncyclopedia.info
 la.uncyclopedia.info
 lo.uncyclopedia.info
 lt.uncyclopedia.info
+mg.uncyclopedia.info
 mn.uncyclopedia.info
 ms.uncyclopedia.info
 mwl.uncyclopedia.info
@@ -1629,6 +1630,7 @@ simple.uncyclopedia.info
 sk.uncyclopedia.info
 su.uncyclopedia.info
 th.uncyclopedia.info
+tlh.uncyclopedia.info
 yi.uncyclopedia.info
 zh.uncyclopedia.info
 uncyclopedia.tw
