@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20211229
+! Version: 20211230
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -203,6 +203,7 @@ eatnews.com
 eatnews.net
 suibi.eddiecheng.net
 xiezuo.eddiecheng.net
+eincyclopedia.org
 ekparasat.com
 embapartwroc.com.tw
 embassyofbelizetaiwan.org
@@ -301,6 +302,7 @@ heqinglian.net
 be4.herokuapp.com
 h-china.org
 hidden-advent.org
+hikipedia.org
 himalaya.exchange
 himalayamos.com
 himalayaustralia.com.au
@@ -410,6 +412,7 @@ nagashima21.net
 nccu.edu.tw
 nchrd.org
 nchugloria.com
+necyklopedie.org
 ned.org
 netalert.me
 wallockman.netlify.app
