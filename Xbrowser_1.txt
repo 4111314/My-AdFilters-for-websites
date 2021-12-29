@@ -1606,8 +1606,11 @@ uncyclopedia.info
 bg.uncyclopedia.info
 ca.uncyclopedia.info
 fa.uncyclopedia.info
+grc.uncyclopedia.info
 hr.uncyclopedia.info
+jv.uncyclopedia.info
 ka.uncyclopedia.info
+km.uncyclopedia.info
 ko.uncyclopedia.info
 la.uncyclopedia.info
 lt.uncyclopedia.info
@@ -1618,6 +1621,7 @@ nn.uncyclopedia.info
 ro.uncyclopedia.info
 simple.uncyclopedia.info
 sk.uncyclopedia.info
+su.uncyclopedia.info
 th.uncyclopedia.info
 zh.uncyclopedia.info
 uncyclopedia.tw
