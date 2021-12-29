@@ -389,6 +389,7 @@ mingjinglive.com
 mingjingnews.com
 mingshengbao.com
 minzhuzhongguo.org
+ansaikuropedia.miraheze.org
 beidipedia.miraheze.org
 unbooks.miraheze.org
 uncyclopedia.miraheze.org
