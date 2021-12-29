@@ -1605,6 +1605,7 @@ m.uncyclopedia.hk
 www.uncyclopedia.hk
 uncyclopedia.info
 ast.uncyclopedia.info
+be.uncyclopedia.info
 bg.uncyclopedia.info
 bn.uncyclopedia.info
 bs.uncyclopedia.info
@@ -1615,6 +1616,7 @@ ga.uncyclopedia.info
 got.uncyclopedia.info
 grc.uncyclopedia.info
 hr.uncyclopedia.info
+hy.uncyclopedia.info
 jv.uncyclopedia.info
 ka.uncyclopedia.info
 km.uncyclopedia.info
