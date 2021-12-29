@@ -1596,13 +1596,22 @@ www.ujoy.net
 news.umich.edu
 
 uncyclopedia.co
+de.uncyclopedia.co
 en.uncyclopedia.co
 uncyclopedia.com
 uncyclopedia.hk
 m.uncyclopedia.hk
 www.uncyclopedia.hk
+uncyclopedia.info
+bg.uncyclopedia.info
+ca.uncyclopedia.info
 fa.uncyclopedia.info
 ka.uncyclopedia.info
+ko.uncyclopedia.info
+mn.uncyclopedia.info
+ms.uncyclopedia.info
+mwl.uncyclopedia.info
+nn.uncyclopedia.info
 zh.uncyclopedia.info
 uncyclopedia.tw
 m.uncyclopedia.tw
