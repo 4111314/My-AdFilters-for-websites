@@ -1604,6 +1604,7 @@ uncyclopedia.hk
 m.uncyclopedia.hk
 www.uncyclopedia.hk
 uncyclopedia.info
+ast.uncyclopedia.info
 bg.uncyclopedia.info
 bn.uncyclopedia.info
 ca.uncyclopedia.info
@@ -1624,6 +1625,7 @@ mn.uncyclopedia.info
 ms.uncyclopedia.info
 mwl.uncyclopedia.info
 nn.uncyclopedia.info
+oc.uncyclopedia.info
 ro.uncyclopedia.info
 sco.uncyclopedia.info
 simple.uncyclopedia.info
@@ -1631,6 +1633,7 @@ sk.uncyclopedia.info
 su.uncyclopedia.info
 th.uncyclopedia.info
 tlh.uncyclopedia.info
+vls.uncyclopedia.info
 yi.uncyclopedia.info
 zh.uncyclopedia.info
 uncyclopedia.tw
