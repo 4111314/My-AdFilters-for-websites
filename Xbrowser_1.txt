@@ -1081,6 +1081,12 @@ www.nchrd.org
 nchugloria.com
 www.nchugloria.com
 
+neciklopedija.org
+lv.neciklopedija.org
+m.neciklopedija.org
+mk.neciklopedija.org
+sr.neciklopedija.org
+
 necyklopedie.org
 
 ned.org
