@@ -1218,6 +1218,9 @@ mypaper.m.pchome.com.tw
 www.m.pchome.com.tw
 www.pchome.com.tw
 
+pekepedia.net
+m.pekepedia.net
+
 pen-international.org
 www.pen-international.org
 
@@ -1246,6 +1249,9 @@ www.pri.org
 
 protest100.com
 www.protest100.com
+
+psyklopedin.org
+m.psyklopedin.org
 
 pts.org.tw
 www.pts.org.tw
