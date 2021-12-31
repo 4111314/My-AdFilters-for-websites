@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20211231
+! Version: 20220101
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -1194,6 +1194,7 @@ www.ogate.org
 oncyclopedia.org
 af.oncyclopedia.org
 m.oncyclopedia.org
+zea.oncyclopedia.org
 
 open.com.hk
 www.open.com.hk
@@ -1640,6 +1641,7 @@ bg.uncyclopedia.info
 bn.uncyclopedia.info
 bs.uncyclopedia.info
 ca.uncyclopedia.info
+et.uncyclopedia.info
 fa.uncyclopedia.info
 fy.uncyclopedia.info
 ga.uncyclopedia.info
