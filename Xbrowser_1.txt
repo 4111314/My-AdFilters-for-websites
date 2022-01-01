@@ -854,6 +854,8 @@ ifj.org
 www.ifj.org
 
 ikkepedia.org
+fo.ikkepedia.org
+is.ikkepedia.org
 m.ikkepedia.org
 
 iloveosaka.jp
@@ -1634,6 +1636,7 @@ uncyclopedia.com
 uncyclopedia.hk
 m.uncyclopedia.hk
 www.uncyclopedia.hk
+yue.uncyclopedia.hk
 uncyclopedia.info
 ast.uncyclopedia.info
 be.uncyclopedia.info
@@ -1641,6 +1644,7 @@ bg.uncyclopedia.info
 bn.uncyclopedia.info
 bs.uncyclopedia.info
 ca.uncyclopedia.info
+dlm.uncyclopedia.info
 et.uncyclopedia.info
 fa.uncyclopedia.info
 fy.uncyclopedia.info
@@ -1649,11 +1653,14 @@ got.uncyclopedia.info
 grc.uncyclopedia.info
 hr.uncyclopedia.info
 hy.uncyclopedia.info
+ie.uncyclopedia.info
 jv.uncyclopedia.info
 ka.uncyclopedia.info
 km.uncyclopedia.info
 ko.uncyclopedia.info
 la.uncyclopedia.info
+lb.uncyclopedia.info
+li.uncyclopedia.info
 lo.uncyclopedia.info
 lt.uncyclopedia.info
 mg.uncyclopedia.info
