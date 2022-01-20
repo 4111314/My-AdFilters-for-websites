@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20220119
+! Version: 20220121
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -111,6 +111,7 @@ yanmingshiping.blogspot.com
 xiaomu2018.blogspot.com
 yyyyiiii.blogspot.com
 zhangjialong.blogspot.com
+zhangzuhua.blogspot.com
 zhongweiguang.blogspot.com
 zhu-ruiblog.blogspot.com
 bnext.com.tw
@@ -561,6 +562,7 @@ tiananmenuniv.net
 tibet.net
 timednews.com
 tinnybeauty.com
+tj-jxyl.com
 tolololpedia.org
 top1health.com
 trt.net.tr
@@ -629,6 +631,7 @@ hqsb64.wordpress.com
 huichun.wordpress.com
 jiaweiwhite.wordpress.com
 journeyshin.wordpress.com
+juliapeng.wordpress.com
 klafmann.wordpress.com
 libifeng2012.wordpress.com
 lijinjin11.wordpress.com
