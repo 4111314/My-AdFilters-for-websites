@@ -1677,6 +1677,7 @@ lt.uncyclopedia.info
 m.uncyclopedia.info
 mg.uncyclopedia.info
 mn.uncyclopedia.info
+mo.uncyclopedia.info
 ms.uncyclopedia.info
 mwl.uncyclopedia.info
 nn.uncyclopedia.info
