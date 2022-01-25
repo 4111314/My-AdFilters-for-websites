@@ -1673,6 +1673,7 @@ lb.uncyclopedia.info
 li.uncyclopedia.info
 lo.uncyclopedia.info
 lt.uncyclopedia.info
+m.uncyclopedia.info
 mg.uncyclopedia.info
 mn.uncyclopedia.info
 ms.uncyclopedia.info
