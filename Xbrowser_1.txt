@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220201
+! Version: 20220219
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -252,6 +252,8 @@ www.caochangqing.com
 
 carpnow.com
 www.carpnow.com
+
+ccrhm.org
 
 cdef.org
 www.cdef.org
@@ -1384,6 +1386,8 @@ www.secretchina.com
 
 blackburn.senate.gov
 www.blackburn.senate.gov
+rubio.senate.gov
+www.rubio.senate.gov
 sullivan.senate.gov
 www.sullivan.senate.gov
 toomey.senate.gov
@@ -1625,6 +1629,8 @@ typcn.org
 www.typcn.org
 
 !U
+ywang.uchicago.edu
+
 udn.com
 blog.udn.com
 global.udn.com
