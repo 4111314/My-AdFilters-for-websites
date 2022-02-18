@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20220201
+! Version: 20220219
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -128,6 +128,7 @@ buzzorange.com
 caijinglengyan.com
 caochangqing.com
 carpnow.com
+ccrhm.org
 cdef.org
 cdp1989.org
 cecc.gov
@@ -512,6 +513,7 @@ scmp.com
 seccm.org.tw
 secretchina.com
 blackburn.senate.gov
+rubio.senate.gov
 sullivan.senate.gov
 toomey.senate.gov
 shahit.biz
@@ -579,6 +581,7 @@ twport.com.tw
 twreporter.org
 typcn.org
 
+ywang.uchicago.edu
 udn.com
 uhrp.org
 ujoy.net
