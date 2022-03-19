@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20220305
+! Version: 20220319
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -102,6 +102,7 @@ shamaonongmin.blogspot.com
 tianchaopimin.blogspot.com
 tintinicu.blogspot.com
 tongtian321.blogspot.com
+unclewaanginphuket.blogspot.com
 v515467.blogspot.com
 wibcn.blogspot.com
 wonderverge.blogspot.com
