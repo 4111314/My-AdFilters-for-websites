@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220319
+! Version: 20220321
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -663,6 +663,9 @@ www.ftvnews.com.tw
 !G
 gertzfile.com
 www.gertzfile.com
+
+getfdp.today
+cn.getfdp.today
 
 gettr.com
 app.gettr.com
@@ -1499,6 +1502,8 @@ stupidedia.org
 www.stupidedia.org
 
 kevincarrico.substack.com
+
+supportukrainenow.org
 
 swissinfo.ch
 www.swissinfo.ch
