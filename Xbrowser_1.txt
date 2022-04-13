@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220405
+! Version: 20220413
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -1077,6 +1077,8 @@ unnews.miraheze.org
 
 mirrormedia.mg
 www.mirrormedia.mg
+
+blog.misaka19614.com
 
 mitbbs.com
 www.mitbbs.com
