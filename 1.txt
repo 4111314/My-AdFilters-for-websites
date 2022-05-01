@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20220413
+! Version: 20220501
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -84,6 +84,7 @@ huanxueshil.blogspot.com
 jasmineplaces.blogspot.com
 jianglinarticles.blogspot.com
 jinianhuainian.blogspot.com
+jinpeili.blogspot.com
 kokboreboreawazi.blogspot.com
 laorencha.blogspot.com
 lihuaw.blogspot.com
@@ -321,6 +322,7 @@ himalayamos.com
 himalayaustralia.com.au
 himself65.com
 hk01.com
+kh42.com
 hkcnews.com
 hkctu.org.hk
 hkfront.org
@@ -395,6 +397,7 @@ malinowskifornj.com
 marcorubio.com
 martinoei.com
 marxist.com
+marxist.tw
 mastergardner.com
 matters.news
 medium.com
