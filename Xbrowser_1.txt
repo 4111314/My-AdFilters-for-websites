@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220413
+! Version: 20220501
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -182,6 +182,7 @@ huanxueshil.blogspot.com
 jasmineplaces.blogspot.com
 jianglinarticles.blogspot.com
 jinianhuainian.blogspot.com
+jinpeili.blogspot.com
 kokboreboreawazi.blogspot.com
 laorencha.blogspot.com
 lihuaw.blogspot.com
@@ -811,6 +812,9 @@ www.himself65.com
 hk01.com
 www.hk01.com
 
+kh42.com
+www.kh42.com
+
 hkcnews.com
 covid-19.hkcnews.com
 www.hkcnews.com
@@ -1029,6 +1033,8 @@ www.martinoei.com
 
 marxist.com
 www.marxist.com
+
+marxist.tw
 
 mastergardner.com
 www.mastergardner.com
@@ -1886,6 +1892,7 @@ www.wrchina.org
 
 wsj.com
 cn.wsj.com
+customercenter.wsj.com
 www.wsj.com
 
 wufi.org.tw
