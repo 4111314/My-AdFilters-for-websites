@@ -110,6 +110,9 @@ www.asahi.com
 asianews.it
 www.asianews.it
 
+asoulworld.com
+www.asoulworld.com
+
 atozitpro.net
 www.atozitpro.net
 
@@ -477,6 +480,8 @@ www.dpp.org.tw
 
 drmacaca.com
 www.drmacaca.com
+
+drrichardchan.com.au
 
 drsu.blog
 www.drsu.blog
