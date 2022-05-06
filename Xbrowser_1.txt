@@ -945,6 +945,8 @@ jiemian.com
 m.jiemian.com
 www.jiemian.com
 
+jinian64.org
+
 !K
 kamelopedia.net
 
@@ -952,6 +954,9 @@ kannewyork.com
 www.kannewyork.com
 
 kantie.org
+
+king011.com
+book.king011.com
 
 kingdomsalvation.org
 tr.kingdomsalvation.org
