@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220506
+! Version: 20220509
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -513,6 +513,9 @@ www.eatnews.net
 suibi.eddiecheng.net
 xiezuo.eddiecheng.net
 
+eesti.ee
+www.eesti.ee
+
 eincyclopedia.org
 
 ekparasat.com
@@ -974,6 +977,8 @@ www.knh.org.tw
 !L
 laangelfarm.com
 www.laangelfarm.com
+
+landofhope.tv
 
 laogai.org
 www.laogai.org
