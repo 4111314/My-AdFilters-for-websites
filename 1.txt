@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20220526
+! Version: 20220528
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -20,6 +20,7 @@ blog.3dgowl.com
 6do.news
 6parkbbs.com
 8964museum.com
+8964tiananmen.com
 
 aadilbrar.com
 abc.net.au
@@ -60,6 +61,7 @@ bjztxbqt.com
 2newcenturynet.blogspot.com
 64museum.blogspot.com
 82513687.blogspot.com
+aboutyingxueziqi.blogspot.com
 aixiaomingstudio.blogspot.com
 allmockingjay.blogspot.com
 almightygodisknockingyourdoor.blogspot.com
@@ -401,6 +403,7 @@ lnachman.com
 lonecapital.com
 longislandcn.com
 ltn.com.tw
+lvsezhonghua.net
 lzjscript.com
 
 malaysiakini.com
