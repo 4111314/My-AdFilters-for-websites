@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220529
+! Version: 20220602
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -191,6 +191,7 @@ jianglinarticles.blogspot.com
 jinianhuainian.blogspot.com
 jinpeili.blogspot.com
 kokboreboreawazi.blogspot.com
+komlandindependence.blogspot.com
 laorencha.blogspot.com
 lihuaw.blogspot.com
 lingbaxianzhang.blogspot.com
@@ -1893,6 +1894,7 @@ wisconsinexaminer.com
 
 64tianwang.wordpress.com
 aiyuan.wordpress.com
+fuh938942067.wordpress.com
 guohaiyancom.wordpress.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
@@ -1980,6 +1982,8 @@ www.youthforfreechina.org
 
 yuyencia.org
 www.yuyencia.org
+
+yuyenciafoundation.org
 
 yuzb.net
 www.yuzb.net
