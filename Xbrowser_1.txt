@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220606
+! Version: 20220607
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -516,6 +516,9 @@ www.eatnews.net
 
 suibi.eddiecheng.net
 xiezuo.eddiecheng.net
+
+eddiewang.ca
+www.eddiewang.ca
 
 eesti.ee
 www.eesti.ee
@@ -1150,6 +1153,9 @@ www.mpweekly.com
 msguancha.com
 www.msguancha.com
 
+mueller-rosentritt.de
+www.mueller-rosentritt.de
+
 mychinese.news
 www.mychinese.news
 
@@ -1261,6 +1267,8 @@ www.ntdtv.jp
 
 nychinaren.com
 www.nychinaren.com
+
+nypost.com
 
 nytimes.com
 cn.nytimes.com
@@ -1553,6 +1561,9 @@ spademanns.org
 
 standoffattiananmen.com
 www.standoffattiananmen.com
+
+standwithhk.org
+www.standwithhk.org
 
 state.gov
 www.state.gov
