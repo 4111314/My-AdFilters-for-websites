@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220607
+! Version: 20220609
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -924,6 +924,9 @@ inciklopedia.org
 independent.co.uk
 www.independent.co.uk
 
+inmediahk.net
+www.inmediahk.net
+
 inori.life
 
 ipkmedia.com
@@ -1155,6 +1158,8 @@ www.msguancha.com
 
 mueller-rosentritt.de
 www.mueller-rosentritt.de
+
+mukdating.com
 
 mychinese.news
 www.mychinese.news
