@@ -554,6 +554,8 @@ www.epochtimes.com
 epochtimes.com.tw
 order.epochtimes.com.tw
 www.epochtimes.com.tw
+epochtimes.jp
+www.epochtimes.jp
 
 epochweekly.com
 www.epochweekly.com
