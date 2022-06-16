@@ -62,6 +62,8 @@ absurdopedia.net
 
 liyashen.academia.edu
 
+advchina.net
+
 afnj.org
 www.afnj.org
 
@@ -1493,6 +1495,8 @@ www.toomey.senate.gov
 shahit.biz
 www.shahit.biz
 
+shashankjha.in
+
 shenyun.org
 cs.shenyun.org
 de.shenyun.org
@@ -1593,6 +1597,7 @@ www.stupidedia.org
 
 kevincarrico.substack.com
 samuelbickett.substack.com
+wenhao.substack.com
 
 supportukrainenow.org
 
