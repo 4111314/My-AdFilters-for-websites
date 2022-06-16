@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20220612
+! Version: 20220617
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -27,6 +27,7 @@ abc.net.au
 aboluowang.com
 absurdopedia.net
 liyashen.academia.edu
+advchina.net
 afnj.org
 agribank.com.tw
 allinfa.com
@@ -563,6 +564,7 @@ rubio.senate.gov
 sullivan.senate.gov
 toomey.senate.gov
 shahit.biz
+shashankjha.in
 shenyun.org
 shenyuncreations.com
 shenyunperformingarts.org
@@ -586,6 +588,7 @@ storm.mg
 stupidedia.org
 kevincarrico.substack.com
 samuelbickett.substack.com
+wenhao.substack.com
 supportukrainenow.org
 swissinfo.ch
 symbiosism.com.cn
