@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220612
+! Version: 20220627
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -522,6 +522,9 @@ xiezuo.eddiecheng.net
 eddiewang.ca
 www.eddiewang.ca
 
+eefjerammeloo.nl
+www.eefjerammeloo.nl
+
 eesti.ee
 www.eesti.ee
 
@@ -686,6 +689,9 @@ ftvnews.com.tw
 www.ftvnews.com.tw
 
 !G
+gaoming.net
+www.gaoming.net
+
 gertzfile.com
 www.gertzfile.com
 
@@ -710,6 +716,7 @@ github.com/arvtrn3389
 github.com/awwkk
 github.com/cirosantilli
 github.com/co-memory
+github.com/daiyu886
 github.com/gfw-breaker
 github.com/odoor3
 github.com/ourhimalayas
@@ -1934,6 +1941,7 @@ hkmyinfo.wixsite.com
 
 64tianwang.wordpress.com
 aiyuan.wordpress.com
+co679375098.wordpress.com
 fuh938942067.wordpress.com
 guohaiyancom.wordpress.com
 hexiefarm.wordpress.com
