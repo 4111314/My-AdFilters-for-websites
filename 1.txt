@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20220627
+! Version: 20220717
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -138,6 +138,7 @@ buzzorange.com
 caijinglengyan.com
 caochangqing.com
 carpnow.com
+catman.app
 ccrhm.org
 cdef.org
 cdp1989.org
@@ -153,6 +154,7 @@ chinadecoding.com
 chinadialogue.net
 chinadialogueocean.net
 chinadigitaltimes.net
+chinagfw.org
 chinahrc.org
 chinainperspective.com
 chinanewscenter.com
@@ -307,6 +309,7 @@ dogenationhk.github.io
 dtnews.github.io
 free-xueq-jianb.github.io
 nodebe4.github.io
+outliners.github.io
 ppathole.github.io
 project-gutenberg.github.io/Pincong
 terminus2049.github.io
