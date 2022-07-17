@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220627
+! Version: 20220717
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -267,6 +267,8 @@ www.caochangqing.com
 carpnow.com
 www.carpnow.com
 
+catman.app
+
 ccrhm.org
 
 cdef.org
@@ -312,6 +314,9 @@ www.chinadialogueocean.net
 
 chinadigitaltimes.net
 www.chinadigitaltimes.net
+
+chinagfw.org
+www.chinagfw.org
 
 chinahrc.org
 www.chinahrc.org
@@ -737,6 +742,7 @@ dogenationhk.github.io
 dtnews.github.io/dtnews-zh-cn
 free-xueq-jianb.github.io
 nodebe4.github.io
+outliners.github.io
 project-gutenberg.github.io/Pincong
 terminus2049.github.io
 vozchina.github.io
