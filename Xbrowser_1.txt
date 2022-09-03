@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20220828
+! Version: 20220903
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -350,6 +350,9 @@ www.chinesefeminism.org
 chinesepen.org
 www.chinesepen.org
 
+chrischiu.com
+www.chrischiu.com
+
 christiantimes.org.hk
 www.christiantimes.org.hk
 
@@ -644,6 +647,9 @@ www.fochk.org
 
 forbinfull.org
 www.forbinfull.org
+
+foreignersintaiwan.com
+www.foreignersintaiwan.com
 
 foxnews.com
 www.foxnews.com
@@ -1329,6 +1335,9 @@ www.open.com.hk
 opendemocracy.net
 www.opendemocracy.net
 
+outkick.com
+www.outkick.com
+
 overseasuk.com
 
 ozvoice.org
@@ -1489,6 +1498,8 @@ www.rsf.org
 rthk.hk
 news.rthk.hk
 www.rthk.hk
+
+runapocket.com
 
 !S
 safeguarddefenders.com
