@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20221021
+! Version: 20221024
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -401,6 +401,7 @@ jenreport.com
 jiacheng-laowu.com
 jibencaozuo.com
 jiemian.com
+jiji.com
 jinian64.org
 
 kamelopedia.net
