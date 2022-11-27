@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20221121
+! Version: 20221127
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -432,6 +432,7 @@ lihkg.com
 today.line.me/hk
 liu-xiaobo.org
 liubinyan.com
+liuzhongjing.us
 lnachman.com
 lonecapital.com
 longislandcn.com
@@ -644,6 +645,7 @@ thepaper.cn
 thestandnews.com
 thewatcher.com.my
 thinkingtaiwan.com
+blog.thomasyao.wtf
 tiananmenduizhi.com
 tiananmenmother.org
 tiananmenuniv.com
@@ -755,6 +757,7 @@ wufi.org.tw
 wwf.org.hk
 wwfchina.org
 
+xiao.au
 xinsheng.net
 xizang-zhiye.org
 xmlynz.org
