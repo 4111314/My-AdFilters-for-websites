@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20221127
+! Version: 20221130
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -764,6 +764,8 @@ project-gutenberg.github.io/Pincong
 terminus2049.github.io
 vozchina.github.io
 
+b.gkp.cc
+
 globalvoices.org
 
 gnews.org
@@ -1279,6 +1281,9 @@ www3.nhk.or.jp
 
 ninecommentaries.com
 www.ninecommentaries.com
+
+nisinsheep.com
+www.nisinsheep.com
 
 nmsl.website
 
