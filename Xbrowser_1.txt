@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20221201
+! Version: 20221205
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -310,6 +310,8 @@ www.chinachange.org
 
 chinadecoding.com
 www.chinadecoding.com
+
+chinademocrat.org
 
 chinadialogue.net
 www.chinadialogue.net
@@ -1388,6 +1390,9 @@ mypaper.m.pchome.com.tw
 www.m.pchome.com.tw
 www.pchome.com.tw
 
+pchome1948.com
+www.pchome1948.com
+
 pekepedia.net
 m.pekepedia.net
 
@@ -1457,6 +1462,9 @@ quitccp.jp
 www.quitccp.jp
 
 !R
+radio-canada.ca
+ici.radio-canada.ca
+
 randymulyanto.com
 www.randymulyanto.com
 
@@ -1760,6 +1768,8 @@ www.tiananmenuniv.net
 tiananmenmother.org
 www.tiananmenmother.org
 
+tianliangalliance.org
+
 taiwanogs.com
 www.taiwanogs.com
 
@@ -2017,6 +2027,7 @@ hkmyinfo.wixsite.com
 64tianwang.wordpress.com
 aiyuan.wordpress.com
 co679375098.wordpress.com
+drming13.wordpress.com
 fuh938942067.wordpress.com
 guohaiyancom.wordpress.com
 hexiefarm.wordpress.com
