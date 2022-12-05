@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20221201
+! Version: 20221205
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -156,6 +156,7 @@ channeldraw.org
 chinaaid.net
 chinachange.org
 chinadecoding.com
+chinademocrat.org
 chinadialogue.net
 chinadialogueocean.net
 chinadigitaltimes.net
@@ -538,6 +539,7 @@ wwf.panda.org
 pao-pao.net
 pch.org.tw
 pchome.com.tw
+pchome1948.com
 pekepedia.net
 pen-international.org
 peoplenews.tw
@@ -563,6 +565,7 @@ quan.media
 quanmindaqiyue.com
 quitccp.jp
 
+radio-canada.ca
 randymulyanto.com
 rapbull.net
 rebelpeppercartoons.com
@@ -654,6 +657,7 @@ tiananmenduizhi.com
 tiananmenmother.org
 tiananmenuniv.com
 tiananmenuniv.net
+tianliangalliance.org
 tibet.net
 timednews.com
 tinnybeauty.com
@@ -727,6 +731,7 @@ hkmyinfo.wixsite.com
 64tianwang.wordpress.com
 aiyuan.wordpress.com
 co679375098.wordpress.com
+drming13.wordpress.com
 fuh938942067.wordpress.com
 guohaiyancom.wordpress.com
 hexiefarm.wordpress.com
