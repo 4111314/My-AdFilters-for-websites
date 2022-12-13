@@ -1927,6 +1927,9 @@ issp.uottawa.ca
 upmedia.mg
 www.upmedia.mg
 
+usembassy-china.org.cn
+china.usembassy-china.org.cn
+
 uyghur-j.org
 www.uyghur-j.org
 
