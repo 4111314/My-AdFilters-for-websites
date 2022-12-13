@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20221208
+! Version: 20221213
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -830,6 +830,8 @@ www.gtv.org
 
 guangyancaijing.com
 www.guangyancaijing.com
+
+yunyun8150.gumroad.com
 
 guomindang.org
 www.guomindang.org
