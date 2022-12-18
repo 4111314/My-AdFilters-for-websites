@@ -756,7 +756,7 @@ github.com/smhdla34
 github.com/Terminus2049
 github.com/vote4hk
 github.com/webdao
-https://github.com/yetone
+github.com/yetone
 github.com/zxbl
 
 gitlab.com/kk404
