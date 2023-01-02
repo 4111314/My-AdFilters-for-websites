@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20221222
+! Version: 20230102
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -199,6 +199,7 @@ kokboreboreawazi.blogspot.com
 komlandindependence.blogspot.com
 laorencha.blogspot.com
 lihuaw.blogspot.com
+lilhuanyan.blogspot.com
 lingbaxianzhang.blogspot.com
 lockefollower.blogspot.com
 madaoinjapan.blogspot.com
@@ -212,6 +213,7 @@ orangepost2021.blogspot.com
 otporchina.blogspot.com
 program-think.blogspot.com
 program-thinker.blogspot.com
+revivaltheroc.blogspot.com
 shamaonongmin.blogspot.com
 tianchaopimin.blogspot.com
 tintinicu.blogspot.com
@@ -768,6 +770,7 @@ free-xueq-jianb.github.io
 nodebe4.github.io
 outliners.github.io
 project-gutenberg.github.io/Pincong
+shynur.github.io
 terminus2049.github.io
 vozchina.github.io
 
@@ -1548,6 +1551,8 @@ runapocket.com
 !S
 safeguarddefenders.com
 
+sannamarin.net
+
 scmp.com
 amp.scmp.com
 www.scmp.com
@@ -1708,6 +1713,8 @@ www.taiwannews.com.tw
 
 tamogami-toshio.jp
 www.tamogami-toshio.jp
+
+tchrd.org
 
 technews.tw
 www.technews.tw
@@ -2068,6 +2075,7 @@ pocsupport.wordpress.com
 sarvatravijay.wordpress.com
 sfchoi8964.wordpress.com
 theonlooker174.wordpress.com
+w2084.wordpress.com
 wentommy.wordpress.com
 xsypoet.wordpress.com
 zmt0516.wordpress.com
