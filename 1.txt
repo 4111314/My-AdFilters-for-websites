@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20221222
+! Version: 20230102
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -96,6 +96,7 @@ kokboreboreawazi.blogspot.com
 komlandindependence.blogspot.com
 laorencha.blogspot.com
 lihuaw.blogspot.com
+lilhuanyan.blogspot.com
 lingbaxianzhang.blogspot.com
 lockefollower.blogspot.com
 madaoinjapan.blogspot.com
@@ -327,6 +328,7 @@ nodebe4.github.io
 outliners.github.io
 ppathole.github.io
 project-gutenberg.github.io/Pincong
+shynur.github.io
 terminus2049.github.io
 vozchina.github.io
 b.gkp.cc
@@ -593,6 +595,7 @@ rthk.hk
 runapocket.com
 
 safeguarddefenders.com
+sannamarin.net
 scmp.com
 seccm.org.tw
 secretchina.com
@@ -640,6 +643,7 @@ taiwanenews.com
 taiwannews.com.tw
 taiwanogs.com
 tamogami-toshio.jp
+tchrd.org
 technews.tw
 techsingular.net
 tenchu.org
@@ -760,9 +764,11 @@ noscenotes.wordpress.com
 nzlike.wordpress.com
 phoenixnestca.wordpress.com
 pocsupport.wordpress.com
+revivaltheroc.blogspot.com
 sarvatravijay.wordpress.com
 sfchoi8964.wordpress.com
 theonlooker174.wordpress.com
+w2084.wordpress.com
 wentommy.wordpress.com
 xsypoet.wordpress.com
 zmt0516.wordpress.com
