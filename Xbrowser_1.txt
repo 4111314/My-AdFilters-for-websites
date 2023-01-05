@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230102
+! Version: 20230105
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -73,6 +73,9 @@ www.agribank.com.tw
 allinfa.com
 www.allinfa.com
 
+amnesty.fi
+www.amnesty.fi
+
 amnesty.org
 www.amnesty.org
 zh.amnesty.org
@@ -85,6 +88,9 @@ www.amnesty.tw
 
 amnesty.org.uk
 www.amnesty.org.uk
+
+andrewyang.com
+www.andrewyang.com
 
 anonymous-post.mobi
 www.anonymous-post.mobi
@@ -409,6 +415,8 @@ cnvision.co
 www.cnvision.co
 
 paper.cnwomen.com.cn
+
+codeberg.org/ilovexjp
 
 cofacts.tw
 
@@ -934,6 +942,9 @@ www.hrichina.org
 hrw.org
 www.hrw.org
 
+hs.fi
+www.hs.fi
+
 huaglad.com
 www.huaglad.com
 
@@ -1385,6 +1396,8 @@ ozvoice.org
 www.ozvoice.org
 
 !P
+ilovexjp.pages.dev
+
 wwf.panda.org
 
 pao-pao.net
@@ -1553,6 +1566,9 @@ safeguarddefenders.com
 
 sannamarin.net
 
+sawmillmarket.com
+www.sawmillmarket.com
+
 scmp.com
 amp.scmp.com
 www.scmp.com
@@ -1566,6 +1582,10 @@ www.secretchina.com
 
 blackburn.senate.gov
 www.blackburn.senate.gov
+cotton.senate.gov
+www.cotton.senate.gov
+democraticleader.senate.gov
+www.democraticleader.senate.gov
 rubio.senate.gov
 www.rubio.senate.gov
 sullivan.senate.gov
@@ -1679,6 +1699,7 @@ stupidedia.org
 www.stupidedia.org
 
 aohuazj.substack.com
+edwardsnowden.substack.com
 kevincarrico.substack.com
 samuelbickett.substack.com
 wenhao.substack.com
