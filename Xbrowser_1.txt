@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230119
+! Version: 20230130
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -237,6 +237,7 @@ xliangbo.blogspot.com
 xulin1523.blogspot.com
 yanmingshiping.blogspot.com
 xiaomu2018.blogspot.com
+yibaniba.blogspot.com
 yyyyiiii.blogspot.com
 zhangjialong.blogspot.com
 zhangzuhua.blogspot.com
@@ -696,6 +697,9 @@ www.freemymom.org
 freespeechunion.org
 www.freespeechunion.org
 
+freethinker.co.uk
+www.freethinker.co.uk
+
 freetibet.org
 www.freetibet.org
 
@@ -899,8 +903,10 @@ www.himself65.com
 hk01.com
 www.hk01.com
 
-kh42.com
-www.kh42.com
+hkaid.org.uk
+www.hkaid.org.uk
+
+hkcampaign.org
 
 hkcnews.com
 covid-19.hkcnews.com
@@ -929,6 +935,8 @@ hkrev.info
 hocphapluancong.com
 
 littlestarstarblog.home.blog
+
+hongkongers.org.uk
 
 hongkongfp.com
 www.hongkongfp.com
@@ -1048,6 +1056,9 @@ kannewyork.com
 www.kannewyork.com
 
 kantie.org
+
+kh42.com
+www.kh42.com
 
 king011.com
 book.king011.com
@@ -1496,6 +1507,8 @@ www.randymulyanto.com
 rapbull.net
 www.rapbull.net
 
+rclcommunist.info
+
 rebelpeppercartoons.com
 www.rebelpeppercartoons.com
 
@@ -1695,6 +1708,8 @@ www.stfranciscn.com
 
 stonehoo.me
 www.stonehoo.me
+
+stopuyghurgenocide.uk
 
 storm.mg
 www.storm.mg
@@ -1964,6 +1979,9 @@ issp.uottawa.ca
 upmedia.mg
 www.upmedia.mg
 
+urap.ca
+www.urap.ca
+
 usembassy-china.org.cn
 china.usembassy-china.org.cn
 
@@ -1998,6 +2016,9 @@ www.vct.news
 
 victimsofcommunism.org
 www.victimsofcommunism.org
+
+visegrad24.org
+www.visegrad24.org
 
 visualartistsguild.info
 www.visualartistsguild.info
