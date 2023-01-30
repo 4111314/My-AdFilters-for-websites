@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230119
+! Version: 20230130
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -129,6 +129,7 @@ xliangbo.blogspot.com
 xulin1523.blogspot.com
 yanmingshiping.blogspot.com
 xiaomu2018.blogspot.com
+yibaniba.blogspot.com
 yyyyiiii.blogspot.com
 zhangjialong.blogspot.com
 zhangzuhua.blogspot.com
@@ -284,6 +285,7 @@ freebasuria.org
 freedomhouse.org
 freemymom.org
 freespeechunion.org
+freethinker.co.uk
 freetibet.org
 freewechat.com
 freeweibo.com
@@ -369,7 +371,8 @@ himalayataiwan.org
 himalayaustralia.com.au
 himself65.com
 hk01.com
-kh42.com
+hkaid.org.uk
+hkcampaign.org
 hkcnews.com
 hkctu.org.hk
 hkfront.org
@@ -379,6 +382,7 @@ hkingtec.com
 hkrev.info
 hocphapluancong.com
 littlestarstarblog.home.blog
+hongkongers.org.uk
 hongkongfp.com
 mace.house.gov
 hrichina.org
@@ -422,6 +426,7 @@ jinian64.org
 kamelopedia.net
 kannewyork.com
 kantie.org
+kh42.com
 king011.com
 kingdomsalvation.org
 kirarudik.com
@@ -580,6 +585,7 @@ quitccp.jp
 radio-canada.ca
 randymulyanto.com
 rapbull.net
+rclcommunist.info
 rebelpeppercartoons.com
 redballoonsolidarity.org
 reinhardbuetikofer.eu
@@ -635,6 +641,7 @@ state.gov
 statebuilding.tw
 stfranciscn.com
 stonehoo.me
+stopuyghurgenocide.uk
 storm.mg
 stupidedia.org
 aohuazj.substack.com
@@ -713,6 +720,7 @@ uncyclopedia.tw
 pekinger-fruehling.univie.ac.at
 issp.uottawa.ca
 upmedia.mg
+urap.ca
 usembassy-china.org.cn
 uyghur-j.org
 uyghurbiz.org
@@ -726,6 +734,7 @@ uyghurtribunal.com
 vatican.va
 vct.news
 victimsofcommunism.org
+visegrad24.org
 visualartistsguild.info
 vitalik.ca
 voacantonese.com
