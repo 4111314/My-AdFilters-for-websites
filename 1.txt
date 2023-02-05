@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230130
+! Version: 20230205
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -78,6 +78,7 @@ ceceliasama.blogspot.com
 changjinhu.blogspot.com
 chaptertw.blogspot.com
 china64.blogspot.com
+chinaeconomicpress.blogspot.com
 chinajsm.blogspot.com
 cpajim.blogspot.com
 csdpfujian.blogspot.com
@@ -112,6 +113,7 @@ orangepost2021.blogspot.com
 otporchina.blogspot.com
 program-think.blogspot.com
 program-thinker.blogspot.com
+revivaltheroc.blogspot.com
 shamaonongmin.blogspot.com
 tianchaopimin.blogspot.com
 tintinicu.blogspot.com
@@ -296,6 +298,7 @@ ftchinese.com
 ftchineselive.com
 ftvnews.com.tw
 
+ganjing.com
 gaoming.net
 gertzfile.com
 getfdp.today
@@ -687,6 +690,7 @@ tiananmenuniv.com
 tiananmenuniv.net
 tianliangalliance.org
 tibet.net
+tibetrightscollective.in
 timednews.com
 tinnybeauty.com
 tj-jxyl.com
@@ -785,13 +789,13 @@ noscenotes.wordpress.com
 nzlike.wordpress.com
 phoenixnestca.wordpress.com
 pocsupport.wordpress.com
-revivaltheroc.blogspot.com
 sarvatravijay.wordpress.com
 sfchoi8964.wordpress.com
 theonlooker174.wordpress.com
 w2084.wordpress.com
 wentommy.wordpress.com
 xsypoet.wordpress.com
+zgjjbsnc.wordpress.com
 zmt0516.wordpress.com
 worldcitizen.fr
 wqgm.org
