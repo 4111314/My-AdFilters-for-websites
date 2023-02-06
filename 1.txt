@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230205
+! Version: 20230206
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -516,6 +516,7 @@ necyklopedie.org
 ned.org
 netalert.me
 wallockman.netlify.app
+newhongqi.org
 newpowerparty.tw
 newsgni.com
 newtalk.tw
@@ -648,6 +649,7 @@ stopuyghurgenocide.uk
 storm.mg
 stupidedia.org
 aohuazj.substack.com
+chinaexplained.substack.com
 edwardsnowden.substack.com
 kevincarrico.substack.com
 samuelbickett.substack.com
@@ -771,6 +773,7 @@ co679375098.wordpress.com
 drming13.wordpress.com
 fuh938942067.wordpress.com
 guohaiyancom.wordpress.com
+hamletmkey.wordpress.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
 hqsb5site.wordpress.com
