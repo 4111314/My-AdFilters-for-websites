@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230205
+! Version: 20230206
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -1301,6 +1301,8 @@ www.netalert.me
 
 wallockman.netlify.app
 
+newhongqi.org
+
 newpowerparty.tw
 www.newpowerparty.tw
 
@@ -1722,6 +1724,7 @@ stupidedia.org
 www.stupidedia.org
 
 aohuazj.substack.com
+chinaexplained.substack.com
 edwardsnowden.substack.com
 kevincarrico.substack.com
 samuelbickett.substack.com
@@ -2109,6 +2112,7 @@ co679375098.wordpress.com
 drming13.wordpress.com
 fuh938942067.wordpress.com
 guohaiyancom.wordpress.com
+hamletmkey.wordpress.com
 hexiefarm.wordpress.com
 hka8964.wordpress.com
 hqsb5site.wordpress.com
