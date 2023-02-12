@@ -625,6 +625,8 @@ secretchina.com
 blackburn.senate.gov
 cotton.senate.gov
 democraticleader.senate.gov
+durbin.senate.gov
+markey.senate.gov
 rubio.senate.gov
 sullivan.senate.gov
 toomey.senate.gov
@@ -732,6 +734,7 @@ pekinger-fruehling.univie.ac.at
 issp.uottawa.ca
 upmedia.mg
 urap.ca
+uscirf.gov
 usembassy-china.org.cn
 uyghur-j.org
 uyghurbiz.org
@@ -740,6 +743,7 @@ uyghurhjelp.org
 uyghurnet.org
 uyghurpress.com
 uyghursfoundation.org
+uyghurstudy.org
 uyghurtribunal.com
 
 vatican.va
