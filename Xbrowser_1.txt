@@ -805,6 +805,8 @@ godfootsteps.org
 en.godfootsteps.org
 www.godfootsteps.org
 
+gofundtaiwan.com
+
 gogo-ichiro.com
 www.gogo-ichiro.com
 
@@ -1018,6 +1020,9 @@ inori.life
 ipkmedia.com
 www.ipkmedia.com
 
+iri.org
+www.iri.org
+
 iset.com.tw
 blog.iset.com.tw
 m.settv.com.tw
@@ -1160,6 +1165,8 @@ lzjscript.com
 www.lzjscript.com
 
 !M
+maarip.org
+
 malaysiakini.com
 m.malaysiakini.com
 www.malaysiakini.com
