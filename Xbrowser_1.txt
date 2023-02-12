@@ -1617,6 +1617,10 @@ cotton.senate.gov
 www.cotton.senate.gov
 democraticleader.senate.gov
 www.democraticleader.senate.gov
+durbin.senate.gov
+www.durbin.senate.gov
+markey.senate.gov
+www.markey.senate.gov
 rubio.senate.gov
 www.rubio.senate.gov
 sullivan.senate.gov
@@ -2000,6 +2004,9 @@ www.upmedia.mg
 urap.ca
 www.urap.ca
 
+uscirf.gov
+www.uscirf.gov
+
 usembassy-china.org.cn
 china.usembassy-china.org.cn
 
@@ -2020,6 +2027,8 @@ www.uyghurnet.org
 uyghurpress.com
 
 uyghursfoundation.org
+
+uyghurstudy.org
 
 uyghurtribunal.com
 www.uyghurtribunal.com
