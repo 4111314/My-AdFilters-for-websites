@@ -348,6 +348,7 @@ shynur.github.io
 terminus2049.github.io
 vozchina.github.io
 b.gkp.cc
+globaltaiwan.org
 globalvoices.org
 gnews.org
 godfootsteps.org
@@ -601,6 +602,7 @@ quanmindaqiyue.com
 quitccp.jp
 
 radio-canada.ca
+wiki.rakusu.org
 randymulyanto.com
 rapbull.net
 rclcommunist.info
