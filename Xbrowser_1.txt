@@ -802,6 +802,8 @@ vozchina.github.io
 
 b.gkp.cc
 
+globaltaiwan.org
+
 globalvoices.org
 
 gnews.org
@@ -1527,6 +1529,8 @@ www.quitccp.jp
 !R
 radio-canada.ca
 ici.radio-canada.ca
+
+wiki.rakusu.org
 
 randymulyanto.com
 www.randymulyanto.com
