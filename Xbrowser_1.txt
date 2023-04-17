@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230212
+! Version: 20230417
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -195,6 +195,7 @@ fangzhouzi-xys.blogspot.com
 forgetfulbc.blogspot.com
 freecgc.blogspot.com
 fuzhibin.blogspot.com
+g6m3kimo.blogspot.com
 guxiaojun538.blogspot.com
 home-schooling-chinese.blogspot.com
 huanxueshil.blogspot.com
@@ -1778,6 +1779,11 @@ taiwannews.com.tw
 directory.taiwannews.com.tw
 www.taiwannews.com.tw
 
+taiwanogs.com
+
+taiwanplus.com
+www.taiwanplus.com
+
 tamogami-toshio.jp
 www.tamogami-toshio.jp
 
@@ -1907,6 +1913,8 @@ www.tuidang.org
 
 tvmost.com.hk
 www.tvmost.com.hk
+
+tw.plus
 
 twmemory.org
 www.twmemory.org
