@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230212
+! Version: 20230417
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -88,6 +88,7 @@ fangzhouzi-xys.blogspot.com
 forgetfulbc.blogspot.com
 freecgc.blogspot.com
 fuzhibin.blogspot.com
+g6m3kimo.blogspot.com
 guxiaojun538.blogspot.com
 home-schooling-chinese.blogspot.com
 huanxueshil.blogspot.com
@@ -676,6 +677,7 @@ taiwangoodlife.org
 taiwanenews.com
 taiwannews.com.tw
 taiwanogs.com
+taiwanplus.com
 tamogami-toshio.jp
 tchrd.org
 technews.tw
@@ -717,6 +719,7 @@ tsquare.tv
 tsu.org.tw
 tuidang.org
 tvmost.com.hk
+tw.plus
 twmemory.org
 twport.com.tw
 twreporter.org
