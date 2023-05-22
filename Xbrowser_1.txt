@@ -625,25 +625,22 @@ lernen.falundafa.at
 
 falundafa.ca
 www.falundafa.ca
-
 falundafa.org
 en.falundafa.org
 es.falundafa.org
 gb.falundafa.org
 ko.falundafa.org
 www.falundafa.org
+falundafa.org.my
+www.falundafa.org.my
+falundafa.org.tw
+www.falundafa.org.tw
 
 falundafa-dc.org
 www.falundafa-dc.org
 
 faluninfo.or.kr
 www.faluninfo.or.kr
-
-falundafa.org.my
-www.falundafa.org.my
-
-falundafa.org.tw
-www.falundafa.org.tw
 
 fangkc.com
 www.fangkc.com
