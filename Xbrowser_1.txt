@@ -1380,13 +1380,10 @@ ntdtv.com
 cn.ntdtv.com
 m.ntdtv.com
 www.ntdtv.com
-
 ntdtv.com.tw
 www.ntdtv.com.tw
-
 ntdtv.cz
 www.ntdtv.cz
-
 ntdtv.jp
 m.ntdtv.jp
 www.ntdtv.jp
