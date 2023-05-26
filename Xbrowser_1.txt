@@ -1780,6 +1780,7 @@ directory.taiwannews.com.tw
 www.taiwannews.com.tw
 
 taiwanogs.com
+www.taiwanogs.com
 
 taiwanplus.com
 www.taiwanplus.com
@@ -1861,9 +1862,6 @@ tiananmenuniv.net
 www.tiananmenuniv.net
 
 tianliangalliance.org
-
-taiwanogs.com
-www.taiwanogs.com
 
 tibet.net
 www.tibet.net
