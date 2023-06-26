@@ -936,9 +936,6 @@ hkin.uk
 www.hkin.uk
 
 hkingtec.com
-bbs.wenxuecity.com
-blog.wenxuecity.com
-groups.wenxuecity.com
 www.hkingtec.com
 
 hkrev.info
@@ -2123,6 +2120,9 @@ weiwuer.com
 www.weiwuer.com
 
 wenxuecity.com
+bbs.wenxuecity.com
+blog.wenxuecity.com
+groups.wenxuecity.com
 m.wenxuecity.com
 www.wenxuecity.com
 
