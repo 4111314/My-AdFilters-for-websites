@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230502
+! Version: 20230626
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -1640,6 +1640,8 @@ www.shahit.biz
 
 shashankjha.in
 
+shenyun.com
+zh-cn.shenyun.com
 shenyun.org
 cs.shenyun.org
 de.shenyun.org
@@ -1658,7 +1660,7 @@ pt.shenyun.org
 ru.shenyun.org
 sv.shenyun.org
 vi.shenyun.org
-zh-cn.shenyun.com
+zh-cn.shenyun.org
 zh-tw.shenyun.org
 
 shenyuncreations.com
@@ -1848,6 +1850,7 @@ www.thewatcher.com.my
 thinkingtaiwan.com
 www.thinkingtaiwan.com
 
+thomasyao.wtf
 blog.thomasyao.wtf
 
 tiananmenduizhi.com
@@ -2254,7 +2257,10 @@ www.zakzak.co.jp
 
 zaobao.com
 www.zaobao.com
+zaobao.com.sg
+www.zaobao.com.sg
 zaobao.sg
+www.zaobao.sg
 
 zeczec.com
 www.zeczec.com
