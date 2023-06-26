@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230502
+! Version: 20230626
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -643,6 +643,7 @@ sullivan.senate.gov
 toomey.senate.gov
 shahit.biz
 shashankjha.in
+shenyun.com
 shenyun.org
 shenyuncreations.com
 shenyunperformingarts.org
@@ -705,7 +706,7 @@ thepaper.cn
 thestandnews.com
 thewatcher.com.my
 thinkingtaiwan.com
-blog.thomasyao.wtf
+thomasyao.wtf
 tiananmenduizhi.com
 tiananmenmother.org
 tiananmenuniv.com
@@ -854,6 +855,7 @@ yzzk.com
 
 zakzak.co.jp
 zaobao.com
+zaobao.com.sg
 zaobao.sg
 zeczec.com
 zerohedge.com
