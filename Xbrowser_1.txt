@@ -1023,8 +1023,6 @@ www.iri.org
 
 iset.com.tw
 blog.iset.com.tw
-m.settv.com.tw
-www.settv.com.tw
 
 ishr.ch
 www.ishr.ch
@@ -1631,6 +1629,9 @@ sullivan.senate.gov
 www.sullivan.senate.gov
 toomey.senate.gov
 www.toomey.senate.gov
+
+m.settv.com.tw
+www.settv.com.tw
 
 shahit.biz
 www.shahit.biz
