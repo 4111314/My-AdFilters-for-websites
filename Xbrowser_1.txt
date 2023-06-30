@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230626
+! Version: 20230630
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -309,8 +309,6 @@ centralnation.com
 www.centralnation.com
 
 cgu.edu.tw
-cmuh.cmu.edu.tw
-www.cmuh.cmu.edu.tw
 rcevi.cgu.edu.tw
 
 channeldraw.org
@@ -400,6 +398,9 @@ cmcn.blog
 www.cmcn.blog
 cmcn.org
 www.cmcn.org
+
+cmuh.cmu.edu.tw
+www.cmuh.cmu.edu.tw
 
 cna.com.tw
 mjapan.cna.com.tw
