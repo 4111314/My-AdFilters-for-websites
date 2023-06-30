@@ -1023,6 +1023,7 @@ www.iri.org
 
 iset.com.tw
 blog.iset.com.tw
+www.iset.com.tw
 
 ishr.ch
 www.ishr.ch
