@@ -185,6 +185,7 @@ china64.blogspot.com
 chinaeconomicpress.blogspot.com
 chinajsm.blogspot.com
 cpajim.blogspot.com
+cprpofficial.blogspot.com
 csdpfujian.blogspot.com
 debunkingbendnotbreak.blogspot.com
 doomsday-specter.blogspot.com
@@ -249,6 +250,7 @@ yyyyiiii.blogspot.com
 zhangjialong.blogspot.com
 zhangzuhua.blogspot.com
 zhongweiguang.blogspot.com
+zhongweiguang2020.blogspot.com
 zhu-ruiblog.blogspot.com
 
 bnext.com.tw
@@ -586,6 +588,8 @@ www.enanyang.my
 endccp.com
 www.endccp.com
 
+engin-eroglu.de
+
 epochtimes.co.uk
 www.epochtimes.co.uk
 epochtimes.com
@@ -620,6 +624,9 @@ www.etnet.com.hk
 
 europarl.europa.eu
 www.europarl.europa.eu
+
+europeanvalues.cz
+europeanvalues.net
 
 expecthim.com
 www.expecthim.com
@@ -769,9 +776,11 @@ github.com/awwkk
 github.com/cirosantilli
 github.com/co-memory
 github.com/daiyu886
+github.com/DTNEWS
 github.com/gfw-breaker
 github.com/john-guo
 github.com/Leask
+github.com/LiuZhongjing
 github.com/odoor3
 github.com/ourhimalayas
 github.com/Pangu2020together
@@ -1215,6 +1224,7 @@ www.mingdemedia.org
 
 minghui.org
 big5.minghui.org
+window.minghui.org
 www.minghui.org
 
 mingjinglive.com
