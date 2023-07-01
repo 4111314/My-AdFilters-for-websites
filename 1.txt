@@ -242,6 +242,10 @@ disp.cc
 dj-llcintegralservices.com
 dphk.org
 dpp.org.tw
+dppkh.org.tw
+dppnff.tw
+dppnt.org.tw
+dpptaipei.org.tw
 drmacaca.com
 drrichardchan.com.au
 drsu.blog
@@ -705,6 +709,7 @@ taiwanenews.com
 taiwannews.com.tw
 taiwanogs.com
 taiwanplus.com
+taiwanrenewal.org.tw
 tamogami-toshio.jp
 tchrd.org
 technews.tw
@@ -861,6 +866,7 @@ xiao.au
 xinsheng.net
 xizang-zhiye.org
 xmlynz.org
+xn--fiq43l9wjitokt6bk5ay86dda.tw
 xn--iiqw11btwnptx.com
 xwtex.com
 
