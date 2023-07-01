@@ -533,6 +533,16 @@ www.dphk.org
 dpp.org.tw
 www.dpp.org.tw
 
+dppkh.org.tw
+
+dppnff.tw
+www.dppnff.tw
+
+dppnt.org.tw
+www.dppnt.org.tw
+
+dpptaipei.org.tw
+
 drmacaca.com
 www.drmacaca.com
 
@@ -1815,6 +1825,9 @@ www.taiwanogs.com
 taiwanplus.com
 www.taiwanplus.com
 
+taiwanrenewal.org.tw
+www.taiwanrenewal.org.tw
+
 tamogami-toshio.jp
 www.tamogami-toshio.jp
 
@@ -2247,6 +2260,9 @@ www.xizang-zhiye.org
 
 xmlynz.org
 www.xmlynz.org
+
+xn--fiq43l9wjitokt6bk5ay86dda.tw
+www.xn--fiq43l9wjitokt6bk5ay86dda.tw
 
 xn--iiqw11btwnptx.com
 www.xn--iiqw11btwnptx.com
