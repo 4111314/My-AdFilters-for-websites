@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230630
+! Version: 20230701
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -172,6 +172,7 @@ aboutyingxueziqi.blogspot.com
 aixiaomingstudio.blogspot.com
 allmockingjay.blogspot.com
 almightygodisknockingyourdoor.blogspot.com
+b2broom.blogspot.com
 benlakuang.blogspot.com
 beyondhighwall.blogspot.com
 bloodundersnow.blogspot.com
@@ -187,6 +188,7 @@ cpajim.blogspot.com
 csdpfujian.blogspot.com
 debunkingbendnotbreak.blogspot.com
 doomsday-specter.blogspot.com
+doublechiang.blogspot.com
 fangzhouzi-xys.blogspot.com
 forgetfulbc.blogspot.com
 freecgc.blogspot.com
@@ -197,6 +199,7 @@ guxiaojun538.blogspot.com
 home-schooling-chinese.blogspot.com
 huanxueshil.blogspot.com
 jasmineplaces.blogspot.com
+jasper-note.blogspot.com
 jiangangpl.blogspot.com
 jianglinarticles.blogspot.com
 jianmang.blogspot.com
@@ -234,6 +237,7 @@ wibcn.blogspot.com
 wonderverge.blogspot.com
 wqw2010.blogspot.com
 wrwd2020.blogspot.com
+wukongtuwen.blogspot.com
 wutongnorthwind.blogspot.com
 xiexuanjun.blogspot.com
 xliangbo.blogspot.com
