@@ -712,6 +712,8 @@ www.freebasuria.org
 freedomhouse.org
 www.freedomhouse.org
 
+freemilesguo.org
+
 freemymom.org
 www.freemymom.org
 
@@ -825,6 +827,9 @@ www.gnews.org
 godfootsteps.org
 en.godfootsteps.org
 www.godfootsteps.org
+
+godsdirectcontact.org
+www.godsdirectcontact.org
 
 gofundtaiwan.com
 
@@ -945,6 +950,9 @@ www.hkcnews.com
 
 hkctu.org.hk
 www.hkctu.org.hk
+
+hkdc.us
+www.hkdc.us
 
 hkfront.org
 www.hkfront.org
@@ -2198,6 +2206,7 @@ pocsupport.wordpress.com
 sarvatravijay.wordpress.com
 sfchoi8964.wordpress.com
 theonlooker174.wordpress.com
+tmantu.wordpress.com
 w2084.wordpress.com
 wentommy.wordpress.com
 xsypoet.wordpress.com
