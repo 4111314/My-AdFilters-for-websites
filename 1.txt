@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230701
+! Version: 20230702
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -159,10 +159,12 @@ bowenpress.com
 boxun.com
 bryandeanwright.com
 bumeizhiye.com
+bumingbai.net
 businesstoday.com.tw
 buzzorange.com
 
 caijinglengyan.com
+cald.org
 caochangqing.com
 carpnow.com
 catman.app
@@ -250,6 +252,7 @@ dppusw.net
 drmacaca.com
 drrichardchan.com.au
 drsu.blog
+duihua.org
 duping.net
 dw.com
 dwnews.com
@@ -715,6 +718,7 @@ tamogami-toshio.jp
 tchrd.org
 technews.tw
 techsingular.net
+telltaiwan.org
 tenchu.org
 terroralarm.org
 tfc-taiwan.org.tw
