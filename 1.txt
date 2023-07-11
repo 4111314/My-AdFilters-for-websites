@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230702
+! Version: 20230711
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -116,6 +116,7 @@ lockefollower.blogspot.com
 madaoinjapan.blogspot.com
 militaryidvtw.blogspot.com
 minghillwill.blogspot.com
+mirrorflower.blogspot.com
 moments-of-samsara.blogspot.com
 newera852.blogspot.com
 newsworthknowingcn.blogspot.com
@@ -132,6 +133,7 @@ tianchaopimin.blogspot.com
 tintinicu.blogspot.com
 tongtian321.blogspot.com
 toyforgorden.blogspot.com
+uchangekeelung.blogspot.com
 unclewaanginphuket.blogspot.com
 v515467.blogspot.com
 wibcn.blogspot.com
@@ -175,8 +177,10 @@ cecc.gov
 ceciliayu.com
 cedarhill.io
 centralnation.com
+cfr.org
 cgu.edu.tw
 channeldraw.org
+chickeeduck.com
 chinaaid.net
 chinachange.org
 chinadecoding.com
@@ -369,6 +373,7 @@ project-gutenberg.github.io/Pincong
 shynur.github.io
 terminus2049.github.io
 vozchina.github.io
+wkliang.github.io
 gitlab.com/kk404
 b.gkp.cc
 globaltaiwan.org
@@ -421,7 +426,9 @@ hkrev.info
 hocphapluancong.com
 littlestarstarblog.home.blog
 hongkongers.org.uk
+hongkongerstation.com
 hongkongfp.com
+hongkongwatch.org
 mace.house.gov
 markgreen.house.gov
 mcgovern.house.gov
@@ -748,6 +755,7 @@ timednews.com
 tinnybeauty.com
 tj-jxyl.com
 tolololpedia.org
+tomchentw.com
 tdys.tomosware.com
 top1health.com
 trt.net.tr
