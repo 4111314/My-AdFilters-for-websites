@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230711
+! Version: 20230720
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -335,6 +335,9 @@ rcevi.cgu.edu.tw
 
 channeldraw.org
 www.channeldraw.org
+
+charlesdunst.com
+www.charlesdunst.com
 
 chickeeduck.com
 
@@ -685,6 +688,8 @@ www.falundafa-dc.org
 
 faluninfo.or.kr
 www.faluninfo.or.kr
+
+familyfed.org
 
 fangkc.com
 www.fangkc.com
@@ -1065,6 +1070,8 @@ fo.ikkepedia.org
 is.ikkepedia.org
 m.ikkepedia.org
 
+ikuantao.org.tw
+
 iloveosaka.jp
 www.iloveosaka.jp
 
@@ -1378,6 +1385,8 @@ netalert.me
 www.netalert.me
 
 wallockman.netlify.app
+
+neversurrender.tw
 
 newhongqi.org
 
@@ -1808,6 +1817,8 @@ stopuyghurgenocide.uk
 storm.mg
 www.storm.mg
 
+studentsforafreetibet.org
+
 stupidedia.org
 www.stupidedia.org
 
@@ -1827,6 +1838,9 @@ symbiosism.com.cn
 www.symbiosism.com.cn
 
 !T
+taipeitimes.com
+www.taipeitimes.com
+
 taiwanbar.cc
 www.taiwanbar.cc
 
@@ -1859,6 +1873,8 @@ www.taiwanrenewal.org.tw
 
 tamogami-toshio.jp
 www.tamogami-toshio.jp
+
+tbsn.org
 
 tchrd.org
 
@@ -1941,6 +1957,9 @@ tianliangalliance.org
 
 tibet.net
 www.tibet.net
+
+tibetanyouthcongress.org
+www.tibetanyouthcongress.org
 
 tibetrightscollective.in
 www.tibetrightscollective.in
@@ -2088,6 +2107,8 @@ zh.uncyclopedia.info
 uncyclopedia.tw
 m.uncyclopedia.tw
 
+unification.org.tw
+
 pekinger-fruehling.univie.ac.at
 
 issp.uottawa.ca
@@ -2221,6 +2242,9 @@ williamlong.info
 www.williamlong.info
 
 wisconsinexaminer.com
+
+with.org
+www.with.org
 
 hkmyinfo.wixsite.com
 
