@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230711
+! Version: 20230720
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -180,6 +180,7 @@ centralnation.com
 cfr.org
 cgu.edu.tw
 channeldraw.org
+charlesdunst.com
 chickeeduck.com
 chinaaid.net
 chinachange.org
@@ -298,6 +299,7 @@ falundafa.org.my
 falundafa.org.tw
 falundafa-dc.org
 faluninfo.or.kr
+familyfed.org
 fangkc.com
 110101195306153019.blog.fc2.com
 fccchina.org
@@ -449,6 +451,7 @@ ifex.org
 ifj.org
 iiss.org
 ikkepedia.org
+ikuantao.org.tw
 iloveosaka.jp
 inciclopedia.org
 inciklopedia.org
@@ -564,6 +567,7 @@ necyklopedie.org
 ned.org
 netalert.me
 wallockman.netlify.app
+neversurrender.tw
 newhongqi.org
 newpowerparty.tw
 newsgni.com
@@ -702,6 +706,7 @@ stfranciscn.com
 stonehoo.me
 stopuyghurgenocide.uk
 storm.mg
+studentsforafreetibet.org
 stupidedia.org
 aohuazj.substack.com
 chinaexplained.substack.com
@@ -713,6 +718,7 @@ supportukrainenow.org
 swissinfo.ch
 symbiosism.com.cn
 
+taipeitimes.com
 taiwanbar.cc
 taiwanembassy.org
 taiwaneseamericanhistory.org
@@ -724,6 +730,7 @@ taiwanogs.com
 taiwanplus.com
 taiwanrenewal.org.tw
 tamogami-toshio.jp
+tbsn.org
 tchrd.org
 technews.tw
 techsingular.net
@@ -751,6 +758,7 @@ tiananmenuniv.com
 tiananmenuniv.net
 tianliangalliance.org
 tibet.net
+tibetanyouthcongress.org
 tibetrightscollective.in
 tibetsociety.com
 timednews.com
@@ -785,6 +793,7 @@ uncyclopedia.com
 uncyclopedia.hk
 uncyclopedia.info
 uncyclopedia.tw
+unification.org.tw
 pekinger-fruehling.univie.ac.at
 issp.uottawa.ca
 upmedia.mg
@@ -832,6 +841,7 @@ wforum.com
 whitepaperinkorea.com
 williamlong.info
 wisconsinexaminer.com
+with.org
 hkmyinfo.wixsite.com
 2020getout.wordpress.com
 64tianwang.wordpress.com
