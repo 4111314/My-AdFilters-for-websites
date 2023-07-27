@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230720
+! Version: 20230727
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -129,6 +129,7 @@ revivaltheroc.blogspot.com
 rmsxj.blogspot.com
 sangjey.blogspot.com
 shamaonongmin.blogspot.com
+taiwanmatters.blogspot.com
 tianchaopimin.blogspot.com
 tintinicu.blogspot.com
 tongtian321.blogspot.com
@@ -183,6 +184,7 @@ channeldraw.org
 charlesdunst.com
 chickeeduck.com
 chinaaid.net
+chinaaid.org
 chinachange.org
 chinadecoding.com
 chinademocrat.org
@@ -612,6 +614,7 @@ ozvoice.org
 ilovexjp.pages.dev
 wwf.panda.org
 pao-pao.net
+08charter-tw.pbworks.com
 pch.org.tw
 pchome.com.tw
 pchome1948.com
