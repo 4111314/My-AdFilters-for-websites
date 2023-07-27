@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230720
+! Version: 20230727
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -235,6 +235,7 @@ revivaltheroc.blogspot.com
 rmsxj.blogspot.com
 sangjey.blogspot.com
 shamaonongmin.blogspot.com
+taiwanmatters.blogspot.com
 tianchaopimin.blogspot.com
 tintinicu.blogspot.com
 tongtian321.blogspot.com
@@ -343,6 +344,8 @@ chickeeduck.com
 
 chinaaid.net
 www.chinaaid.net
+chinaaid.org
+www.chinaaid.org
 
 chinachange.org
 www.chinachange.org
@@ -1512,6 +1515,8 @@ wwf.panda.org
 
 pao-pao.net
 www.pao-pao.net
+
+08charter-tw.pbworks.com
 
 pch.org.tw
 www.pch.org.tw
