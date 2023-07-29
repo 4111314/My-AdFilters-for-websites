@@ -23,6 +23,7 @@ blog.3dgowl.com
 6parkbbs.com
 8964museum.com
 8964tiananmen.com
+9video.net
 
 aadilbrar.com
 abc.net.au
@@ -149,6 +150,7 @@ xulin1523.blogspot.com
 yanmingshiping.blogspot.com
 xiaomu2018.blogspot.com
 yibaniba.blogspot.com
+yjhpd.blogspot.com
 yyyyiiii.blogspot.com
 zhangjialong.blogspot.com
 zhangzuhua.blogspot.com
@@ -224,6 +226,7 @@ cofacts.tw
 commonhealth.com.tw
 89.64.charter.constitutionalism.solutions
 williamyang.contently.com
+cophinebw.space
 cpj.org
 creaders.net
 csxq.com
@@ -727,13 +730,14 @@ taipeitimes.com
 taiwanbar.cc
 taiwanembassy.org
 taiwaneseamericanhistory.org
+taiwanenews.com
 taiwanforever.org.tw
 taiwangoodlife.org
-taiwanenews.com
 taiwannews.com.tw
 taiwanogs.com
 taiwanplus.com
 taiwanrenewal.org.tw
+taiwantda.org.tw
 tamogami-toshio.jp
 tbsn.org
 tchrd.org
@@ -746,6 +750,7 @@ tfc-taiwan.org.tw
 tfd.org.tw
 tgpa.org.tw
 theaiorganization.com
+thecfhk.org
 theepochtimes.com
 thegatewaypundit.com
 theglobeandmail.com
