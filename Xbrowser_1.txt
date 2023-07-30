@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20230729
+! Version: 20230730
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -320,6 +320,9 @@ www.cdef.org
 
 cdp1989.org
 www.cdp1989.org
+
+cdpweb.org
+www.cdpweb.org
 
 cecc.gov
 www.cecc.gov
@@ -836,6 +839,7 @@ github.com/co-memory
 github.com/daiyu886
 github.com/DTNEWS
 github.com/gfw-breaker
+github.com/hello-world-1989
 github.com/john-guo
 github.com/Leask
 github.com/LiuZhongjing
@@ -1166,6 +1170,9 @@ kannewyork.com
 www.kannewyork.com
 
 kantie.org
+
+kathywcheng.com
+www.kathywcheng.com
 
 kh42.com
 www.kh42.com
