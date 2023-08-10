@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_5
 ! Expires: 1 days
-! Version: 20230730
+! Version: 20230810
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -32,6 +32,8 @@ www.microsoft.com/store/productId/
 office.com
 
 microsoft365.com
+
+xvideos.com
 
 zongheng.com
 www.zongheng.com
