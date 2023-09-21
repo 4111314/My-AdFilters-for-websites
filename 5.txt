@@ -8,6 +8,8 @@
 9crenti.com
 x.9crenti.com
 
+www.baidu.com
+
 cn.bing.com
 www.bing.com
 
@@ -40,6 +42,9 @@ www.zongheng.com
 
 zhihu.com
 www.zhihu.com
+
+apple.com
+apple.com.cn
 
 twitter.com
 
