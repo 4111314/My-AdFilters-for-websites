@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for websites_1
 ! Expires: 1 days
-! Version: 20230730
+! Version: 20231003
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 ! 对二级域名进行排序，不考虑根域名（如.com,.edu,.org,或.cn,.hk,或.com.hk,.co.uk）
@@ -574,6 +574,7 @@ maddog.myradio.hk
 ultra8964.mystrikingly.com
 
 nagashima21.net
+natpa.org
 nccu.edu.tw
 nchrd.org
 nchugloria.com
@@ -632,6 +633,7 @@ pao-pao.net
 pch.org.tw
 pchome.com.tw
 pchome1948.com
+pct.org.tw
 pekepedia.net
 pen-international.org
 peoplenews.tw
@@ -749,6 +751,7 @@ taiwanplus.com
 taiwanrenewal.org.tw
 taiwantda.org.tw
 tamogami-toshio.jp
+taup.net
 tbsn.org
 tchrd.org
 technews.tw
@@ -797,6 +800,7 @@ tuidang.org
 tvmost.com.hk
 tw.plus
 twmemory.org
+twnorth.org.tw
 twport.com.tw
 twreporter.org
 typcn.org
