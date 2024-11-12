@@ -40,6 +40,10 @@ www.kanmaoxian.com
 
 tieba.baidu.com
 
+douyin.com
+v.douyin.com
+www.douyin.com
+
 translate.google.cn
 
 play.google.com
