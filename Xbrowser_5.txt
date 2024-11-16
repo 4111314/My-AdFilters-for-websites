@@ -35,10 +35,6 @@ www.kanmaoxian.com
 
 tieba.baidu.com
 
-douyin.com
-v.douyin.com
-www.douyin.com
-
 translate.google.cn
 
 play.google.com
@@ -71,6 +67,14 @@ apple.com
 www.apple.com
 apple.com.cn
 www.apple.com.cn
+
+douyin.com
+v.douyin.com
+www.douyin.com
+
+iqiyi.com
+vip.iqiyi.com
+www.iqiyi.com
 
 twitter.com
 
