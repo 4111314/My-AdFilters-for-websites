@@ -82,6 +82,12 @@ iqiyi.com
 vip.iqiyi.com
 www.iqiyi.com
 
+meituan.com
+www.meituan.com
+
+tmall.com
+www.tmall.com
+
 twitter.com
 
 zhihu.com
