@@ -75,6 +75,9 @@ douyin.com
 v.douyin.com
 www.douyin.com
 
+facebook.com
+www.facebook.com
+
 iqiyi.com
 vip.iqiyi.com
 www.iqiyi.com
