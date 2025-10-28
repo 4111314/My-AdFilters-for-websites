@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! title: My AdFilters for Xbrowser
 ! Expires: 1 days
-! Version: 20251011
+! Version: 20251028
 ! 本规则是为了屏蔽一些网站，只是借用了去广告的功能
 ! Homepage: https://github.com/4111314/My-AdFilters-for-websites
 
@@ -51,6 +51,9 @@ www.microsoft365.com
 onedrive.com
 www.onedrive.com
 onedrive.live.com
+
+onenote.com
+www.onenote.com
 
 taobao.com
 www.taobao.com
